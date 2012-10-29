@@ -1,9 +1,4771 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.1_2" segtype="paragraph" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.5.5_3" segtype="paragraph" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>%0 book</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T183016Z">
+        <seg>%0 кніга</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%0 book (%1)</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T183003Z">
+        <seg>%0 кніга (%1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%0 books</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T183022Z">
+        <seg>%0 кніг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%0 books (%1)</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T183011Z">
+        <seg>%0 кніг (%1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%s byte</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201243Z">
+        <seg>%s байт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%s bytes</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201249Z">
+        <seg>%s байтаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%s kB</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201256Z">
+        <seg>%s кБ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;&lt;l1&gt;FBReader&lt;/l1&gt;&lt;/a0&gt; &lt;b2&gt;About FBReaderJ&lt;/b2&gt; &lt;l3&gt;en&lt;/l3&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T072202Z">
+        <seg>&lt;a0&gt;&lt;l1&gt;FBReader&lt;/l1&gt;&lt;/a0&gt; &lt;b2&gt;Пра FBReaderJ&lt;/b2&gt; &lt;l3&gt;be&lt;/l3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;FBReader's Menu&lt;/a0&gt; allows you to navigate through libraries and to control the application. If your device has no hardware &lt;c1&gt;Menu&lt;/c1&gt; button, touch bottom-center part of the screen to run menu.</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T074827Z">
+        <seg>&lt;a0&gt;Мэню FBReader&lt;/a0&gt; дазваляе Вам вандраваць па бібліятэках і кіраваць праграмай. Калі Вашая прылада ня мае апаратнай кнопкі &lt;c1&gt;Мэню&lt;/c1&gt;, дакраніцеся да да ніжняй цэнтральнай часткі экрану для яго адчыненьня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Make a donation&lt;/a0&gt; if you would like to support the development of FBReader.</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075055Z">
+        <seg>&lt;a0&gt;Зрабіце ахвяраваньне&lt;/a0&gt;, калі жадаеце падтрымаць распрацаваньне FBReader..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Preferences Dialog&lt;/a0&gt; allows you to customize FBReader to suit your taste: colors, fonts, various directories, page turning options, etc.</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T074216Z">
+        <seg>&lt;a0&gt;Дыялёг наладаў&lt;/a0&gt; дазваляе Вам дапасаваць FBReader да вашага ґусту па колерах, шрыфтах, розных каталёгах, гартаньні старонак і іншым.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;unchanged&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230718Z">
+        <seg>&lt;unchanged&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>About FBReader</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T192320Z">
+        <seg>Пра FBReader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>About FBReader &amp;FBReaderVersion;</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T072316Z">
+        <seg>Пра FBReader &amp;FBReaderVersion;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Action for Key</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075829Z">
+        <seg>Дзеяньне клявішы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Actions on finger tap</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230136Z">
+        <seg>Дзеяньні дотыку пальцам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add catalog</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T165717Z">
+        <seg>Дадаць каталёг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add custom OPDS catalog manually</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T182937Z">
+        <seg>Дадаць уручную дапасаваны каталёг OPDS (адкрытай сыстэмы дастаўленьня публікацыяў)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add to basket</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T081400Z">
+        <seg>Дадаць у кошык</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add to favorites</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T215348Z">
+        <seg>Дадаць да ўпадабанага</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alignment</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230728Z">
+        <seg>Раўнаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T205535Z">
+        <seg>Усе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All books</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201445Z">
+        <seg>Усе кнігі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allow Hyphenations</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230819Z">
+        <seg>Дазволіць пераносы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Already purchased</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T082553Z">
+        <seg>Ужо набыта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Always</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T201114Z">
+        <seg>Заўсёды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Animation</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T224352Z">
+        <seg>Анімацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Animation speed</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T224433Z">
+        <seg>Хуткасьць анімацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Annotation</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T073005Z">
+        <seg>Анатацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Antialiasing</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230958Z">
+        <seg>Згладжваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Antialiasing is disabled</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230944Z">
+        <seg>Згладжваньне выключанае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Antialiasing is enabled</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230953Z">
+        <seg>Згладжваньне ўключанае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T202546Z">
+        <seg>Выгляд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apply</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075439Z">
+        <seg>Ужыць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arabic</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081014Z">
+        <seg>Арабская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to buy %s books?</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T202119Z">
+        <seg>Вы сапраўды жадаеце купіць %s кніг?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to buy \n“%s”?</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201939Z">
+        <seg>Вы сапраўды жадаеце купіць \n«%s»?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Authentication</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T083750Z">
+        <seg>Спраўджаньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Authentication failed</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075501Z">
+        <seg>Спраўджаньне няўдалае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Authentication. Please, wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214116Z">
+        <seg>Спраўджаньне. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T232908Z">
+        <seg>Аўтар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Author(s)</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T194227Z">
+        <seg>Аўтар(ы)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Author\:</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T194220Z">
+        <seg>Аўтар\:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Authorization required</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T202522Z">
+        <seg>Патрабуецца ўпаўнаважаньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Authorize</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T083817Z">
+        <seg>Упаўнаважыцца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Authors\:</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T194235Z">
+        <seg>Аўтары\:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto hyphenations</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230856Z">
+        <seg>Самарушныя пераносы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Automatic rotation</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T192721Z">
+        <seg>Самарушнае паварочваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Back</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T202644Z">
+        <seg>Назад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Back button action list</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T204011Z">
+        <seg>Сьпіс дзеяньняў кнопкі «Назад»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Back key action</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T203804Z">
+        <seg>Дзеяньне клявішы «Назад»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Back key long press action</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T204030Z">
+        <seg>Дзеяньне клявішы «Назад», доўгі націск</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T204211Z">
+        <seg>Фон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Background color</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T204217Z">
+        <seg>Колер фону</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Background color for image view</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T205531Z">
+        <seg>Колер фону для прагляду выявы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Basket</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T081653Z">
+        <seg>Кошык</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Blue</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075425Z">
+        <seg>Сіні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bold</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230910Z">
+        <seg>Тоўсты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bold Italic</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T232811Z">
+        <seg>Тоўсты курсіўны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Book Info</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T194248Z">
+        <seg>Інфармацыя кнігі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Book download error</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T073001Z">
+        <seg>Памылка зладаваньня кнігі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Book downloading has been started</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T072959Z">
+        <seg>Зладаваньне кнігі пачатае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Book has been downloaded</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T073003Z">
+        <seg>Кніга зладаваная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Book info</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T071638Z">
+        <seg>Інфармацыя кнігі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Book is already being downloaded</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T094833Z">
+        <seg>Кніга ўжо зладоўваецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Book is already bought</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201908Z">
+        <seg>Кніга ўжо купленая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Book is being downloaded</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T081523Z">
+        <seg>Кніга зладоўваецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Book was not purchased</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T082543Z">
+        <seg>Кніга не набытая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bookmark created\:\n%s</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T170155Z">
+        <seg>Закладка створаная\:\n%s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bookmarks</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T074006Z">
+        <seg>Закладкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Books directory</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T204352Z">
+        <seg>Каталёг кніг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Books sorted by author</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T215424Z">
+        <seg>Кнігі адсартаваныя па аўтары</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Books sorted by date of purchasing</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T183220Z">
+        <seg>Кнігі адсартаваныя па даце набыцьця</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Books sorted by series</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T215438Z">
+        <seg>Кнігі адсартаваныя па сэрыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Books sorted by tag</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T215450Z">
+        <seg>Кнігі адсартаваныя па цэтліках</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Books sorted by title</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T215501Z">
+        <seg>Кнігі адсартаваныя па назьве</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Books with no tags</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T215411Z">
+        <seg>Кнігі бяз цэтлікаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bottom margin</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T210652Z">
+        <seg>Ніжняе поле</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Browse file system</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T215634Z">
+        <seg>Агледзець файлавую сыстэму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Browser</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T215330Z">
+        <seg>Аглядальнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Buy</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T083821Z">
+        <seg>Купіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Buy (%s)</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T183036Z">
+        <seg>Купіць (%s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Buy all books</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T183046Z">
+        <seg>Купіць усе кнігі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Buy and download</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T083915Z">
+        <seg>Купіць і зладаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By author</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T215429Z">
+        <seg>Па аўтары</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By date</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T183235Z">
+        <seg>Па даце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By dragging finger up/down along left side of the screen</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T192507Z">
+        <seg>Перасоўваньнем пальца ўверх-уніз па левым баку экрану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By series</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T215442Z">
+        <seg>Па сэрыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By tag</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T215455Z">
+        <seg>Па цэтліках</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By title</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T215508Z">
+        <seg>Па назьве</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075443Z">
+        <seg>Скасаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel menu</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T204044Z">
+        <seg>Мэню касацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot access Android Market. Please, install %s manually</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214841Z">
+        <seg>Няма доступу да рынку Android. Калі ласка, усталюйце %s уручную</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot load account state</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T202148Z">
+        <seg>Немагчыма заладаваць стану рахунку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot open this book at the moment, sorry</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214734Z">
+        <seg>Немагчыма адчыніць гэтую кнігу зараз, прабачце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Catalog is empty, sorry</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214938Z">
+        <seg>Каталёг пусты, прабачце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Catalog\:</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T194259Z">
+        <seg>Каталёг\:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Center</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230605Z">
+        <seg>Цэнтраваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chinese</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T080957Z">
+        <seg>Кітайская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cite</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233017Z">
+        <seg>Цытата</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234218Z">
+        <seg>Ачысьціць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear basket</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T183336Z">
+        <seg>Ачысьціць кошык</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Close FBReader</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T202810Z">
+        <seg>Зачыніць FBReader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233019Z">
+        <seg>Код</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Collapse tree</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234318Z">
+        <seg>Згарнуць дрэва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Color dithering is disabled</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T231637Z">
+        <seg>Размываньне колераў выключанае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Color dithering is enabled</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T231644Z">
+        <seg>Размываньне колераў уключанае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Color settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T200855Z">
+        <seg>Налады колераў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Colors &amp; wallpapers</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T201224Z">
+        <seg>Колеры й шпалеры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Connection was refused by %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075543Z">
+        <seg>Злучэньне скінутае %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact authors &lt;a0&gt;via e-mail&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075202Z">
+        <seg>Пісаць аўтарам можна на &lt;a0&gt;электронны адрас&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T084056Z">
+        <seg>Працягнуць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copied to the clipboard\:\n%s</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234258Z">
+        <seg>Скапіявана ў кішэню\:\n%s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy to clipboard</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234226Z">
+        <seg>Скапіяваць у кішэню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Couldn't connect to host %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075611Z">
+        <seg>Немагчыма злучыцца з вузлом %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Couldn't connect to the network</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075623Z">
+        <seg>Немагчыма злучыцца зь сеткай</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Couldn't create a directory %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075645Z">
+        <seg>Немагчыма стварыць каталёг %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Couldn't create a file %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075654Z">
+        <seg>Немагчыма стварыць файл %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Couldn't resolve host %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075719Z">
+        <seg>Немагчыма знайсьці вузел %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Covers only</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T210326Z">
+        <seg>Толькі вокладкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating books database. Please, wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214606Z">
+        <seg>Стварэньне кніжнай базы. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Curl animation</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T223953Z">
+        <seg>Гартаньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Currently\: %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191720Z">
+        <seg>Зараз\: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230147Z">
+        <seg>Дапасаваная…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081018Z">
+        <seg>Чэская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DRM-protected File</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T080400Z">
+        <seg>Файл абаронены DRM (кіраваньнем лічбавымі правамі)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Daily tips settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234207Z">
+        <seg>Налады штодзённых падказак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233023Z">
+        <seg>Дата</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Day</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T074021Z">
+        <seg>Дзень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default Browser</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T215337Z">
+        <seg>Стандартны аглядальнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Definition</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233030Z">
+        <seg>Азначэньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Definition Description</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233035Z">
+        <seg>Апісаньне азначэньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete book</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T215515Z">
+        <seg>Выдаліць кнігу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete bookmark</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201452Z">
+        <seg>Выдаліць закладку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete local copy</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T190808Z">
+        <seg>Выдаліць лякальную копію</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete sample</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T190816Z">
+        <seg>Выдаліць узор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T194303Z">
+        <seg>Апісаньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Device</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T071503Z">
+        <seg>Прылада</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Device kerning</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T231550Z">
+        <seg>Рэґуляваньне міжлітар’я</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Device kerning is disabled</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T231538Z">
+        <seg>Рэґуляваньне міжлітар’я выключанае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Device kerning is enabled</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T231542Z">
+        <seg>Рэґуляваньне міжлітар’я ўключанае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Device orientation sensitive</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T075734Z">
+        <seg>Адпаведна з арыентацыяй прылады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T201230Z">
+        <seg>Слоўнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary is not installed, sorry</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214911Z">
+        <seg>Слоўнік не ўсталяваны, прабачце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T204041Z">
+        <seg>Налады слоўніку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Directories</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T205502Z">
+        <seg>Каталёгі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Directories to seek for files</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T205451Z">
+        <seg>Каталёгі для пошуку файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Disable button lights (does not work for some devices)</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T201041Z">
+        <seg>Выключаць сьвятло кнопак (не працуе на некаторых прыладах)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Disable buttons light during reading</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T191606Z">
+        <seg>Выключаць сьвятло кнопак падчас чытаньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Disabled</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T192352Z">
+        <seg>Выключана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display settings, status bar, button lights</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T202503Z">
+        <seg>Налады экрану, паліцы стану, сьвятла кнопак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dithering</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T231650Z">
+        <seg>Размываньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not hyphenate words automatically</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230832Z">
+        <seg>Не пераносіць словы самарушна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not show</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234139Z">
+        <seg>Не паказваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to buy this book? (%s)</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T183439Z">
+        <seg>Купіць кнігу? (%s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to download sample?</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T183639Z">
+        <seg>Зладаваць узор?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to download this book?</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T183627Z">
+        <seg>Зладаваць гэтую кнігу?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to open this catalog in browser?</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T183701Z">
+        <seg>Адчыніць гэты каталёг у аглядальніку?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to read local copy?</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191201Z">
+        <seg>Чытаць лякальную копію?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to read sample?</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191206Z">
+        <seg>Чытаць узор?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't ask again</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T213526Z">
+        <seg>Не пытаць зноў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't show 'open library' item</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T203038Z">
+        <seg>Не паказваць «Адчыніць бібліятэку»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't show 'open network library' item</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T203129Z">
+        <seg>Не паказваць «Адчыніць сеткавую бібліятэку»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't show 'return to previous book' item</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T203356Z">
+        <seg>Не паказваць «Вярнуцца да папярэдняй кнігі»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't show TOC marks in the footer bar</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T213001Z">
+        <seg>Не паказваць пазнакі зьместу ў прыпятку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't show again</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T213803Z">
+        <seg>Не паказваць зноў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't show battery level in footer</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T212657Z">
+        <seg>Не паказваць узровень батарэі ў прыпятку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't show clock in footer</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T212739Z">
+        <seg>Не паказваць гадзіньнік у прыпятку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't show items for last 3 positions in the book</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T203254Z">
+        <seg>Не  паказваць тры апошнія пазыцыі ў кнізе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't show page number in footer</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T212810Z">
+        <seg>Не паказваць нумар бачыны ў прыпятку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't show status bar when menu becomes active</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T202210Z">
+        <seg>Не паказваць паліцу стану, калі актывуецца мэню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't try to disable button lights</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T201016Z">
+        <seg>Не спрабаваць выключаць сьвятло кнопак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double tap detection</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T224813Z">
+        <seg>Падвойны дотык</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double tap to run navigation dialog/menu</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T224828Z">
+        <seg>Падвойны дотык выклікае навіґацыйны дыялёг ці мэню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Down to up page scrolling</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230307Z">
+        <seg>Перацягваньне зьнізу ўверх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T190820Z">
+        <seg>Зладаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download complete</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T072956Z">
+        <seg>Зладаваньне скончанае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download failed</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T072952Z">
+        <seg>Зладаваньне няўдалае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download limit exceeded</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T212839Z">
+        <seg>Перавышаная мяжа зладаваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download sample</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T190826Z">
+        <seg>Зладаваць узор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Downloading book %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214320Z">
+        <seg>Зладаваньне кнігі %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Downloading catalogs</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T190840Z">
+        <seg>Зладаваньне каталёгаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dutch</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081106Z">
+        <seg>Галяндзкая мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E.g.\: Project Gutenberg catalog</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T085223Z">
+        <seg>Прыклад\: Каталёг праекту Ґутэнбэрґ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E.g.\: Public domain books</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T084926Z">
+        <seg>Прыклад\: Агульнадаступныя кнігі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E.g.\: http\://m.gutenberg.org/</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T085237Z">
+        <seg>Прыклад\: http\://m.gutenberg.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T084101Z">
+        <seg>Рэдаґаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit URL</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T084120Z">
+        <seg>Рэдаґаваць адрас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit bookmark</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201500Z">
+        <seg>Рэдаґаваць закладку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit catalog</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T190851Z">
+        <seg>Рэдаґаваць каталёг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emphasis</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233429Z">
+        <seg>Вылучэньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encoding</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T194308Z">
+        <seg>Кадаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081034Z">
+        <seg>Анґельская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enjoy!</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T074854Z">
+        <seg>Прыемнага карыстаньня!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter URL manually</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T081009Z">
+        <seg>Увесьці адрас уручную</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Epigraph</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233435Z">
+        <seg>Эпіграф</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error occured during extracting '%s'</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201620Z">
+        <seg>Адбылася памылка падчас выманьня '%s'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error occured during reading '%s'</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201610Z">
+        <seg>Адбылася памылка падчас чытаньня '%s'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Esperanto</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075923Z">
+        <seg>Эспэранта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Expand tree</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234324Z">
+        <seg>Разгарнуць дрэва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Hyperlink</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233443Z">
+        <seg>Зьнешняя спасылка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FBReader books directory</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T071356Z">
+        <seg>Каталёг кніг FBReader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FBReader cache directory is not accessible for writing. May be you forget to insert or unmount your memory card. Please fix this issue or enter another directory name below.</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T080443Z">
+        <seg>Каталёг кэшу FBReader недаступны для запісу. Магчыма, Вы забылі уставіць ці адмацавалі Вашую карту памяці. Калі ласка, вырашыце гэтае пытаньне ці ўвядзіце назву іншага каталёгу ніжэй.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FBReader can not load native library. May be it is not properly installed. If the issue persists please try to reinstall FBReader.</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T083524Z">
+        <seg>FBReader ня можа заладаваць родную бібліятэку. Магчыма, яна няправільна ўсталяваная. Калі праблема застаецца, калі ласка, паспрабуйце пераўсталяваць FBReader.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FBReader is an e-book reader. FBReader supports &lt;c0&gt;ePub&lt;/c0&gt; and &lt;c1&gt;fb2&lt;/c1&gt; file formats. Please note that DRM-protected books are not supported. If you have any files in supported formats, just put them into &lt;c2&gt;Books&lt;/c2&gt; directory on the memory card. The books will be available in &lt;a3&gt;the library&lt;/a3&gt;. &lt;a4&gt;Network library&lt;/a4&gt; contains a large set of e-books you can download for free or for a fee.</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T073200Z">
+        <seg>FBReader — чытальнік e-book. FBReader падтрымлівае файлавыя фарматы &lt;c0&gt;ePub&lt;/c0&gt; і &lt;c1&gt;fb2&lt;/c1&gt;. Калі ласка, заўважце, што кнігі з абаронай кіраваньнем лічбавымі правамі (DRM) не падтрымліваюцца. Калі Вы маеце хоць-якія файлы падтрыманых фарматаў, проста зьмясьціце іх у тэчку «&lt;c2&gt;Books&lt;/c2&gt;» на карце памяці. Кнігі будуць даступныя ў &lt;a3&gt;бібліятэцы&lt;/a3&gt;. &lt;a4&gt;Сеткавая бібліятэка&lt;/a4&gt; зьмяшчае велізарны набор электронных кніг, якія можна зладаваць бясплатна ці за плату.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FBReader issue</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214628Z">
+        <seg>Праблема FBReader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FBReader library</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T071412Z">
+        <seg>Бібліятэка FBReader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FBReader network library</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191800Z">
+        <seg>Сеткавая бібліятэка FBReader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FBReader\: add custom catalog</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T212258Z">
+        <seg>FBReader\: дадаць дапасаваны каталёг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Favorites</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T215617Z">
+        <seg>Упадабанае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Info</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T194401Z">
+        <seg>Інфармацыя файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File already exists. Redownload?</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T213753Z">
+        <seg>Файл ужо існуе. Перазладаваць?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File format is not supported for '%s'</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201856Z">
+        <seg>Фармат файла не падтрымліваецца для '%s'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File is not found\: %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201635Z">
+        <seg>Файл ня знойдзены\: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File name</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T194407Z">
+        <seg>Назва файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File tree</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T151520Z">
+        <seg>Файлавае дрэва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Find more information about FBReader at &lt;a0&gt;our site&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T074927Z">
+        <seg>Больш інфармацыі пра FBReader ёсьць на &lt;a0&gt;нашым сайце&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Finnish</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081042Z">
+        <seg>Фінская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>First Line Indent</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230925Z">
+        <seg>Водступ першага радка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fit images to screen</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T210347Z">
+        <seg>Дапасоўваць выявы да экрану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Follow us at &lt;a0&gt;twitter&lt;/a0&gt; to learn about new releases and related news.</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075004Z">
+        <seg>Сачыце за намі ў &lt;a0&gt;twitter&lt;/a0&gt;, каб ведаць пра новыя выпускі і зьвязаныя навіны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Follow us at twitter</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T192301Z">
+        <seg>Чытайце нас у Twitter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font family</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T211149Z">
+        <seg>Ґарнітура</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font hinting is disabled</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T231823Z">
+        <seg>Выразнасьць шрыфтоў выключаная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font hinting is enabled</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T231832Z">
+        <seg>Выразнасьць шрыфтоў уключаная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font properties</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T232654Z">
+        <seg>Налады шрыфту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font size</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T232648Z">
+        <seg>Памер шрыфту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font size difference</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T232755Z">
+        <seg>Адрозьненьне памеру шрыфту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font smoothing options</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T232624Z">
+        <seg>Налады паліраваньня шрыфтоў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font style</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T232827Z">
+        <seg>Стыль шрыфту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font, hyphenations, etc.</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234114Z">
+        <seg>Шрыфт, пераносы і падобнае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fonts directory</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T204400Z">
+        <seg>Каталёг шрыфтоў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Footer</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T200353Z">
+        <seg>Прыпятак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Footer color</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T212930Z">
+        <seg>Колер прыпятка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Footer height</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T212936Z">
+        <seg>Вышыня прыпятка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Footnote</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233453Z">
+        <seg>Зноска</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Forward</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T202817Z">
+        <seg>Наперад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Found</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T071535Z">
+        <seg>Знойдзена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>French</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081044Z">
+        <seg>Француская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full Screen</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T075939Z">
+        <seg>Поўны экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full file system of the device</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T071500Z">
+        <seg>Уся файлавая сыстэма прылады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Galician</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081047Z">
+        <seg>Ґалісійская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>German</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081029Z">
+        <seg>Нямецкая мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>German (traditional orthography)</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081024Z">
+        <seg>Нямецкая мова (традыцыйная артаграфія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go Back</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T074553Z">
+        <seg>Назад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go Forward</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T074413Z">
+        <seg>Наперад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to End of Text Section</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T074232Z">
+        <seg>Перайсьці ў канец разьдзелу тэксту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to Next TOC Item</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T074355Z">
+        <seg>Да наступнага элемэнта зьместу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to Page…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T151845Z">
+        <seg>Перайсьці да бачыны…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to Previous TOC Item</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T074404Z">
+        <seg>Да папярэдняга элемэнта зьместу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to Start of Document</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T074052Z">
+        <seg>Перайсьці ў пачатак дакумэнта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to Start of Text Section</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T074225Z">
+        <seg>Перайсьці ў пачатак разьдзелу тэксту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Greek</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081031Z">
+        <seg>Грэцкая мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Green</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075432Z">
+        <seg>Зялёны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Header 1</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233502Z">
+        <seg>Загаловак 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Header 2</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233507Z">
+        <seg>Загаловак 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Header 3</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233510Z">
+        <seg>Загаловак 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Header 4</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233513Z">
+        <seg>Загаловак 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Header 5</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233515Z">
+        <seg>Загаловак 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Header 6</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233519Z">
+        <seg>Загаловак 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hebrew</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081049Z">
+        <seg>Іўрыт мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hide</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T211213Z">
+        <seg>Хаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hide action bar in reading mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T202011Z">
+        <seg>Хаваць паліцу дзеяньняў падчас чытаньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hide status bar in reading mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T202113Z">
+        <seg>Хаваць паліцу стану падчас чытаньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hinting</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T231836Z">
+        <seg>Выразнасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Horizontal footer</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T211754Z">
+        <seg>Гарызантальны прыпятак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Horizontal scrolling</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T225252Z">
+        <seg>Гарызантальнае гартаньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Host %s cannot be reached</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075732Z">
+        <seg>Вузел %s недаступны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to turn pages</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T225832Z">
+        <seg>Як гартаць бачыны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hungarian</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081052Z">
+        <seg>Вугорская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hyperlink text</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T200415Z">
+        <seg>Тэкст спасылкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hyphenate words automatically</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230845Z">
+        <seg>Пераносіць словы самарушна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore double taps</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T191456Z">
+        <seg>Іґнараваць падвойныя дотыкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Image</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233524Z">
+        <seg>Выява</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Image displaying options</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T210558Z">
+        <seg>Налады адлюстраваньня выяваў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Images</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T210631Z">
+        <seg>Выявы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Index in series\:</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201217Z">
+        <seg>Нумар у сэрыі\:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Indonesian</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081055Z">
+        <seg>Інданэзійская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T084117Z">
+        <seg>Усталяваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install dictionary</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T212713Z">
+        <seg>Усталяваць слоўнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install plugin</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T213539Z">
+        <seg>Усталяваць убудову</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Internal Hyperlink</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233530Z">
+        <seg>Унутраная спасылка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Internal server error</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T085850Z">
+        <seg>Унутраная памылка сэрвэра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid URL</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T212221Z">
+        <seg>Хібны адрас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invert volume keys direction</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T225820Z">
+        <seg>Інвэртаваць кірунак клявіш гуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Italian</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081058Z">
+        <seg>Італійская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Italic</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233723Z">
+        <seg>Курсіўны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Justify</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230637Z">
+        <seg>Выпрастаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep volume keys for sound</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T225907Z">
+        <seg>Пакінуць клявішы гучнасьці для гуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Key navigation visits all words</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T203948Z">
+        <seg>Ключавая навіґацыя па ўсіх словах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Key navigation visits hyperlinks only</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T203939Z">
+        <seg>Ключавая навіґацыя толькі па спасылках</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Landscape</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T075451Z">
+        <seg>Гарызантальная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201039Z">
+        <seg>Мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language filter</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T212721Z">
+        <seg>Моўны фільтар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language\:</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201043Z">
+        <seg>Мова\:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Last 3 positions</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T203237Z">
+        <seg>Апошнія 3 пазыцыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Last modified\:</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201426Z">
+        <seg>Апошняе зьмяненьне\:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Leather</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T204131Z">
+        <seg>Скура</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230631Z">
+        <seg>Выраўнаваць зьлева</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left Indent</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T232846Z">
+        <seg>Левы водступ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left margin</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T210656Z">
+        <seg>Левае поле</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left to right page scrolling</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230242Z">
+        <seg>Перацягваньне зьлева ўправа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Library</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T074040Z">
+        <seg>Бібліятэка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Line Spacing</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T232901Z">
+        <seg>Міжрадковая адлегласьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lithuanian</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081101Z">
+        <seg>Літоўская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading book information. Please, wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214416Z">
+        <seg>Ладаваньне інфармацыі кнігі. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading catalog information. Please, wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214408Z">
+        <seg>Ладаваньне інфармацыі каталёгу. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading information. Please, wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214344Z">
+        <seg>Ладаваньне інфармацыі. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Long tapping action</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T204322Z">
+        <seg>Дзеяньне доўгага дотыку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Long tapping does nothing</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T204101Z">
+        <seg>Доўгі дотык нічога ня робіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Long tapping initiates selecting</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T204314Z">
+        <seg>Доўгі дотык пачынае вылучэньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Long tapping opens image view</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T210615Z">
+        <seg>Доўгі дотык адчыняе прагляд выявы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Long tapping selects single word</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T204248Z">
+        <seg>Доўгі дотык вылучае адно слова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Long tapping selects single word, release opens dictionary</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T204240Z">
+        <seg>Доўгі дотык вылучае адно слова, адпусканьне адчыняе слоўнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Long tapping selects the image</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T210628Z">
+        <seg>Доўгі дотык вылучае выяву</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Louder (lower) key turns to previous (next) page</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T225711Z">
+        <seg>«Гучней» («цішэй») вядзе да папярэдняй (наступнай) бачыны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lower (louder) key turns to next (previous) page</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T225554Z">
+        <seg>«Цішэй» («гучней») вядзе да наступнай (папярэдняй) бачыны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Margins</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T210843Z">
+        <seg>Палі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Memory card</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T071340Z">
+        <seg>Карта памяці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Memory card inserted into the device</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T071334Z">
+        <seg>Карта памяці ўстаўленая ў прыладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Missing book</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T213458Z">
+        <seg>Адсутнічае кніга</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More styles</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234020Z">
+        <seg>Больш стыляў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multilanguage</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081006Z">
+        <seg>Некалькі моваў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>My selected books</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T215612Z">
+        <seg>Мае вылучаныя кнігі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name\:</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201101Z">
+        <seg>Назва\:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navigate</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T074615Z">
+        <seg>Перайсьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navigate back</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T170116Z">
+        <seg>Перайсьці назад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navigate over all words</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T204029Z">
+        <seg>Ісьці па ўсіх словах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Network error</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075807Z">
+        <seg>Памылка сеткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Network library</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T074713Z">
+        <seg>Сеткавая бібліятэка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Never</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T191610Z">
+        <seg>Ніколі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New bookmark</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201527Z">
+        <seg>Новая закладка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next tip</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214054Z">
+        <seg>Наступная падказка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Night</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T074716Z">
+        <seg>Ноч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075445Z">
+        <seg>Не</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No action</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T202923Z">
+        <seg>Няма дзеяньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No books</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T183029Z">
+        <seg>Няма кніг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No books found, sorry</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T215000Z">
+        <seg>Кнігі ня знойдзеныя, прабачце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No description available.</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201124Z">
+        <seg>Няма даступнага апісаньня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No plugin for '%s'</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201816Z">
+        <seg>Няма ўбудовы для '%s'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No user was registered\nwith specified e-mail address</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T213349Z">
+        <seg>Няма зарэґістраванага карыстальніка\nз азначаным электронным адрасам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T210334Z">
+        <seg>Ніякія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Norwegian</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081103Z">
+        <seg>Нарвэская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not enough money</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T143132Z">
+        <seg>Бракуе ґрошай</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OPF is not found in %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201753Z">
+        <seg>OPF ня знойдзены ў %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ok</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075447Z">
+        <seg>Добра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T165645Z">
+        <seg>Адчыніць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open basket</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191052Z">
+        <seg>Адчыніць кошык</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open book</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T072513Z">
+        <seg>Адчыніць кнігу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open catalog</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191058Z">
+        <seg>Адчыніць каталёг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open in browser</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191107Z">
+        <seg>Адчыніць у аглядальніку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open in dictionary</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234234Z">
+        <seg>Адчыніць у слоўніку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open library</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T202830Z">
+        <seg>Адчыніць бібліятэку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open network library</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T202844Z">
+        <seg>Адчыніць сеткавую бібліятэку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open page in browser</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191744Z">
+        <seg>Адчыніць бачыну ў аглядальніку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open previous book</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T202854Z">
+        <seg>Адчыніць папярэднюю кнігу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opening book. Please, wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214352Z">
+        <seg>Адчыненьне кнігі. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opening library. Please, wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214425Z">
+        <seg>Адчыненьне бібліятэкі. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Operation is timed out</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075747Z">
+        <seg>Апэрацыя пратэрмінаваная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081108Z">
+        <seg>Іншая мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page turning</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230053Z">
+        <seg>Гартаньне бачынаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T083609Z">
+        <seg>Пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pay</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T084128Z">
+        <seg>Заплаціць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Permission denied, sorry</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T215306Z">
+        <seg>Адмоўлена ў дазволе, прабачце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Poem Title</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233627Z">
+        <seg>Назва вершу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081110Z">
+        <seg>Польская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Portrait</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T075457Z">
+        <seg>Вэртыкальная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Portuguese</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081112Z">
+        <seg>Партуґальская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preformatted text</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233636Z">
+        <seg>Адфарматаваны тэкст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Prevent screen from sleeping</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T201302Z">
+        <seg>Не даваць экрану гаснуць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Prevent screen from sleeping during charging</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T201839Z">
+        <seg>Не даваць экрану гаснуць падчас зараджаньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Prevent screen from sleeping if device is in charging mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T201752Z">
+        <seg>Не даваць экрану гаснуць, калі прылада зараджаецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous book</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T203934Z">
+        <seg>Папярэдняя кніга</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Progress indicator</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T213851Z">
+        <seg>Паказальнік прагрэсу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Purchase book</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T082353Z">
+        <seg>Набыць кнігу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Purchase book. Please, wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T183226Z">
+        <seg>Набыцьцё кнігі. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Purchase books</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T082401Z">
+        <seg>Набыць кнігі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Quote from %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234246Z">
+        <seg>Цытата з %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Read</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T165651Z">
+        <seg>Чытаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Read book text</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234335Z">
+        <seg>Чытаць тэкст кнігі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Read local copy</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191156Z">
+        <seg>Чытаць лякальную копію</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Read sample</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191142Z">
+        <seg>Чытаць узор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recent</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T071613Z">
+        <seg>Апошнія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recently opened books</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T071553Z">
+        <seg>Апошнія адчыненыя кнігі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Red</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075436Z">
+        <seg>Чырвоны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T084136Z">
+        <seg>Абнавіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Refresh catalogs</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T190917Z">
+        <seg>Абнавіць каталёгі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T232819Z">
+        <seg>Звычайны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular Paragraph</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233648Z">
+        <seg>Звычайны абзац</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular text</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T200918Z">
+        <seg>Звычайны тэкст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Related links</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T194351Z">
+        <seg>Зьвязаныя спасылкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reload</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T084323Z">
+        <seg>Перазаладаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove catalog</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191217Z">
+        <seg>Выдаліць каталёг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove from basket</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191448Z">
+        <seg>Прыбраць з кошыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove from favorites</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T071622Z">
+        <seg>Прыбраць з упадабанага</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Required information is not specified in the catalog</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T212913Z">
+        <seg>Патрэбная інфармацыя не азначаная ў каталёгу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reset position</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T084421Z">
+        <seg>Скінуць пазыцыю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return to …</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T202859Z">
+        <seg>Вярнуцца да…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reverse landscape</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T075515Z">
+        <seg>Перавернутая гарызантальная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reverse portrait</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T075542Z">
+        <seg>Перавернутая вэртыкальная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230651Z">
+        <seg>Выраўнаваць справа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right Indent</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234026Z">
+        <seg>Правы водступ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right margin</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T210700Z">
+        <seg>Правае поле</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right to left page scrolling</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230255Z">
+        <seg>Перацягваньне справа ўлева</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Romanian</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081115Z">
+        <seg>Румынская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rotate screen</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T074800Z">
+        <seg>Павярнуць экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rtf parsing error in\: %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T191748Z">
+        <seg>Памылка разбору rtf у\: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Russian</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081117Z">
+        <seg>Расейская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sample is being downloaded</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T081548Z">
+        <seg>Узор зладоўваецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Screen brightness adjustment</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T192525Z">
+        <seg>Рэґуляваньне яркасьці экрану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Screen orientation</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T074829Z">
+        <seg>Арыентацыя экрану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scroll pages horizontally</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T225232Z">
+        <seg>Гартаць бачыны гарызантальна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scroll pages vertically</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T225224Z">
+        <seg>Гартаць бачыны вэртыкальна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scrollbar &amp; footer settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T212925Z">
+        <seg>Налады гартача і прыпятка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scrollbar type</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T212638Z">
+        <seg>Тып гартача</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T071539Z">
+        <seg>Пошук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search books in all catalogs</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T192840Z">
+        <seg>Шукаць кнігі ва ўсіх каталёгах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search books on %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191505Z">
+        <seg>Шукаць кнігі на %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search in progress</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191555Z">
+        <seg>Выконваецца пошук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search results background</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T200408Z">
+        <seg>Фон вынікаў пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search results for\: %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T071530Z">
+        <seg>Вынікі пошуку для\: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Searching for books in network</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191608Z">
+        <seg>Пошук кніг у сетцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Searching. Please, wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214448Z">
+        <seg>Пошук. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Section Title</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234006Z">
+        <seg>Назва разьдзелу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select action</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T081649Z">
+        <seg>Абраць дзеяньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selected text</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T200814Z">
+        <seg>Вылучаны тэкст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234304Z">
+        <seg>Вылучэньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection background</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T200435Z">
+        <seg>Фон вылучэньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Send report</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T084430Z">
+        <seg>Даслаць справаздачу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Send us an e-mail</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191819Z">
+        <seg>Даслаць нам ліст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Separate settings for titles, epigraphs, etc.</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233924Z">
+        <seg>Падзяляць налады на назвы, эпіграфы і гэтак далей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sepia</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T204137Z">
+        <seg>Сэпія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Series</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201223Z">
+        <seg>Сэрыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Series\:</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201230Z">
+        <seg>Сэрыі\:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T074735Z">
+        <seg>Налады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Share</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T084435Z">
+        <seg>Абагуліць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Share book</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T071631Z">
+        <seg>Абагуліць кнігу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shared from &lt;a href\="http\://www.fbreader.org/"&gt;FBReader&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T170140Z">
+        <seg>Абагулена праз &lt;a href\="http\://www.fbreader.org/"&gt;FBReader&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift animation</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T224348Z">
+        <seg>Пераход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show 'open library' item</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T203118Z">
+        <seg>Паказваць «Адчыніць бібліятэку»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show 'open network library' item</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T203136Z">
+        <seg>Паказваць «Адчыніць сеткавую бібліятэку»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show 'return to previous book' item</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T203926Z">
+        <seg>Паказваць «Вярнуцца да папярэдняй кнігі»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show TOC marks</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T213015Z">
+        <seg>Паказваць пазнакі зьместу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show TOC marks in the footer bar</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T213007Z">
+        <seg>Паказваць пазнакі зьместу ў прыпятку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show action bar</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T202030Z">
+        <seg>Паказваць паліцу дзеяньняў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show action bar in reading mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T202021Z">
+        <seg>Паказваць паліцу дзеяньняў падчас чытаньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show battery level</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T212721Z">
+        <seg>Паказваць узровень батарэі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show battery level in footer</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T212715Z">
+        <seg>Паказваць узровень батарэі ў прыпятку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show books</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191614Z">
+        <seg>Паказаць кнігі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show cancel menu</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T202854Z">
+        <seg>Паказаць мэню касацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show clock</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T191600Z">
+        <seg>Паказваць гадзіньнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show clock in footer</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T212750Z">
+        <seg>Паказваць гадзіньнік у прыпятку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show daily tips</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234149Z">
+        <seg>Паказваць штодзённыя падказкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show items for last 3 positions in the book</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T203300Z">
+        <seg>Паказваць тры апошнія пазыцыі ў кнізе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show page number</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T212830Z">
+        <seg>Паказваць нумар бачыны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show page number in footer</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T212817Z">
+        <seg>Паказваць нумар бачыны ў прыпятку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show results</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191620Z">
+        <seg>Паказаць вынікі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show status bar</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T202139Z">
+        <seg>Паказваць паліцу стану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show status bar in reading mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T202130Z">
+        <seg>Паказваць паліцу стану падчас чытаньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show status bar when menu becomes active</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T202235Z">
+        <seg>Паказваць паліцу стану, калі актывуецца мэню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show status bar when menu is active</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T202307Z">
+        <seg>Паказваць паліцу стану, калі мэню актыўнае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show tips</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234155Z">
+        <seg>Паказваць падказкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sign in</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191002Z">
+        <seg>Увайсьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sign out (%s)</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191027Z">
+        <seg>Выйсьці (%s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sign up</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T083736Z">
+        <seg>Зарэґістравацца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Signing out. Please, wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214455Z">
+        <seg>Выхад. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Size\:</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201235Z">
+        <seg>Памер\:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skip</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T084447Z">
+        <seg>Прапусьціць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slide animation</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T224314Z">
+        <seg>Ссоўваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Solid color</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T204145Z">
+        <seg>Суцэльны колер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Something goes wrong for %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075759Z">
+        <seg>Нешта ня так з %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Space After</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234033Z">
+        <seg>Прастора перад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Space Before</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234039Z">
+        <seg>Прастора пасьля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spanish</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081040Z">
+        <seg>Гішпанская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specified site is already in use</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T212236Z">
+        <seg>Азначаны сайт ужо выкарыстоўваецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specified title is already in use</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T212314Z">
+        <seg>Азначаная назва ўжо выкарыстоўваецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stanza</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233705Z">
+        <seg>Страфа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stop loading</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191634Z">
+        <seg>Спыніць ладаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stop searching</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191659Z">
+        <seg>Спыніць пошук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stopping loading</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191641Z">
+        <seg>Спыненьне ладаваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stopping search</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191650Z">
+        <seg>Спыненьне пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>StrikeThrough</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233712Z">
+        <seg>Закрэсьлены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Striked through</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234053Z">
+        <seg>Закрэсьлены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strong</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233744Z">
+        <seg>Моцны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subpixel smoothing</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T232607Z">
+        <seg>Папіксэльнае паліраваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subpixel smoothing is disabled</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T232548Z">
+        <seg>Папіксэльнае паліраваньне выключанае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subpixel smoothing is enabled</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T232556Z">
+        <seg>Папіксэльнае паліраваньне ўключанае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subscript</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233835Z">
+        <seg>Падрадкоўе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subtitle</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233844Z">
+        <seg>Субтытры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T084737Z">
+        <seg>Падсумаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Superscript</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T233932Z">
+        <seg>Надрадкоўе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Swedish</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081119Z">
+        <seg>Швэдзкая мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch screen off even if device is in charging mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T201720Z">
+        <seg>Выключаць экран, нават калі прылада зараджаецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>System</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T191710Z">
+        <seg>Сыстэмная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TOC</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T075820Z">
+        <seg>Зьмест</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table of Contents</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T074541Z">
+        <seg>Зьмест</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag(s)</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201403Z">
+        <seg>Цэтлік(і)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag\:</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201356Z">
+        <seg>Цэтлік\:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags\:</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201410Z">
+        <seg>Цэтлікі\:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tamil</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081219Z">
+        <seg>Тамільская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tap zones</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230327Z">
+        <seg>Зоны дотыкаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tap zones scheme</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230321Z">
+        <seg>Схема зонаў дотыкаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234134Z">
+        <seg>Тэкст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text margins</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T210757Z">
+        <seg>Палі тэксту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thai</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081223Z">
+        <seg>Тайская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The book file will be removed irreversibly. Are you sure?</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T212646Z">
+        <seg>Кніга будзе незваротна выдаленая. Вы ўпэўненыя?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The display will not rotate when user moves the device</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T192609Z">
+        <seg>Экран ня будзе паварочвацца, калі карыстальнік рухае прыладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The display will rotate when user moves the device</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T192619Z">
+        <seg>Экран будзе паварочвацца, калі карыстальнік рухае прыладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are no suitable bookmarks, sorry</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214657Z">
+        <seg>Няма адпаведных закладак, прабачце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are no suitable books in the library, sorry</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214709Z">
+        <seg>Няма адпаведных кніг у бібліятэцы, прабачце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There is no suitable text in the book, sorry</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T215324Z">
+        <seg>Няма адпаведнага тэксту ў кнізе, прабачце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This book</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201534Z">
+        <seg>Гэтая кніга</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is not an OPDS catalog</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T213230Z">
+        <seg>Гэта не каталёг OPDS (адкрытай сыстэмы дастаўленьня публікацыяў)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This purchase costs %0</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T082530Z">
+        <seg>Гэты набытак каштуе %0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This purchase costs %0 and you have only %1</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T082502Z">
+        <seg>Гэты набытак каштуе %0, а ў Вас толькі %1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tip of the day</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214101Z">
+        <seg>Падказка дню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tips</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234212Z">
+        <seg>Падказкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Title</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T084931Z">
+        <seg>Назва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Title should be non-empty</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T212604Z">
+        <seg>Назва ня можа быць пустым</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Title\:</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201435Z">
+        <seg>Назва\:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To turn pages swipe screen horizontally or use hardware volume keys.</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T073930Z">
+        <seg>Каб гартаць старонкі, праводзьце па экране гарызантальна ці карыстайце клявішы гучнасьці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Top margin</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T210839Z">
+        <seg>Верхняе поле</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Top up</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T084526Z">
+        <seg>Папоўніць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Top up account</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191045Z">
+        <seg>Папоўніць рахунак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Top up account (currently\: %s)</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191714Z">
+        <seg>Папоўніць рахунак (зараз\: %s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Touch screen page turning</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230025Z">
+        <seg>Гартаньне бачынаў крананьнямі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translator</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T204342Z">
+        <seg>Перакладнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Try again</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T084536Z">
+        <seg>Паспрабаваць зноў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Turkish</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T081228Z">
+        <seg>Турэцкая мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Turn page with volume keys</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230015Z">
+        <seg>Гартаць бачыны гучнасьцю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Turn pages by finger flick</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T225107Z">
+        <seg>Гартаць перацягваньнем</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Turn pages by finger tap</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T225104Z">
+        <seg>Гартаць дотыкам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Turn pages by finger tap or flick</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T225102Z">
+        <seg>Гартаць дотыкам ці перацягваньнем</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Turn pages with no animation</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T224004Z">
+        <seg>Без анімацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type\:</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201441Z">
+        <seg>Тып\:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T085226Z">
+        <seg>Адрас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL should be non-empty</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T212613Z">
+        <seg>Адрас ня можа быць пустым</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ukrainian</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T080943Z">
+        <seg>Украінская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to create cache directory</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T212816Z">
+        <seg>Немагчыма стварыць кэшавы каталёг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to create directory %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T072942Z">
+        <seg>Немагчыма стварыць каталёг %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to create file %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T072949Z">
+        <seg>Немагчыма стварыць файл %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Underlined</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234130Z">
+        <seg>Падкрэсьлены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unknown Error</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T080549Z">
+        <seg>Невядомая памылка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unknown author</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T071644Z">
+        <seg>Невядомы аўтар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unknown error</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075813Z">
+        <seg>Невядомая памылка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unknown plugin type\: %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T201832Z">
+        <seg>Невядомы тып убудовы\: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported Compression Method</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T080720Z">
+        <seg>Непадтрыманы спосаб сьціску</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported operation</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T213518Z">
+        <seg>Непадтрыманая апэрацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported protocol</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075822Z">
+        <seg>Непадтрыманы пратакол</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Up to down page scrolling</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230229Z">
+        <seg>Перацягваньне зьверху ўніз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Update</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T084540Z">
+        <seg>Абнавіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Update plugin</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T213554Z">
+        <seg>Абнавіць убудову</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updating account information. Please, wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214534Z">
+        <seg>Абнаўленьне інфармацыі рахунку. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updating books database. Please, wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214555Z">
+        <seg>Абнаўленьне кніжнай базы. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updating catalogs list. Please, wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214618Z">
+        <seg>Абнаўленьне сьпісу каталёгу. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use volume keys to turn the pages</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T225950Z">
+        <seg>Карыстаць клявішы гучнасьці для гартаньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T083544Z">
+        <seg>Імя карыстальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username should be non-empty</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T083605Z">
+        <seg>Імя карыстальніка ня можа быць пустым</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Verse</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234001Z">
+        <seg>Верш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T192310Z">
+        <seg>Вэрсія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version info, contacts</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191846Z">
+        <seg>Вэрсія й кантакты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vertical progress bar</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T212044Z">
+        <seg>Вэртыкальная паліца прагрэсу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vertical slider</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T212625Z">
+        <seg>Вэртыкальны лятунок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vietnamese</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T080951Z">
+        <seg>Віетнамская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Visit our website</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191833Z">
+        <seg>Наведаць наш сайт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Visited hyperlink text</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T200425Z">
+        <seg>Тэкст наведанай спасылкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wallpapers directory</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T205459Z">
+        <seg>Каталёг шпалераў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While battery level is greater than 25 percent</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T201220Z">
+        <seg>Калі зарад батарэі большы за 25%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While battery level is greater than 50 percent</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T201229Z">
+        <seg>Калі зарад батарэі большы за 50%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wood</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T204158Z">
+        <seg>Драўніна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Would you like to install %s?</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T212703Z">
+        <seg>Жадаеце ўсталяваць %s?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Would you like to read FBReader daily tips? New tips would be downloaded from FBReader site. Expected network traffic is 1-2 kilobytes per week.\n\nEnable tips?</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214047Z">
+        <seg>Ці жадаеце Вы чытаць штодзённыя падказкі FBReader? Новыя падказкі будуць зладоўвацца з сайту FBReader. Чаканы расход трафіку — каля 1–2 кБ на тыдзень.\n\nУключыць падказкі? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075450Z">
+        <seg>Так</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your basket is empty, sorry</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T214929Z">
+        <seg>Ваш кошык пусты, прабачце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your favorites list is empty, sorry</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T215357Z">
+        <seg>Ваш сьпіс упадабанага пусты, прабачце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your password will be sent unencrypted</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T083808Z">
+        <seg>Ваш пароль будзе дасланы незашыфраваным</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Zoom in</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T074035Z">
+        <seg>Наблізіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Zoom out</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121014T074031Z">
+        <seg>Падаліць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bold</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230906Z">
+        <seg>тоўсты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>don't hyphenate words</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230805Z">
+        <seg>не пераносіць словы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fast</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T224420Z">
+        <seg>хуткая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http\://twitter.com/fbreader</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191848Z">
+        <seg>http\://twitter.com/fbreader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http\://www.fbreader.org/</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191822Z">
+        <seg>http\://www.fbreader.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hyphenate words</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230810Z">
+        <seg>пераносіць словы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>italic</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T232837Z">
+        <seg>курсіўны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mailto\:contact@geometerplus.com</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121019T191804Z">
+        <seg>mailto\:contact@geometerplus.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>off</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075219Z">
+        <seg>выключана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>on</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075227Z">
+        <seg>уключана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>regular</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T230902Z">
+        <seg>звычайны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sample</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121013T215601Z">
+        <seg>узор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>slow</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T224424Z">
+        <seg>павольная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>striked through</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234046Z">
+        <seg>закрэсьлены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>unchanged</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121026T075312Z">
+        <seg>ня зьменена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>underlined</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121025T234124Z">
+        <seg>падкрэсьлены</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">FBReaderJ-i18n-en/FBReader-en.xml.properties</prop>
+      <prop type="id">bookmarksView.open</prop>
+      <tuv lang="EN">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121012T163959Z">
+        <seg>Адчыніць</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>

@@ -3,14 +3,13 @@
     <project version="1.0">
         <source_dir>__DEFAULT__</source_dir>
         <target_dir>__DEFAULT__</target_dir>
-        <tm_dir>__DEFAULT__</tm_dir>
+        <tm_dir>omegat</tm_dir>
         <glossary_dir>__DEFAULT__</glossary_dir>
         <glossary_file>__DEFAULT__</glossary_file>
-        <dictionary_dir>__DEFAULT__</dictionary_dir>
+        <dictionary_dir>E:/translations/Windows 7/Windows.7.git/Windows.OmegaT/Dictionaries/</dictionary_dir>
         <source_lang>en</source_lang>
         <target_lang>be</target_lang>
         <sentence_seg>false</sentence_seg>
         <support_default_translations>true</support_default_translations>
-        <remove_tags>false</remove_tags>
     </project>
 </omegat>

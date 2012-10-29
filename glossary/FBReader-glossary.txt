@@ -1,0 +1,295 @@
+table of contents	зьмест
+library	бібліятэка
+network	сетка
+settings	налады
+screen	экран
+orientation	арыентацыя
+landscape	гарызантальная
+portrait	вэртыкальная
+device	прылада
+sensitive	адчувальны
+system	сыстэма
+TOC	зьмест
+share	абагуліць/абагульваць
+book	кніга
+search	пошук
+search	шукаць
+file	файл -а
+DRM	DRM	кіраваньне лічбавымі правамі
+protect	абараніць/абараняць
+protected	абаронены
+unknown	невядомы
+error	памылка
+unsupported	непадтрыманы
+compression	сьціск
+method	спосаб
+enter	уводзіць
+manually	уручную
+URL	URL	тэрмін
+URL	адрас -у	прастамоўнае
+add	дадаць/дадаваць
+catalog	каталёг
+custom	дапасаваны
+OPDS	OPDS	адкрытая сыстэма дастаўленьня публікацыяў
+basket	кошык
+downloaded	зладаваны
+is being downloaded	зладоўваецца
+sample	узор
+select	абраць/абіраць	абраць адзін са сьпісу
+select	вылучыць/вылучаць	вылучыць некалькі са сьпісу, абсяг, плошчу, тэкст
+action	дзеяньне
+create	стварыць/ствараць
+directory	каталёг -у
+download	зладаваць/зладоўваць
+download	зладаваньне
+failed	няўдалы
+failed	не ўдалося
+complete	скончыць/сканчаць
+downloading	зладваньне
+annotation	анатацыя
+author	аўтар
+authors	аўтары
+info	інфармацыя
+description	апісаньне
+encoding	кадаваньне
+link	спасылка
+links	спасылкі
+related	зьвязаны
+name	назва 	для неадушаўлёных
+name	імя	для адушаўлёных
+language	мова
+edit	адрэдаґаваць/рэдаґаваць
+available	даступны
+size	памер
+byte	байт -а
+bytes	байты -аў
+kB	кБ
+tag	цэтлік	агульнае
+tag	тэґ	элемэтнт праграмаваньня
+tags	цэтлікі	агульнае
+tags	тэґі	элемэтны праграмаваньня
+title	назва
+books	кнігі
+delete	выдаліць/выдаляць
+delete	прыбраць/прыбіраць	прыбіраюць элемэнт са сьпісу
+bookmark	закладка
+found	знойдзены
+new	новы
+open	адчыніць/адчыняць
+RTF	RTF	фармат з аздобленым тэкстам
+parsing	разбор
+error occured	адбылася памылка
+during	падчас
+reading	чытаньне
+extracting	выманьне
+not found	ня знойдзены
+OPF	OPF	фармат адкрытага пакаваньня
+plugin	убудова
+format	фармат
+format	фарматаваць
+is not supported	не падтрымліваецца
+Are you sure you want to	Вы сапраўды жадаеце
+cannot	немагчыма
+load	заладаваць/ладаваць
+state	стан
+account	рахунак	грашовы рахунак
+account	конт	профіль карыстальніка
+authorization	упаўнаважаньне
+required	патрабуецца
+purchase	набыць/набываць
+purchase	набытак
+back	назад
+close	зачыніць/зачыняць
+forward	наперад
+forward	перанакіраваць/перанакіроўваць
+previous	папярэдні
+return	вярнуцца/вяртацца
+cache	кэш -у
+accessible	даступны
+not accessible	недаступны
+writing	запіс
+insert	уставіць/устаўляць
+unmount	адмацаваць/адмацоўваць
+mount	прымацаваць/прымацоўваць
+memory	памяць
+card	карта
+memory card	карта памяці
+please	калі ласка
+fix	выправіць/выпраўляць
+issue	праблема
+below	ніжэй
+native	родны
+properly	правільна
+installed	усталяваны
+reinstall	пераўсталяваць/пераўсталёўваць
+username	імя карыстальніка
+password	пароль
+sign up	зарэґістравацца/рэґістравацца
+authentication	спраўджаньне
+unencrypted	незашыфраваны
+encrypted	зашыфраваны
+authorize	упаўнаважыцца/упаўнаважвацца
+buy	купіць/купляць
+continue	працягнуць/працягваць
+install	усталяваць/усталёўваць
+read	прачытаць/чытаць
+pay	заплаціць/плаціць
+refresh	абнавіць/абнаўляць
+reload	перазаладаваць/перазаладоўваць
+reset	скінуць/скідваць
+position	пазыцыя
+send	даслаць/дасылаць
+report	справаздача
+skip	прапусьціць/прапускаць
+top up	папоўніць/папаўняць
+try again	паспрабаваць/спрабаваць
+again	зноў
+update	абнавіць
+summary	падсумаваньне
+e.g.	прыклад
+project	праект -у
+Gutenberg	Ґутэнбэрґ
+invalid	хібны
+specified	азначаны
+specify	азначаць
+site	сайт
+is in use	выкарыстоўваецца
+Would you like to	Жадаеце	Would you like to install …? → Жадаеце ўсталяваць …?
+dictionary	слоўнік -у
+filter	фільтар
+purchased	набыты
+limit	мяжа
+exceeded	перавышаны
+internal	унутраны
+required	патрэбны
+information	інфармацыя
+e-mail	электронная пошта
+e-mail address	электронны адрас
+registered	зарэґістраваны
+missing	адсутнічае
+not enough	бракуе
+money	ґрошы
+operation	апэрацыя
+don't ask again	не пытаць зноў
+redownload	перазладаваць/перазладоўваць
+exists	існуе
+don't show again	не паказваць зноў
+tips	падказкі
+tip	падказка
+daily	штодзённы
+expected	чаканы
+next	наступны
+database	база зьвестак
+please, wait	калі ласка, пачакайце
+opening	адчыненьне
+loading	ладаваньне
+searching	пошук
+signing out	выхад
+updating	абнаўленьне
+sorry	прабачце
+suitable	адпаведны
+there are no	няма
+market	рынак
+empty	пусты
+favorites	упадабанае
+permission	дазвол
+deny	адмовіць/адмаўляць
+permission denied	адмоўлена ў дазволе
+text	тэкст -у
+browser	аглядальнік -а
+default	стандарт
+default	стандартны
+by default	па стандарце
+sorted	адсартаваны
+sort	адсартаваць/сартаваць
+series	сэрыя
+selected	вылучаны	некалькі са сьпісу, абсяг, плошчу, тэкст
+selected	выбраны	адзін са сьпісу
+browse	агледзець/аглядаць
+tree	дрэва
+inserted	устаўлены
+results	вынікі
+result	вынік
+day	дзень, дню
+zoom out	падаліць
+zoom in	наблізіць
+go to	перайсьці ў/да
+start	пачаць/пачынаць
+start	пачатак
+document	дакумэнт -а
+page	бачына
+section	разьдзел
+end	скончыць/сканчаць
+end	канец
+rotate	павярнуць/паварочваць
+reverse	перавернуты
+full	поўны
+DRM	DRM	кіраваньне лічбавымі правамі
+date	дата
+clear	ачысьціць/ачышчаць
+clear	чысты
+Do you want to	 	Do you want to install …? → Усталяваць …?
+local	лякальны
+copy	скапіяваць/капіяваць
+copy	копія
+sign in	увайсьці/уваходзіць
+sign out	выйсьці/выходзіць
+remove	выдаліць/выдаляць
+remove	прыбраць/прыбіраць	прыбіраюць элемэнт са сьпісу
+automatic	самарушны
+rotation	паварочваньне
+catalogs	каталёгі
+stopping	спыненьне
+stop	спыніць/спыняць
+visit	наведаць/наведваць
+website	(сеціўны) сайт
+version	вэрсія
+contacts	кантакты
+contact	зьвязацца/зьвязвацца
+contact	кантакт
+disabled	выключаны
+dragging	перацягваньне
+drag	перацягнуць/перацягваць
+brightness	яркасьць
+adjustment	рэґуляваньне
+user	карыстальнік
+disable	выключыць/выключаць
+button	кнопка
+light	сьвятло
+lights	сьвятло
+always	заўсёды
+battery	батарэя
+level	узровень
+percent	адсотак
+charging	зараджаньне
+mode	рэжым
+switch off	выключыць/выключаць
+switch	пераключыць/пераключаць
+status	стан
+bar	паліца
+item	элемэнт
+show	паказаць/паказваць
+active	актыўны
+menu	мэню
+appearance	выгляд
+cancel	скасаваць/касаваць
+navigate	перайсьці/пераходзіць
+key	клявіша
+key	ключ
+press	націснуць/націскаць
+positions	пазыцыі
+list	сьпіс
+solid	суцэльны
+color	колер
+background	фон
+footer	прыпятак
+header	прычолак
+hyperlink	спасылка
+visited	наведаны
+selection	вылучэньне
+regular	звычайны
+colors	колеры
+wallpaper	шпалеры
+wallpapers	шпалеры
+navigate	ісьці
+slider	лятунок
