@@ -73,7 +73,7 @@
         <seg>&lt;a0&gt;FBReader's Menu&lt;/a0&gt; allows you to navigate through libraries and to control the application. If your device has no hardware &lt;c1&gt;Menu&lt;/c1&gt; button, touch bottom-center part of the screen to run menu.</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T074827Z">
-        <seg>&lt;a0&gt;Мэню FBReader&lt;/a0&gt; дазваляе Вам вандраваць па бібліятэках і кіраваць праграмай. Калі Вашая прылада ня мае апаратнай кнопкі &lt;c1&gt;Мэню&lt;/c1&gt;, дакраніцеся да да ніжняй цэнтральнай часткі экрану для яго адчыненьня.</seg>
+        <seg>&lt;a0&gt;Мэню FBReader&lt;/a0&gt; дазваляе Вам вандраваць па бібліятэках і кіраваць праґрамай. Калі Вашая прылада ня мае апаратнай кнопкі &lt;c1&gt;Мэню&lt;/c1&gt;, дакраніцеся да да ніжняй цэнтральнай часткі экрану для яго адчыненьня.</seg>
       </tuv>
     </tu>
     <tu>
@@ -89,7 +89,7 @@
         <seg>&lt;a0&gt;Preferences Dialog&lt;/a0&gt; allows you to customize FBReader to suit your taste: colors, fonts, various directories, page turning options, etc.</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T074216Z">
-        <seg>&lt;a0&gt;Дыялёг наладаў&lt;/a0&gt; дазваляе Вам дапасаваць FBReader да вашага ґусту па колерах, шрыфтах, розных каталёгах, гартаньні старонак і іншым.</seg>
+        <seg>&lt;a0&gt;Дыялёґ наладаў&lt;/a0&gt; дазваляе Вам дапасаваць FBReader да вашага ґусту па колерах, шрыфтах, розных каталёґах, гартаньні старонак і іншым.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137,7 +137,7 @@
         <seg>Add catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T165717Z">
-        <seg>Дадаць каталёг</seg>
+        <seg>Дадаць каталёґ</seg>
       </tuv>
     </tu>
     <tu>
@@ -145,7 +145,7 @@
         <seg>Add custom OPDS catalog manually</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T182937Z">
-        <seg>Дадаць уручную дапасаваны каталёг OPDS (адкрытай сыстэмы дастаўленьня публікацыяў)</seg>
+        <seg>Дадаць уручную дапасаваны каталёґ OPDS (адкрытай сыстэмы дастаўленьня публікацыяў)</seg>
       </tuv>
     </tu>
     <tu>
@@ -569,7 +569,7 @@
         <seg>Books directory</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T204352Z">
-        <seg>Каталёг кніг</seg>
+        <seg>Каталёґ кніг</seg>
       </tuv>
     </tu>
     <tu>
@@ -769,7 +769,7 @@
         <seg>Catalog is empty, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214938Z">
-        <seg>Каталёг пусты, прабачце</seg>
+        <seg>Каталёґ пусты, прабачце</seg>
       </tuv>
     </tu>
     <tu>
@@ -777,7 +777,7 @@
         <seg>Catalog\:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T194259Z">
-        <seg>Каталёг\:</seg>
+        <seg>Каталёґ\:</seg>
       </tuv>
     </tu>
     <tu>
@@ -937,7 +937,7 @@
         <seg>Couldn't create a directory %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075645Z">
-        <seg>Немагчыма стварыць каталёг %s</seg>
+        <seg>Немагчыма стварыць каталёґ %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -1169,7 +1169,7 @@
         <seg>Directories</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T205502Z">
-        <seg>Каталёгі</seg>
+        <seg>Каталёґі</seg>
       </tuv>
     </tu>
     <tu>
@@ -1177,7 +1177,7 @@
         <seg>Directories to seek for files</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T205451Z">
-        <seg>Каталёгі для пошуку файлаў</seg>
+        <seg>Каталёґі для пошуку файлаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -1265,7 +1265,7 @@
         <seg>Do you want to open this catalog in browser?</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T183701Z">
-        <seg>Адчыніць гэты каталёг у аглядальніку?</seg>
+        <seg>Адчыніць гэты каталёґ у аглядальніку?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1393,7 +1393,7 @@
         <seg>Double tap to run navigation dialog/menu</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T224828Z">
-        <seg>Падвойны дотык выклікае навіґацыйны дыялёг ці мэню</seg>
+        <seg>Падвойны дотык выклікае навіґацыйны дыялёґ ці мэню</seg>
       </tuv>
     </tu>
     <tu>
@@ -1457,7 +1457,7 @@
         <seg>Downloading catalogs</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T190840Z">
-        <seg>Зладаваньне каталёгаў</seg>
+        <seg>Зладаваньне каталёґаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -1473,7 +1473,7 @@
         <seg>E.g.\: Project Gutenberg catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T085223Z">
-        <seg>Прыклад\: Каталёг праекту Ґутэнбэрґ</seg>
+        <seg>Прыклад\: Каталёґ праекту Ґутэнбэрґ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1521,7 +1521,7 @@
         <seg>Edit catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T190851Z">
-        <seg>Рэдаґаваць каталёг</seg>
+        <seg>Рэдаґаваць каталёґ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1569,7 +1569,7 @@
         <seg>Epigraph</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233435Z">
-        <seg>Эпіграф</seg>
+        <seg>Эпіґраф</seg>
       </tuv>
     </tu>
     <tu>
@@ -1617,7 +1617,7 @@
         <seg>FBReader books directory</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071356Z">
-        <seg>Каталёг кніг FBReader</seg>
+        <seg>Каталёґ кніг FBReader</seg>
       </tuv>
     </tu>
     <tu>
@@ -1625,7 +1625,7 @@
         <seg>FBReader cache directory is not accessible for writing. May be you forget to insert or unmount your memory card. Please fix this issue or enter another directory name below.</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T080443Z">
-        <seg>Каталёг кэшу FBReader недаступны для запісу. Магчыма, Вы забылі уставіць ці адмацавалі Вашую карту памяці. Калі ласка, вырашыце гэтае пытаньне ці ўвядзіце назву іншага каталёгу ніжэй.</seg>
+        <seg>Каталёґ кэшу FBReader недаступны для запісу. Магчыма, Вы забылі уставіць ці адмацавалі Вашую карту памяці. Калі ласка, вырашыце гэтае пытаньне ці ўвядзіце назву іншага каталёґу ніжэй.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1673,7 +1673,7 @@
         <seg>FBReader\: add custom catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T212258Z">
-        <seg>FBReader\: дадаць дапасаваны каталёг</seg>
+        <seg>FBReader\: дадаць дапасаваны каталёґ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1857,7 +1857,7 @@
         <seg>Fonts directory</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T204400Z">
-        <seg>Каталёг шрыфтоў</seg>
+        <seg>Каталёґ шрыфтоў</seg>
       </tuv>
     </tu>
     <tu>
@@ -1953,7 +1953,7 @@
         <seg>German (traditional orthography)</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081024Z">
-        <seg>Нямецкая мова (традыцыйная артаграфія)</seg>
+        <seg>Нямецкая мова (традыцыйная артаґрафія)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2161,7 +2161,7 @@
         <seg>Hungarian</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081052Z">
-        <seg>Вугорская мова</seg>
+        <seg>Вуґорская мова</seg>
       </tuv>
     </tu>
     <tu>
@@ -2457,7 +2457,7 @@
         <seg>Loading catalog information. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214408Z">
-        <seg>Ладаваньне інфармацыі каталёгу. Калі ласка, пачакайце…</seg>
+        <seg>Ладаваньне інфармацыі каталёґу. Калі ласка, пачакайце…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2801,7 +2801,7 @@
         <seg>Open catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191058Z">
-        <seg>Адчыніць каталёг</seg>
+        <seg>Адчыніць каталёґ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2993,7 +2993,7 @@
         <seg>Progress indicator</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T213851Z">
-        <seg>Паказальнік прагрэсу</seg>
+        <seg>Паказальнік праґрэсу</seg>
       </tuv>
     </tu>
     <tu>
@@ -3097,7 +3097,7 @@
         <seg>Refresh catalogs</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T190917Z">
-        <seg>Абнавіць каталёгі</seg>
+        <seg>Абнавіць каталёґі</seg>
       </tuv>
     </tu>
     <tu>
@@ -3145,7 +3145,7 @@
         <seg>Remove catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191217Z">
-        <seg>Выдаліць каталёг</seg>
+        <seg>Выдаліць каталёґ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3169,7 +3169,7 @@
         <seg>Required information is not specified in the catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T212913Z">
-        <seg>Патрэбная інфармацыя не азначаная ў каталёгу</seg>
+        <seg>Патрэбная інфармацыя не азначаная ў каталёґу</seg>
       </tuv>
     </tu>
     <tu>
@@ -3337,7 +3337,7 @@
         <seg>Search books in all catalogs</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T192840Z">
-        <seg>Шукаць кнігі ва ўсіх каталёгах</seg>
+        <seg>Шукаць кнігі ва ўсіх каталёґах</seg>
       </tuv>
     </tu>
     <tu>
@@ -3449,7 +3449,7 @@
         <seg>Separate settings for titles, epigraphs, etc.</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233924Z">
-        <seg>Падзяляць налады на назвы, эпіграфы і гэтак далей</seg>
+        <seg>Падзяляць налады на назвы, эпіґрафы і гэтак далей</seg>
       </tuv>
     </tu>
     <tu>
@@ -4105,7 +4105,7 @@
         <seg>This is not an OPDS catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T213230Z">
-        <seg>Гэта не каталёг OPDS (адкрытай сыстэмы дастаўленьня публікацыяў)</seg>
+        <seg>Гэта не каталёґ OPDS (адкрытай сыстэмы дастаўленьня публікацыяў)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4313,7 +4313,7 @@
         <seg>Unable to create cache directory</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T212816Z">
-        <seg>Немагчыма стварыць кэшавы каталёг</seg>
+        <seg>Немагчыма стварыць кэшавы каталёґ</seg>
       </tuv>
     </tu>
     <tu>
@@ -4321,7 +4321,7 @@
         <seg>Unable to create directory %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T072942Z">
-        <seg>Немагчыма стварыць каталёг %s</seg>
+        <seg>Немагчыма стварыць каталёґ %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -4441,7 +4441,7 @@
         <seg>Updating catalogs list. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214618Z">
-        <seg>Абнаўленьне сьпісу каталёгу. Калі ласка, пачакайце…</seg>
+        <seg>Абнаўленьне сьпісу каталёґу. Калі ласка, пачакайце…</seg>
       </tuv>
     </tu>
     <tu>
@@ -4497,7 +4497,7 @@
         <seg>Vertical progress bar</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T212044Z">
-        <seg>Вэртыкальная паліца прагрэсу</seg>
+        <seg>Вэртыкальная паліца праґрэсу</seg>
       </tuv>
     </tu>
     <tu>
@@ -4537,7 +4537,7 @@
         <seg>Wallpapers directory</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T205459Z">
-        <seg>Каталёг шпалераў</seg>
+        <seg>Каталёґ шпалераў</seg>
       </tuv>
     </tu>
     <tu>

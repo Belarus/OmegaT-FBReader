@@ -22,10 +22,10 @@ import com.sun.xml.internal.stream.events.CommentEvent;
 public class CreateTarget {
 
     public static void main(String[] args) throws Exception {
-        parse("../source/Android/FBReader-en.xml", "../target/Android/FBReader-en.ini",
-                "../target/Android/FBReader-be.xml");
-        parse("../source/Android/zlibrary-en.xml", "../target/Android/zlibrary-en.ini",
-                "../target/Android/zlibrary-be.xml");
+        parse("../source/Android/1.6.3/FBReader-en.xml", "../target/Android/1.6.3/FBReader-en.ini",
+                "../target/Android/1.6.3/FBReader-be.xml");
+        parse("../source/Android/1.6.3/zlibrary-en.xml", "../target/Android/1.6.3/zlibrary-en.ini",
+                "../target/Android/1.6.3/zlibrary-be.xml");
         parse("../source/Desktop/FBReader-en.xml", "../target/Desktop/FBReader-en.ini",
                 "../target/Desktop/FBReader-be.xml");
         parse("../source/Desktop/zlibrary-en.xml", "../target/Desktop/zlibrary-en.ini",

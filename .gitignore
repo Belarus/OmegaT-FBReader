@@ -2,3 +2,4 @@
 /target
 /omegat/*.bak
 /omegat/*.txt
+/Converter/.settings/*
