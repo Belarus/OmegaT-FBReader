@@ -278,6 +278,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Apply font size defined in CSS</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121101T115119Z">
+        <seg>Ужыць памер шрыфту з CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apply text alignment defined in CSS</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121101T115429Z">
+        <seg>Ужыць раўнаваньне тэксту з CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apply/ignore values defined in CSS</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121101T115053Z">
+        <seg>Ужыць ці праіґнараваць значэньні з CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Arabic</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081014Z">
@@ -722,6 +746,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215508Z">
         <seg>Па назьве</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CSS</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121101T115024Z">
+        <seg>CSS</seg>
       </tuv>
     </tu>
     <tu>
@@ -1641,7 +1673,7 @@
         <seg>FBReader is an e-book reader. FBReader supports &lt;c0&gt;ePub&lt;/c0&gt; and &lt;c1&gt;fb2&lt;/c1&gt; file formats. Please note that DRM-protected books are not supported. If you have any files in supported formats, just put them into &lt;c2&gt;Books&lt;/c2&gt; directory on the memory card. The books will be available in &lt;a3&gt;the library&lt;/a3&gt;. &lt;a4&gt;Network library&lt;/a4&gt; contains a large set of e-books you can download for free or for a fee.</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T073200Z">
-        <seg>FBReader — чытальнік e-book. FBReader падтрымлівае файлавыя фарматы &lt;c0&gt;ePub&lt;/c0&gt; і &lt;c1&gt;fb2&lt;/c1&gt;. Калі ласка, заўважце, што кнігі з абаронай кіраваньнем лічбавымі правамі (DRM) не падтрымліваюцца. Калі Вы маеце хоць-якія файлы падтрыманых фарматаў, проста зьмясьціце іх у тэчку «&lt;c2&gt;Books&lt;/c2&gt;» на карце памяці. Кнігі будуць даступныя ў &lt;a3&gt;бібліятэцы&lt;/a3&gt;. &lt;a4&gt;Сеткавая бібліятэка&lt;/a4&gt; зьмяшчае велізарны набор электронных кніг, якія можна зладаваць бясплатна ці за плату.</seg>
+        <seg>FBReader — чытальнік электронных кніг. FBReader падтрымлівае файлавыя фарматы &lt;c0&gt;ePub&lt;/c0&gt; і &lt;c1&gt;fb2&lt;/c1&gt;. Калі ласка, заўважце, што кнігі з абаронай кіраваньнем лічбавымі правамі (DRM) не падтрымліваюцца. Калі Вы маеце хоць-якія файлы падтрыманых фарматаў, проста зьмясьціце іх у тэчку «&lt;c2&gt;Books&lt;/c2&gt;» на карце памяці. Кнігі будуць даступныя ў &lt;a3&gt;бібліятэцы&lt;/a3&gt;. &lt;a4&gt;Сеткавая бібліятэка&lt;/a4&gt; зьмяшчае велізарны набор электронных кніг, якія можна зладаваць бясплатна ці за плату.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2186,6 +2218,22 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T191456Z">
         <seg>Іґнараваць падвойныя дотыкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore font size defined in CSS</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121101T115149Z">
+        <seg>Праіґнараваць памер шрыфту з CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore text alignment defined in CSS</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121101T115437Z">
+        <seg>Праіґнараваць раўнаваньне тэксту з CSS</seg>
       </tuv>
     </tu>
     <tu>
@@ -4026,6 +4074,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234134Z">
         <seg>Тэкст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text alignment</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20121101T115413Z">
+        <seg>Раўнаваньне тэксту</seg>
       </tuv>
     </tu>
     <tu>

@@ -1,5 +1,12 @@
 /*.tmx
+
 /target
+
 /omegat/*.bak
+
 /omegat/*.txt
-/Converter/.settings/*
+
+/Converter/.settings
+/Converter/classes
+
+/OmegaT.program
