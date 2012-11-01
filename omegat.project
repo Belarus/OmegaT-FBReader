@@ -6,7 +6,7 @@
         <tm_dir>omegat</tm_dir>
         <glossary_dir>__DEFAULT__</glossary_dir>
         <glossary_file>__DEFAULT__</glossary_file>
-        <dictionary_dir>E:/translations/Windows 7/Windows.7.git/Windows.OmegaT/Dictionaries/</dictionary_dir>
+        <dictionary_dir>__DEFAULT__</dictionary_dir>
         <source_lang>en</source_lang>
         <target_lang>be</target_lang>
         <sentence_seg>false</sentence_seg>
