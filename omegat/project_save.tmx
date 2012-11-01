@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.5.5_3" segtype="paragraph" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.1_2" segtype="paragraph" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%0 book</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T183016Z">
@@ -13,7 +13,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%0 book (%1)</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T183003Z">
@@ -21,7 +21,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%0 books</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T183022Z">
@@ -29,7 +29,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%0 books (%1)</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T183011Z">
@@ -37,7 +37,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%s byte</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201243Z">
@@ -45,7 +45,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%s bytes</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201249Z">
@@ -53,7 +53,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%s kB</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201256Z">
@@ -61,7 +61,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>&lt;a0&gt;&lt;l1&gt;FBReader&lt;/l1&gt;&lt;/a0&gt; &lt;b2&gt;About FBReaderJ&lt;/b2&gt; &lt;l3&gt;en&lt;/l3&gt;</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T072202Z">
@@ -69,7 +69,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>&lt;a0&gt;FBReader's Menu&lt;/a0&gt; allows you to navigate through libraries and to control the application. If your device has no hardware &lt;c1&gt;Menu&lt;/c1&gt; button, touch bottom-center part of the screen to run menu.</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T074827Z">
@@ -77,7 +77,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>&lt;a0&gt;Make a donation&lt;/a0&gt; if you would like to support the development of FBReader.</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075055Z">
@@ -85,7 +85,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>&lt;a0&gt;Preferences Dialog&lt;/a0&gt; allows you to customize FBReader to suit your taste: colors, fonts, various directories, page turning options, etc.</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T074216Z">
@@ -93,7 +93,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>&lt;unchanged&gt;</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230718Z">
@@ -101,7 +101,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>About FBReader</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T192320Z">
@@ -109,7 +109,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>About FBReader &amp;FBReaderVersion;</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T072316Z">
@@ -117,7 +117,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Action for Key</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075829Z">
@@ -125,7 +125,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Actions on finger tap</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230136Z">
@@ -133,7 +133,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Add catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T165717Z">
@@ -141,7 +141,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Add custom OPDS catalog manually</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T182937Z">
@@ -149,7 +149,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Add to basket</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T081400Z">
@@ -157,7 +157,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Add to favorites</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215348Z">
@@ -165,7 +165,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Alignment</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230728Z">
@@ -173,7 +173,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>All</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T205535Z">
@@ -181,7 +181,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>All books</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201445Z">
@@ -189,7 +189,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Allow Hyphenations</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230819Z">
@@ -197,7 +197,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Already purchased</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T082553Z">
@@ -205,7 +205,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Always</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T201114Z">
@@ -213,7 +213,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Animation</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T224352Z">
@@ -221,7 +221,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Animation speed</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T224433Z">
@@ -229,7 +229,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Annotation</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T073005Z">
@@ -237,7 +237,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Antialiasing</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230958Z">
@@ -245,7 +245,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Antialiasing is disabled</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230944Z">
@@ -253,7 +253,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Antialiasing is enabled</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230953Z">
@@ -261,7 +261,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Appearance</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T202546Z">
@@ -269,7 +269,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Apply</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075439Z">
@@ -277,7 +277,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Arabic</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081014Z">
@@ -285,7 +285,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Are you sure you want to buy %s books?</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T202119Z">
@@ -293,7 +293,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Are you sure you want to buy \n“%s”?</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201939Z">
@@ -301,7 +301,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Authentication</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T083750Z">
@@ -309,7 +309,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Authentication failed</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075501Z">
@@ -317,7 +317,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Authentication. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214116Z">
@@ -325,7 +325,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Author</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T232908Z">
@@ -333,7 +333,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Author(s)</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T194227Z">
@@ -341,7 +341,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Author\:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T194220Z">
@@ -349,7 +349,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Authorization required</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T202522Z">
@@ -357,7 +357,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Authorize</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T083817Z">
@@ -365,7 +365,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Authors\:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T194235Z">
@@ -373,7 +373,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Auto hyphenations</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230856Z">
@@ -381,7 +381,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Automatic rotation</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T192721Z">
@@ -389,7 +389,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Back</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T202644Z">
@@ -397,7 +397,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Back button action list</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T204011Z">
@@ -405,7 +405,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Back key action</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T203804Z">
@@ -413,7 +413,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Back key long press action</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T204030Z">
@@ -421,7 +421,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Background</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T204211Z">
@@ -429,7 +429,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Background color</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T204217Z">
@@ -437,7 +437,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Background color for image view</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T205531Z">
@@ -445,7 +445,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Basket</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T081653Z">
@@ -453,7 +453,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Blue</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075425Z">
@@ -461,7 +461,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Bold</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230910Z">
@@ -469,7 +469,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Bold Italic</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T232811Z">
@@ -477,7 +477,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Book Info</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T194248Z">
@@ -485,7 +485,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Book download error</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T073001Z">
@@ -493,7 +493,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Book downloading has been started</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T072959Z">
@@ -501,7 +501,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Book has been downloaded</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T073003Z">
@@ -509,7 +509,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Book info</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071638Z">
@@ -517,7 +517,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Book is already being downloaded</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T094833Z">
@@ -525,7 +525,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Book is already bought</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201908Z">
@@ -533,7 +533,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Book is being downloaded</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T081523Z">
@@ -541,7 +541,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Book was not purchased</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T082543Z">
@@ -549,7 +549,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Bookmark created\:\n%s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T170155Z">
@@ -557,7 +557,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Bookmarks</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074006Z">
@@ -565,7 +565,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Books directory</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T204352Z">
@@ -573,7 +573,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Books sorted by author</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215424Z">
@@ -581,7 +581,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Books sorted by date of purchasing</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T183220Z">
@@ -589,7 +589,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Books sorted by series</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215438Z">
@@ -597,7 +597,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Books sorted by tag</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215450Z">
@@ -605,7 +605,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Books sorted by title</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215501Z">
@@ -613,7 +613,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Books with no tags</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215411Z">
@@ -621,7 +621,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Bottom margin</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T210652Z">
@@ -629,7 +629,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Browse file system</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215634Z">
@@ -637,7 +637,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Browser</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215330Z">
@@ -645,7 +645,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Buy</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T083821Z">
@@ -653,7 +653,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Buy (%s)</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T183036Z">
@@ -661,7 +661,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Buy all books</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T183046Z">
@@ -669,7 +669,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Buy and download</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T083915Z">
@@ -677,7 +677,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>By author</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215429Z">
@@ -685,7 +685,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>By date</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T183235Z">
@@ -693,7 +693,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>By dragging finger up/down along left side of the screen</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T192507Z">
@@ -701,7 +701,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>By series</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215442Z">
@@ -709,7 +709,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>By tag</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215455Z">
@@ -717,7 +717,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>By title</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215508Z">
@@ -725,7 +725,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075443Z">
@@ -733,7 +733,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Cancel menu</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T204044Z">
@@ -741,7 +741,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Cannot access Android Market. Please, install %s manually</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214841Z">
@@ -749,7 +749,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Cannot load account state</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T202148Z">
@@ -757,7 +757,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Cannot open this book at the moment, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214734Z">
@@ -765,7 +765,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Catalog is empty, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214938Z">
@@ -773,7 +773,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Catalog\:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T194259Z">
@@ -781,7 +781,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Center</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230605Z">
@@ -789,7 +789,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Chinese</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T080957Z">
@@ -797,7 +797,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Cite</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233017Z">
@@ -805,7 +805,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Clear</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234218Z">
@@ -813,7 +813,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Clear basket</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T183336Z">
@@ -821,7 +821,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Close FBReader</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T202810Z">
@@ -829,7 +829,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Code</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233019Z">
@@ -837,7 +837,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Collapse tree</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234318Z">
@@ -845,7 +845,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Color dithering is disabled</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T231637Z">
@@ -853,7 +853,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Color dithering is enabled</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T231644Z">
@@ -861,7 +861,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Color settings</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T200855Z">
@@ -869,7 +869,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Colors &amp; wallpapers</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T201224Z">
@@ -877,7 +877,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Connection was refused by %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075543Z">
@@ -885,7 +885,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Contact authors &lt;a0&gt;via e-mail&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075202Z">
@@ -893,7 +893,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Continue</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T084056Z">
@@ -901,7 +901,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Copied to the clipboard\:\n%s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234258Z">
@@ -909,7 +909,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Copy to clipboard</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234226Z">
@@ -917,7 +917,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Couldn't connect to host %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075611Z">
@@ -925,7 +925,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Couldn't connect to the network</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075623Z">
@@ -933,7 +933,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Couldn't create a directory %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075645Z">
@@ -941,7 +941,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Couldn't create a file %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075654Z">
@@ -949,7 +949,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Couldn't resolve host %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075719Z">
@@ -957,7 +957,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Covers only</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T210326Z">
@@ -965,7 +965,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Creating books database. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214606Z">
@@ -973,7 +973,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Curl animation</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T223953Z">
@@ -981,7 +981,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Currently\: %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191720Z">
@@ -989,7 +989,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Custom…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230147Z">
@@ -997,7 +997,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Czech</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081018Z">
@@ -1005,7 +1005,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>DRM-protected File</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T080400Z">
@@ -1013,7 +1013,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Daily tips settings</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234207Z">
@@ -1021,7 +1021,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Date</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233023Z">
@@ -1029,7 +1029,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Day</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074021Z">
@@ -1037,7 +1037,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Default Browser</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215337Z">
@@ -1045,7 +1045,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Definition</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233030Z">
@@ -1053,7 +1053,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Definition Description</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233035Z">
@@ -1061,7 +1061,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Delete book</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215515Z">
@@ -1069,7 +1069,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Delete bookmark</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201452Z">
@@ -1077,7 +1077,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Delete local copy</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T190808Z">
@@ -1085,7 +1085,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Delete sample</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T190816Z">
@@ -1093,7 +1093,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Description</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T194303Z">
@@ -1101,7 +1101,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Device</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071503Z">
@@ -1109,7 +1109,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Device kerning</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T231550Z">
@@ -1117,7 +1117,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Device kerning is disabled</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T231538Z">
@@ -1125,7 +1125,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Device kerning is enabled</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T231542Z">
@@ -1133,7 +1133,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Device orientation sensitive</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T075734Z">
@@ -1141,7 +1141,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Dictionary</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T201230Z">
@@ -1149,7 +1149,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Dictionary is not installed, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214911Z">
@@ -1157,7 +1157,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Dictionary settings</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T204041Z">
@@ -1165,7 +1165,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Directories</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T205502Z">
@@ -1173,7 +1173,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Directories to seek for files</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T205451Z">
@@ -1181,7 +1181,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Disable button lights (does not work for some devices)</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T201041Z">
@@ -1189,7 +1189,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Disable buttons light during reading</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T191606Z">
@@ -1197,7 +1197,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Disabled</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T192352Z">
@@ -1205,7 +1205,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Display settings, status bar, button lights</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T202503Z">
@@ -1213,7 +1213,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Dithering</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T231650Z">
@@ -1221,7 +1221,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Do not hyphenate words automatically</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230832Z">
@@ -1229,7 +1229,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Do not show</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234139Z">
@@ -1237,7 +1237,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Do you want to buy this book? (%s)</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T183439Z">
@@ -1245,7 +1245,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Do you want to download sample?</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T183639Z">
@@ -1253,7 +1253,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Do you want to download this book?</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T183627Z">
@@ -1261,7 +1261,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Do you want to open this catalog in browser?</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T183701Z">
@@ -1269,7 +1269,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Do you want to read local copy?</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191201Z">
@@ -1277,7 +1277,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Do you want to read sample?</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191206Z">
@@ -1285,7 +1285,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Don't ask again</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T213526Z">
@@ -1293,7 +1293,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Don't show 'open library' item</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T203038Z">
@@ -1301,7 +1301,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Don't show 'open network library' item</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T203129Z">
@@ -1309,7 +1309,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Don't show 'return to previous book' item</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T203356Z">
@@ -1317,7 +1317,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Don't show TOC marks in the footer bar</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T213001Z">
@@ -1325,7 +1325,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Don't show again</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T213803Z">
@@ -1333,7 +1333,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Don't show battery level in footer</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T212657Z">
@@ -1341,7 +1341,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Don't show clock in footer</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T212739Z">
@@ -1349,7 +1349,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Don't show items for last 3 positions in the book</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T203254Z">
@@ -1357,7 +1357,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Don't show page number in footer</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T212810Z">
@@ -1365,7 +1365,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Don't show status bar when menu becomes active</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T202210Z">
@@ -1373,7 +1373,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Don't try to disable button lights</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T201016Z">
@@ -1381,7 +1381,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Double tap detection</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T224813Z">
@@ -1389,7 +1389,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Double tap to run navigation dialog/menu</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T224828Z">
@@ -1397,7 +1397,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Down to up page scrolling</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230307Z">
@@ -1405,7 +1405,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Download</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T190820Z">
@@ -1413,7 +1413,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Download complete</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T072956Z">
@@ -1421,7 +1421,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Download failed</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T072952Z">
@@ -1429,7 +1429,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Download limit exceeded</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T212839Z">
@@ -1437,7 +1437,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Download sample</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T190826Z">
@@ -1445,7 +1445,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Downloading book %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214320Z">
@@ -1453,7 +1453,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Downloading catalogs</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T190840Z">
@@ -1461,7 +1461,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Dutch</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081106Z">
@@ -1469,7 +1469,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>E.g.\: Project Gutenberg catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T085223Z">
@@ -1477,7 +1477,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>E.g.\: Public domain books</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T084926Z">
@@ -1485,7 +1485,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>E.g.\: http\://m.gutenberg.org/</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T085237Z">
@@ -1493,7 +1493,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T084101Z">
@@ -1501,7 +1501,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Edit URL</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T084120Z">
@@ -1509,7 +1509,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Edit bookmark</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201500Z">
@@ -1517,7 +1517,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Edit catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T190851Z">
@@ -1525,7 +1525,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Emphasis</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233429Z">
@@ -1533,7 +1533,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Encoding</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T194308Z">
@@ -1541,7 +1541,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>English</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081034Z">
@@ -1549,7 +1549,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Enjoy!</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T074854Z">
@@ -1557,7 +1557,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Enter URL manually</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T081009Z">
@@ -1565,7 +1565,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Epigraph</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233435Z">
@@ -1573,7 +1573,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Error occured during extracting '%s'</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201620Z">
@@ -1581,7 +1581,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Error occured during reading '%s'</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201610Z">
@@ -1589,7 +1589,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Esperanto</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075923Z">
@@ -1597,7 +1597,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Expand tree</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234324Z">
@@ -1605,7 +1605,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>External Hyperlink</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233443Z">
@@ -1613,7 +1613,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>FBReader books directory</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071356Z">
@@ -1621,7 +1621,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>FBReader cache directory is not accessible for writing. May be you forget to insert or unmount your memory card. Please fix this issue or enter another directory name below.</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T080443Z">
@@ -1629,7 +1629,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>FBReader can not load native library. May be it is not properly installed. If the issue persists please try to reinstall FBReader.</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T083524Z">
@@ -1637,7 +1637,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>FBReader is an e-book reader. FBReader supports &lt;c0&gt;ePub&lt;/c0&gt; and &lt;c1&gt;fb2&lt;/c1&gt; file formats. Please note that DRM-protected books are not supported. If you have any files in supported formats, just put them into &lt;c2&gt;Books&lt;/c2&gt; directory on the memory card. The books will be available in &lt;a3&gt;the library&lt;/a3&gt;. &lt;a4&gt;Network library&lt;/a4&gt; contains a large set of e-books you can download for free or for a fee.</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T073200Z">
@@ -1645,7 +1645,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>FBReader issue</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214628Z">
@@ -1653,7 +1653,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>FBReader library</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071412Z">
@@ -1661,7 +1661,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>FBReader network library</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191800Z">
@@ -1669,7 +1669,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>FBReader\: add custom catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T212258Z">
@@ -1677,7 +1677,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Favorites</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215617Z">
@@ -1685,7 +1685,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>File Info</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T194401Z">
@@ -1693,7 +1693,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>File already exists. Redownload?</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T213753Z">
@@ -1701,7 +1701,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>File format is not supported for '%s'</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201856Z">
@@ -1709,7 +1709,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>File is not found\: %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201635Z">
@@ -1717,7 +1717,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>File name</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T194407Z">
@@ -1725,7 +1725,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>File tree</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T151520Z">
@@ -1733,7 +1733,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Find more information about FBReader at &lt;a0&gt;our site&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T074927Z">
@@ -1741,7 +1741,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Finnish</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081042Z">
@@ -1749,7 +1749,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>First Line Indent</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230925Z">
@@ -1757,7 +1757,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Fit images to screen</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T210347Z">
@@ -1765,7 +1765,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Follow us at &lt;a0&gt;twitter&lt;/a0&gt; to learn about new releases and related news.</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075004Z">
@@ -1773,7 +1773,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Follow us at twitter</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T192301Z">
@@ -1781,7 +1781,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Font family</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T211149Z">
@@ -1789,7 +1789,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Font hinting is disabled</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T231823Z">
@@ -1797,7 +1797,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Font hinting is enabled</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T231832Z">
@@ -1805,7 +1805,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Font properties</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T232654Z">
@@ -1813,7 +1813,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Font size</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T232648Z">
@@ -1821,7 +1821,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Font size difference</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T232755Z">
@@ -1829,7 +1829,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Font smoothing options</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T232624Z">
@@ -1837,7 +1837,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Font style</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T232827Z">
@@ -1845,7 +1845,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Font, hyphenations, etc.</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234114Z">
@@ -1853,7 +1853,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Fonts directory</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T204400Z">
@@ -1861,7 +1861,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Footer</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T200353Z">
@@ -1869,7 +1869,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Footer color</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T212930Z">
@@ -1877,7 +1877,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Footer height</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T212936Z">
@@ -1885,7 +1885,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Footnote</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233453Z">
@@ -1893,7 +1893,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Forward</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T202817Z">
@@ -1901,7 +1901,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Found</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071535Z">
@@ -1909,7 +1909,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>French</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081044Z">
@@ -1917,7 +1917,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Full Screen</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T075939Z">
@@ -1925,7 +1925,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Full file system of the device</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071500Z">
@@ -1933,7 +1933,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Galician</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081047Z">
@@ -1941,7 +1941,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>German</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081029Z">
@@ -1949,7 +1949,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>German (traditional orthography)</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081024Z">
@@ -1957,7 +1957,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Go Back</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074553Z">
@@ -1965,7 +1965,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Go Forward</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074413Z">
@@ -1973,7 +1973,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Go to End of Text Section</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074232Z">
@@ -1981,7 +1981,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Go to Next TOC Item</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074355Z">
@@ -1989,7 +1989,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Go to Page…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T151845Z">
@@ -1997,7 +1997,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Go to Previous TOC Item</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074404Z">
@@ -2005,7 +2005,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Go to Start of Document</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074052Z">
@@ -2013,7 +2013,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Go to Start of Text Section</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074225Z">
@@ -2021,7 +2021,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Greek</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081031Z">
@@ -2029,7 +2029,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Green</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075432Z">
@@ -2037,7 +2037,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Header 1</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233502Z">
@@ -2045,7 +2045,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Header 2</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233507Z">
@@ -2053,7 +2053,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Header 3</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233510Z">
@@ -2061,7 +2061,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Header 4</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233513Z">
@@ -2069,7 +2069,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Header 5</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233515Z">
@@ -2077,7 +2077,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Header 6</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233519Z">
@@ -2085,7 +2085,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Hebrew</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081049Z">
@@ -2093,7 +2093,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Hide</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T211213Z">
@@ -2101,7 +2101,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Hide action bar in reading mode</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T202011Z">
@@ -2109,7 +2109,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Hide status bar in reading mode</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T202113Z">
@@ -2117,7 +2117,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Hinting</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T231836Z">
@@ -2125,7 +2125,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Horizontal footer</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T211754Z">
@@ -2133,7 +2133,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Horizontal scrolling</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T225252Z">
@@ -2141,7 +2141,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Host %s cannot be reached</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075732Z">
@@ -2149,7 +2149,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>How to turn pages</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T225832Z">
@@ -2157,7 +2157,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Hungarian</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081052Z">
@@ -2165,7 +2165,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Hyperlink text</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T200415Z">
@@ -2173,7 +2173,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Hyphenate words automatically</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230845Z">
@@ -2181,7 +2181,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Ignore double taps</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T191456Z">
@@ -2189,7 +2189,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Image</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233524Z">
@@ -2197,7 +2197,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Image displaying options</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T210558Z">
@@ -2205,7 +2205,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Images</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T210631Z">
@@ -2213,7 +2213,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Index in series\:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201217Z">
@@ -2221,7 +2221,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Indonesian</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081055Z">
@@ -2229,7 +2229,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Install</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T084117Z">
@@ -2237,7 +2237,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Install dictionary</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T212713Z">
@@ -2245,7 +2245,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Install plugin</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T213539Z">
@@ -2253,7 +2253,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Internal Hyperlink</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233530Z">
@@ -2261,7 +2261,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Internal server error</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T085850Z">
@@ -2269,7 +2269,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Invalid URL</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T212221Z">
@@ -2277,7 +2277,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Invert volume keys direction</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T225820Z">
@@ -2285,7 +2285,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Italian</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081058Z">
@@ -2293,7 +2293,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Italic</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233723Z">
@@ -2301,7 +2301,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Justify</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230637Z">
@@ -2309,7 +2309,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Keep volume keys for sound</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T225907Z">
@@ -2317,7 +2317,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Key navigation visits all words</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T203948Z">
@@ -2325,7 +2325,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Key navigation visits hyperlinks only</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T203939Z">
@@ -2333,7 +2333,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Landscape</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T075451Z">
@@ -2341,7 +2341,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Language</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201039Z">
@@ -2349,7 +2349,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Language filter</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T212721Z">
@@ -2357,7 +2357,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Language\:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201043Z">
@@ -2365,7 +2365,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Last 3 positions</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T203237Z">
@@ -2373,7 +2373,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Last modified\:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201426Z">
@@ -2381,7 +2381,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Leather</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T204131Z">
@@ -2389,7 +2389,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Left</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230631Z">
@@ -2397,7 +2397,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Left Indent</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T232846Z">
@@ -2405,7 +2405,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Left margin</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T210656Z">
@@ -2413,7 +2413,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Left to right page scrolling</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230242Z">
@@ -2421,7 +2421,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Library</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074040Z">
@@ -2429,7 +2429,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Line Spacing</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T232901Z">
@@ -2437,7 +2437,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Lithuanian</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081101Z">
@@ -2445,7 +2445,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Loading book information. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214416Z">
@@ -2453,7 +2453,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Loading catalog information. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214408Z">
@@ -2461,7 +2461,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Loading information. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214344Z">
@@ -2469,7 +2469,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Long tapping action</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T204322Z">
@@ -2477,7 +2477,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Long tapping does nothing</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T204101Z">
@@ -2485,7 +2485,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Long tapping initiates selecting</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T204314Z">
@@ -2493,7 +2493,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Long tapping opens image view</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T210615Z">
@@ -2501,7 +2501,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Long tapping selects single word</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T204248Z">
@@ -2509,7 +2509,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Long tapping selects single word, release opens dictionary</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T204240Z">
@@ -2517,7 +2517,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Long tapping selects the image</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T210628Z">
@@ -2525,7 +2525,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Louder (lower) key turns to previous (next) page</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T225711Z">
@@ -2533,7 +2533,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Lower (louder) key turns to next (previous) page</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T225554Z">
@@ -2541,7 +2541,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Margins</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T210843Z">
@@ -2549,7 +2549,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Memory card</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071340Z">
@@ -2557,7 +2557,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Memory card inserted into the device</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071334Z">
@@ -2565,7 +2565,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Missing book</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T213458Z">
@@ -2573,7 +2573,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>More styles</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234020Z">
@@ -2581,7 +2581,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Multilanguage</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081006Z">
@@ -2589,7 +2589,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>My selected books</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215612Z">
@@ -2597,7 +2597,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Name\:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201101Z">
@@ -2605,7 +2605,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Navigate</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074615Z">
@@ -2613,7 +2613,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Navigate back</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T170116Z">
@@ -2621,7 +2621,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Navigate over all words</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T204029Z">
@@ -2629,7 +2629,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Network error</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075807Z">
@@ -2637,7 +2637,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Network library</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074713Z">
@@ -2645,7 +2645,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Never</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T191610Z">
@@ -2653,7 +2653,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>New bookmark</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201527Z">
@@ -2661,7 +2661,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Next tip</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214054Z">
@@ -2669,7 +2669,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Night</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074716Z">
@@ -2677,7 +2677,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>No</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075445Z">
@@ -2685,7 +2685,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>No action</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T202923Z">
@@ -2693,7 +2693,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>No books</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T183029Z">
@@ -2701,7 +2701,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>No books found, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215000Z">
@@ -2709,7 +2709,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>No description available.</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201124Z">
@@ -2717,7 +2717,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>No plugin for '%s'</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201816Z">
@@ -2725,7 +2725,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>No user was registered\nwith specified e-mail address</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T213349Z">
@@ -2733,7 +2733,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>None</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T210334Z">
@@ -2741,7 +2741,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Norwegian</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081103Z">
@@ -2749,7 +2749,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Not enough money</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T143132Z">
@@ -2757,7 +2757,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>OPF is not found in %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201753Z">
@@ -2765,7 +2765,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Ok</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075447Z">
@@ -2773,7 +2773,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Open</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T165645Z">
@@ -2781,7 +2781,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Open basket</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191052Z">
@@ -2789,7 +2789,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Open book</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T072513Z">
@@ -2797,7 +2797,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Open catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191058Z">
@@ -2805,7 +2805,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Open in browser</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191107Z">
@@ -2813,7 +2813,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Open in dictionary</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234234Z">
@@ -2821,7 +2821,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Open library</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T202830Z">
@@ -2829,7 +2829,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Open network library</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T202844Z">
@@ -2837,7 +2837,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Open page in browser</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191744Z">
@@ -2845,7 +2845,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Open previous book</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T202854Z">
@@ -2853,7 +2853,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Opening book. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214352Z">
@@ -2861,7 +2861,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Opening library. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214425Z">
@@ -2869,7 +2869,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Operation is timed out</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075747Z">
@@ -2877,7 +2877,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Other</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081108Z">
@@ -2885,7 +2885,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Page turning</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230053Z">
@@ -2893,7 +2893,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Password</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T083609Z">
@@ -2901,7 +2901,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Pay</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T084128Z">
@@ -2909,7 +2909,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Permission denied, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215306Z">
@@ -2917,7 +2917,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Poem Title</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233627Z">
@@ -2925,7 +2925,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Polish</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081110Z">
@@ -2933,7 +2933,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Portrait</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T075457Z">
@@ -2941,7 +2941,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Portuguese</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081112Z">
@@ -2949,7 +2949,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Preformatted text</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233636Z">
@@ -2957,7 +2957,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Prevent screen from sleeping</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T201302Z">
@@ -2965,7 +2965,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Prevent screen from sleeping during charging</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T201839Z">
@@ -2973,7 +2973,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Prevent screen from sleeping if device is in charging mode</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T201752Z">
@@ -2981,7 +2981,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Previous book</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T203934Z">
@@ -2989,7 +2989,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Progress indicator</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T213851Z">
@@ -2997,7 +2997,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Purchase book</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T082353Z">
@@ -3005,7 +3005,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Purchase book. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T183226Z">
@@ -3013,7 +3013,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Purchase books</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T082401Z">
@@ -3021,7 +3021,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Quote from %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234246Z">
@@ -3029,7 +3029,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Read</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T165651Z">
@@ -3037,7 +3037,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Read book text</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234335Z">
@@ -3045,7 +3045,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Read local copy</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191156Z">
@@ -3053,7 +3053,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Read sample</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191142Z">
@@ -3061,7 +3061,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Recent</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071613Z">
@@ -3069,7 +3069,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Recently opened books</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071553Z">
@@ -3077,7 +3077,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Red</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075436Z">
@@ -3085,7 +3085,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Refresh</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T084136Z">
@@ -3093,7 +3093,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Refresh catalogs</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T190917Z">
@@ -3101,7 +3101,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Regular</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T232819Z">
@@ -3109,7 +3109,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Regular Paragraph</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233648Z">
@@ -3117,7 +3117,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Regular text</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T200918Z">
@@ -3125,7 +3125,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Related links</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T194351Z">
@@ -3133,7 +3133,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Reload</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T084323Z">
@@ -3141,7 +3141,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Remove catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191217Z">
@@ -3149,7 +3149,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Remove from basket</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191448Z">
@@ -3157,7 +3157,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Remove from favorites</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071622Z">
@@ -3165,7 +3165,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Required information is not specified in the catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T212913Z">
@@ -3173,7 +3173,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Reset position</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T084421Z">
@@ -3181,7 +3181,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Return to …</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T202859Z">
@@ -3189,7 +3189,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Reverse landscape</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T075515Z">
@@ -3197,7 +3197,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Reverse portrait</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T075542Z">
@@ -3205,7 +3205,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Right</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230651Z">
@@ -3213,7 +3213,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Right Indent</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234026Z">
@@ -3221,7 +3221,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Right margin</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T210700Z">
@@ -3229,7 +3229,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Right to left page scrolling</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230255Z">
@@ -3237,7 +3237,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Romanian</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081115Z">
@@ -3245,7 +3245,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Rotate screen</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074800Z">
@@ -3253,7 +3253,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Rtf parsing error in\: %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T191748Z">
@@ -3261,7 +3261,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Russian</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081117Z">
@@ -3269,7 +3269,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Sample is being downloaded</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T081548Z">
@@ -3277,7 +3277,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Screen brightness adjustment</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T192525Z">
@@ -3285,7 +3285,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Screen orientation</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074829Z">
@@ -3293,7 +3293,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Scroll pages horizontally</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T225232Z">
@@ -3301,7 +3301,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Scroll pages vertically</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T225224Z">
@@ -3309,7 +3309,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Scrollbar &amp; footer settings</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T212925Z">
@@ -3317,7 +3317,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Scrollbar type</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T212638Z">
@@ -3325,7 +3325,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Search</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071539Z">
@@ -3333,7 +3333,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Search books in all catalogs</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T192840Z">
@@ -3341,7 +3341,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Search books on %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191505Z">
@@ -3349,7 +3349,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Search in progress</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191555Z">
@@ -3357,7 +3357,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Search results background</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T200408Z">
@@ -3365,7 +3365,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Search results for\: %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071530Z">
@@ -3373,7 +3373,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Searching for books in network</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191608Z">
@@ -3381,7 +3381,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Searching. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214448Z">
@@ -3389,7 +3389,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Section Title</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234006Z">
@@ -3397,7 +3397,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Select action</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T081649Z">
@@ -3405,7 +3405,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Selected text</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T200814Z">
@@ -3413,7 +3413,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Selection</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234304Z">
@@ -3421,7 +3421,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Selection background</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T200435Z">
@@ -3429,7 +3429,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Send report</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T084430Z">
@@ -3437,7 +3437,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Send us an e-mail</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191819Z">
@@ -3445,7 +3445,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Separate settings for titles, epigraphs, etc.</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233924Z">
@@ -3453,7 +3453,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Sepia</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T204137Z">
@@ -3461,7 +3461,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Series</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201223Z">
@@ -3469,7 +3469,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Series\:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201230Z">
@@ -3477,7 +3477,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Settings</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074735Z">
@@ -3485,7 +3485,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Share</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T084435Z">
@@ -3493,7 +3493,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Share book</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071631Z">
@@ -3501,7 +3501,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Shared from &lt;a href\="http\://www.fbreader.org/"&gt;FBReader&lt;/a&gt;</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T170140Z">
@@ -3509,7 +3509,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Shift animation</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T224348Z">
@@ -3517,7 +3517,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Show 'open library' item</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T203118Z">
@@ -3525,7 +3525,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Show 'open network library' item</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T203136Z">
@@ -3533,7 +3533,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Show 'return to previous book' item</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T203926Z">
@@ -3541,7 +3541,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Show TOC marks</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T213015Z">
@@ -3549,7 +3549,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Show TOC marks in the footer bar</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T213007Z">
@@ -3557,7 +3557,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Show action bar</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T202030Z">
@@ -3565,7 +3565,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Show action bar in reading mode</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T202021Z">
@@ -3573,7 +3573,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Show battery level</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T212721Z">
@@ -3581,7 +3581,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Show battery level in footer</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T212715Z">
@@ -3589,7 +3589,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Show books</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191614Z">
@@ -3597,7 +3597,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Show cancel menu</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T202854Z">
@@ -3605,7 +3605,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Show clock</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T191600Z">
@@ -3613,7 +3613,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Show clock in footer</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T212750Z">
@@ -3621,7 +3621,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Show daily tips</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234149Z">
@@ -3629,7 +3629,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Show items for last 3 positions in the book</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T203300Z">
@@ -3637,7 +3637,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Show page number</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T212830Z">
@@ -3645,7 +3645,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Show page number in footer</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T212817Z">
@@ -3653,7 +3653,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Show results</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191620Z">
@@ -3661,7 +3661,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Show status bar</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T202139Z">
@@ -3669,7 +3669,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Show status bar in reading mode</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T202130Z">
@@ -3677,7 +3677,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Show status bar when menu becomes active</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T202235Z">
@@ -3685,7 +3685,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Show status bar when menu is active</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T202307Z">
@@ -3693,7 +3693,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Show tips</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234155Z">
@@ -3701,7 +3701,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Sign in</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191002Z">
@@ -3709,7 +3709,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Sign out (%s)</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191027Z">
@@ -3717,7 +3717,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Sign up</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T083736Z">
@@ -3725,7 +3725,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Signing out. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214455Z">
@@ -3733,7 +3733,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Size\:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201235Z">
@@ -3741,7 +3741,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Skip</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T084447Z">
@@ -3749,7 +3749,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Slide animation</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T224314Z">
@@ -3757,7 +3757,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Solid color</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T204145Z">
@@ -3765,7 +3765,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Something goes wrong for %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075759Z">
@@ -3773,7 +3773,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Space After</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234033Z">
@@ -3781,7 +3781,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Space Before</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234039Z">
@@ -3789,7 +3789,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Spanish</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081040Z">
@@ -3797,7 +3797,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Specified site is already in use</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T212236Z">
@@ -3805,7 +3805,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Specified title is already in use</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T212314Z">
@@ -3813,7 +3813,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Stanza</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233705Z">
@@ -3821,7 +3821,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Stop loading</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191634Z">
@@ -3829,7 +3829,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Stop searching</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191659Z">
@@ -3837,7 +3837,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Stopping loading</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191641Z">
@@ -3845,7 +3845,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Stopping search</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191650Z">
@@ -3853,7 +3853,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>StrikeThrough</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233712Z">
@@ -3861,7 +3861,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Striked through</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234053Z">
@@ -3869,7 +3869,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Strong</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233744Z">
@@ -3877,7 +3877,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Subpixel smoothing</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T232607Z">
@@ -3885,7 +3885,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Subpixel smoothing is disabled</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T232548Z">
@@ -3893,7 +3893,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Subpixel smoothing is enabled</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T232556Z">
@@ -3901,7 +3901,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Subscript</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233835Z">
@@ -3909,7 +3909,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Subtitle</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233844Z">
@@ -3917,7 +3917,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Summary</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T084737Z">
@@ -3925,7 +3925,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Superscript</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233932Z">
@@ -3933,7 +3933,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Swedish</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081119Z">
@@ -3941,7 +3941,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Switch screen off even if device is in charging mode</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T201720Z">
@@ -3949,7 +3949,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>System</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T191710Z">
@@ -3957,7 +3957,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>TOC</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T075820Z">
@@ -3965,7 +3965,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Table of Contents</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074541Z">
@@ -3973,7 +3973,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Tag(s)</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201403Z">
@@ -3981,7 +3981,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Tag\:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201356Z">
@@ -3989,7 +3989,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Tags\:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201410Z">
@@ -3997,7 +3997,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Tamil</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081219Z">
@@ -4005,7 +4005,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Tap zones</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230327Z">
@@ -4013,7 +4013,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Tap zones scheme</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230321Z">
@@ -4021,7 +4021,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Text</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234134Z">
@@ -4029,7 +4029,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Text margins</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T210757Z">
@@ -4037,7 +4037,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Thai</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081223Z">
@@ -4045,7 +4045,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>The book file will be removed irreversibly. Are you sure?</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T212646Z">
@@ -4053,7 +4053,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>The display will not rotate when user moves the device</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T192609Z">
@@ -4061,7 +4061,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>The display will rotate when user moves the device</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T192619Z">
@@ -4069,7 +4069,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>There are no suitable bookmarks, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214657Z">
@@ -4077,7 +4077,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>There are no suitable books in the library, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214709Z">
@@ -4085,7 +4085,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>There is no suitable text in the book, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215324Z">
@@ -4093,7 +4093,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>This book</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201534Z">
@@ -4101,7 +4101,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>This is not an OPDS catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T213230Z">
@@ -4109,7 +4109,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>This purchase costs %0</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T082530Z">
@@ -4117,7 +4117,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>This purchase costs %0 and you have only %1</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T082502Z">
@@ -4125,7 +4125,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Tip of the day</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214101Z">
@@ -4133,7 +4133,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Tips</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234212Z">
@@ -4141,7 +4141,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Title</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T084931Z">
@@ -4149,7 +4149,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Title should be non-empty</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T212604Z">
@@ -4157,7 +4157,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Title\:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201435Z">
@@ -4165,7 +4165,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>To turn pages swipe screen horizontally or use hardware volume keys.</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T073930Z">
@@ -4173,7 +4173,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Top margin</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T210839Z">
@@ -4181,7 +4181,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Top up</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T084526Z">
@@ -4189,7 +4189,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Top up account</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191045Z">
@@ -4197,7 +4197,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Top up account (currently\: %s)</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191714Z">
@@ -4205,7 +4205,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Touch screen page turning</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230025Z">
@@ -4213,7 +4213,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Translator</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T204342Z">
@@ -4221,7 +4221,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Try again</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T084536Z">
@@ -4229,7 +4229,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Turkish</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081228Z">
@@ -4237,7 +4237,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Turn page with volume keys</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230015Z">
@@ -4245,7 +4245,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Turn pages by finger flick</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T225107Z">
@@ -4253,7 +4253,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Turn pages by finger tap</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T225104Z">
@@ -4261,7 +4261,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Turn pages by finger tap or flick</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T225102Z">
@@ -4269,7 +4269,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Turn pages with no animation</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T224004Z">
@@ -4277,7 +4277,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Type\:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201441Z">
@@ -4285,7 +4285,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>URL</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T085226Z">
@@ -4293,7 +4293,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>URL should be non-empty</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T212613Z">
@@ -4301,7 +4301,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Ukrainian</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T080943Z">
@@ -4309,7 +4309,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Unable to create cache directory</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T212816Z">
@@ -4317,7 +4317,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Unable to create directory %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T072942Z">
@@ -4325,7 +4325,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Unable to create file %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T072949Z">
@@ -4333,7 +4333,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Underlined</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234130Z">
@@ -4341,7 +4341,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Unknown Error</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T080549Z">
@@ -4349,7 +4349,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Unknown author</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071644Z">
@@ -4357,7 +4357,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Unknown error</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075813Z">
@@ -4365,7 +4365,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Unknown plugin type\: %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201832Z">
@@ -4373,7 +4373,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Unsupported Compression Method</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T080720Z">
@@ -4381,7 +4381,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Unsupported operation</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T213518Z">
@@ -4389,7 +4389,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Unsupported protocol</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075822Z">
@@ -4397,7 +4397,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Up to down page scrolling</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230229Z">
@@ -4405,7 +4405,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Update</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T084540Z">
@@ -4413,7 +4413,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Update plugin</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T213554Z">
@@ -4421,7 +4421,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Updating account information. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214534Z">
@@ -4429,7 +4429,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Updating books database. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214555Z">
@@ -4437,7 +4437,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Updating catalogs list. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214618Z">
@@ -4445,7 +4445,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Use volume keys to turn the pages</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T225950Z">
@@ -4453,7 +4453,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Username</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T083544Z">
@@ -4461,7 +4461,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Username should be non-empty</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T083605Z">
@@ -4469,7 +4469,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Verse</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234001Z">
@@ -4477,7 +4477,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Version</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T192310Z">
@@ -4485,7 +4485,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Version info, contacts</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191846Z">
@@ -4493,7 +4493,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Vertical progress bar</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T212044Z">
@@ -4501,7 +4501,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Vertical slider</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T212625Z">
@@ -4509,7 +4509,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Vietnamese</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T080951Z">
@@ -4517,7 +4517,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Visit our website</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191833Z">
@@ -4525,7 +4525,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Visited hyperlink text</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T200425Z">
@@ -4533,7 +4533,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Wallpapers directory</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T205459Z">
@@ -4541,7 +4541,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>While battery level is greater than 25 percent</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T201220Z">
@@ -4549,7 +4549,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>While battery level is greater than 50 percent</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T201229Z">
@@ -4557,7 +4557,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Wood</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T204158Z">
@@ -4565,7 +4565,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Would you like to install %s?</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T212703Z">
@@ -4573,7 +4573,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Would you like to read FBReader daily tips? New tips would be downloaded from FBReader site. Expected network traffic is 1-2 kilobytes per week.\n\nEnable tips?</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214047Z">
@@ -4581,7 +4581,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Yes</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075450Z">
@@ -4589,7 +4589,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Your basket is empty, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214929Z">
@@ -4597,7 +4597,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Your favorites list is empty, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215357Z">
@@ -4605,7 +4605,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Your password will be sent unencrypted</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T083808Z">
@@ -4613,7 +4613,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Zoom in</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074035Z">
@@ -4621,7 +4621,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Zoom out</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074031Z">
@@ -4629,7 +4629,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>bold</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230906Z">
@@ -4637,7 +4637,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>don't hyphenate words</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230805Z">
@@ -4645,7 +4645,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>fast</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T224420Z">
@@ -4653,7 +4653,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>http\://twitter.com/fbreader</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191848Z">
@@ -4661,7 +4661,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>http\://www.fbreader.org/</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191822Z">
@@ -4669,7 +4669,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>hyphenate words</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230810Z">
@@ -4677,7 +4677,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>italic</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T232837Z">
@@ -4685,7 +4685,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>mailto\:contact@geometerplus.com</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191804Z">
@@ -4693,7 +4693,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>off</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075219Z">
@@ -4701,7 +4701,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>on</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075227Z">
@@ -4709,7 +4709,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>regular</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230902Z">
@@ -4717,7 +4717,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>sample</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215601Z">
@@ -4725,7 +4725,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>slow</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T224424Z">
@@ -4733,7 +4733,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>striked through</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234046Z">
@@ -4741,7 +4741,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>unchanged</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075312Z">
@@ -4749,7 +4749,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>underlined</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234124Z">
@@ -4760,7 +4760,7 @@
     <tu>
       <prop type="file">FBReaderJ-i18n-en/FBReader-en.xml.properties</prop>
       <prop type="id">bookmarksView.open</prop>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Open</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T163959Z">
