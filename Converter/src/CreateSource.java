@@ -14,8 +14,8 @@ import javax.xml.stream.events.XMLEvent;
 public class CreateSource {
 
     public static void main(String[] args) throws Exception {
-        parse("../source/Android/1.6.5/FBReader-en.xml", "../source/Android/1.6.5/FBReader-en.ini");
-        parse("../source/Android/1.6.5/zlibrary-en.xml", "../source/Android/1.6.5/zlibrary-en.ini");
+        parse("../source/Android/1.9.0/FBReader-en.xml", "../source/Android/1.9.0/FBReader-en.ini");
+        parse("../source/Android/1.9.0/zlibrary-en.xml", "../source/Android/1.9.0/zlibrary-en.ini");
         parse("../source/Desktop/FBReader-en.xml", "../source/Desktop/FBReader-en.ini");
         parse("../source/Desktop/zlibrary-en.xml", "../source/Desktop/zlibrary-en.ini");
     }
