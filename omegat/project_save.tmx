@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133911Z" creationid="eratyk" creationdate="20140831T133911Z">
+        <seg>Любая мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Appearance</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T202546Z">
@@ -898,6 +906,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T080957Z">
         <seg>Кітайская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chinese (traditional)</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133903Z" creationid="eratyk" creationdate="20140831T133903Z">
+        <seg>Кітайская традыцыйная мова</seg>
       </tuv>
     </tu>
     <tu>
@@ -2186,6 +2202,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130151Z">
         <seg>Галісійская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Georgian</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133843Z" creationid="eratyk" creationdate="20140831T133843Z">
+        <seg>Грузінская мова</seg>
       </tuv>
     </tu>
     <tu>
@@ -3858,6 +3882,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T204137Z">
         <seg>Сэпія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Serbian</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133850Z" creationid="eratyk" creationdate="20140831T133850Z">
+        <seg>Сэрбская мова</seg>
       </tuv>
     </tu>
     <tu>
