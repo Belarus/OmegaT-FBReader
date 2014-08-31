@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Books folder</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T150313Z" creationid="eratyk" creationdate="20140831T150313Z">
+        <seg>Тэчка кніг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Books not accessible from the server more</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T144933Z" creationid="eratyk" creationdate="20140831T144933Z">
@@ -4606,6 +4614,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Synchronise metainfo (title, tags, etc.)</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T150223Z" creationid="eratyk" creationdate="20140831T150223Z">
+        <seg>Сынхранізаваць мэтазьвесткі (назву, цэтлікі, інш.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Synchronise my library as %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T145359Z" creationid="eratyk" creationdate="20140831T145359Z">
@@ -5298,6 +5314,22 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T131400Z">
         <seg>Тэчка шпалераў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where to seek for books</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T150258Z" creationid="eratyk" creationdate="20140831T150258Z">
+        <seg>Дзе шукаць кнігі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where to store downloaded books</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T150338Z" creationid="eratyk" creationdate="20140831T150338Z">
+        <seg>Дзе захоўваць зладаваныя кнігі</seg>
       </tuv>
     </tu>
     <tu>
