@@ -1,3 +1,6 @@
 [submodule "dictionary"]
 	path = dictionary
 	url = git://github.com/Belarus/Common.git
+[submodule "dictionaries"]
+	path = dictionaries
+	url = ../Common.git
