@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Armenian</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133835Z" creationid="eratyk" creationdate="20140831T133835Z">
+        <seg>Армянская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Authentication</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T083750Z">
@@ -482,6 +490,22 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T081653Z">
         <seg>Кошык</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Basque</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133744Z" creationid="eratyk" creationdate="20140831T133744Z">
+        <seg>Басконская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Belarusian</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133552Z" creationid="eratyk" creationdate="20140831T133546Z">
+        <seg>Беларуская мова</seg>
       </tuv>
     </tu>
     <tu>
@@ -686,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bulgarian</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133600Z" creationid="eratyk" creationdate="20140831T133600Z">
+        <seg>Баўгарская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Buy</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T083821Z">
@@ -784,16 +816,16 @@
       <tuv lang="en">
         <seg>Cancel menu</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121019T204044Z">
-        <seg>Мэню касацыі</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132829Z">
+        <seg>Мэню касаваньня</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Cannot access Android Market. Please, install %s manually</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121013T214841Z">
-        <seg>Няма доступу да рынку Android. Калі ласка, усталюйце %s уручную</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132948Z">
+        <seg>Няма доступу да Крамы Android. Калі ласка, усталюйце %s уручную</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,10 +838,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot open external application</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133027Z" creationid="eratyk" creationdate="20140831T133027Z">
+        <seg>Немагчыма адчыніць зьнешнюю праграму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot open this book at the moment, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214734Z">
         <seg>Немагчыма адчыніць гэтую кнігу зараз, прабачце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Catalan</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133728Z" creationid="eratyk" creationdate="20140831T133728Z">
+        <seg>Каталянская мова</seg>
       </tuv>
     </tu>
     <tu>
@@ -1082,6 +1130,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234207Z">
         <seg>Налады штодзённых падказак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Danish</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133734Z" creationid="eratyk" creationdate="20140831T133734Z">
+        <seg>Дацкая мова</seg>
       </tuv>
     </tu>
     <tu>
@@ -1456,8 +1512,8 @@
       <tuv lang="en">
         <seg>Don't show page number in footer</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121025T212810Z">
-        <seg>Не паказваць нумар бачыны ў прыпятку</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132609Z">
+        <seg>Не паказваць нумар старонкі ў прыпятку</seg>
       </tuv>
     </tu>
     <tu>
@@ -1630,6 +1686,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Editing of main directory will lead to loss of data. Continue?</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132926Z" creationid="eratyk" creationdate="20140831T132926Z">
+        <seg>Рэдагаваньне галоўнае тэчкі можа прывесьці да страты зьвестак. Працягнуць?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Emphasis</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233429Z">
@@ -1678,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter page number</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132536Z" creationid="eratyk" creationdate="20140831T132536Z">
+        <seg>Увядзіце нумар старонкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Epigraph</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130005Z">
@@ -1688,16 +1760,16 @@
       <tuv lang="en">
         <seg>Error occured during extracting '%s'</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121012T201620Z">
-        <seg>Адбылася памылка падчас выманьня '%s'</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133327Z">
+        <seg>Адбылася памылка падчас выманьня «%s»</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Error occured during reading '%s'</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121012T201610Z">
-        <seg>Адбылася памылка падчас чытаньня '%s'</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133338Z">
+        <seg>Адбылася памылка падчас чытаньня «%s»</seg>
       </tuv>
     </tu>
     <tu>
@@ -1718,10 +1790,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Extension already supported by %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133359Z" creationid="eratyk" creationdate="20140831T133133Z">
+        <seg>Пашырэньне ўжо падтрымліваецца «%s»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External Hyperlink</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233443Z">
         <seg>Зьнешняя спасылка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FBReader %s plugin</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132458Z" creationid="eratyk" creationdate="20140831T132458Z">
+        <seg>FBReader, убудова %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FBReader (java)</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132412Z" creationid="eratyk" creationdate="20140831T132412Z">
+        <seg>FBReader (java)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FBReader (native)</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132423Z" creationid="eratyk" creationdate="20140831T132423Z">
+        <seg>FBReader (родны)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1790,6 +1894,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to unzip book for external use</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133157Z" creationid="eratyk" creationdate="20140831T133157Z">
+        <seg>Не ўдалося распакаваць кнігу для зьнешняга выкарыстаньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Favorites</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215617Z">
@@ -1816,8 +1928,8 @@
       <tuv lang="en">
         <seg>File format is not supported for '%s'</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121012T201856Z">
-        <seg>Фармат файла не падтрымліваецца для '%s'</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133309Z">
+        <seg>Фармат файла не падтрымліваецца для «%s»</seg>
       </tuv>
     </tu>
     <tu>
@@ -2014,6 +2126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Format is invalid</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133112Z" creationid="eratyk" creationdate="20140831T133112Z">
+        <seg>Хібны фармат</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Formats</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T132336Z" creationid="eratyk" creationdate="20140831T132336Z">
@@ -2120,8 +2240,8 @@
       <tuv lang="en">
         <seg>Go to Page…</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121019T151845Z">
-        <seg>Перайсьці да бачыны…</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132549Z">
+        <seg>Перайсьці да старонкі…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2296,8 +2416,8 @@
       <tuv lang="en">
         <seg>How to turn pages</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121025T225832Z">
-        <seg>Як гартаць бачыны</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132620Z">
+        <seg>Як гартаць старонкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -2640,8 +2760,8 @@
       <tuv lang="en">
         <seg>Loading catalog information. Please, wait…</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121013T214408Z">
-        <seg>Ладаваньне інфармацыі каталёґу. Калі ласка, пачакайце…</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133511Z">
+        <seg>Ладаваньне інфармацыі каталёгу. Калі ласка, пачакайце…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2712,16 +2832,16 @@
       <tuv lang="en">
         <seg>Louder (lower) key turns to previous (next) page</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121025T225711Z">
-        <seg>«Гучней» («цішэй») вядзе да папярэдняй (наступнай) бачыны</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132646Z">
+        <seg>«Гучней» («цішэй») вядзе да папярэдняй (наступнай) старонкі</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Lower (louder) key turns to next (previous) page</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121025T225554Z">
-        <seg>«Цішэй» («гучней») вядзе да наступнай (папярэдняй) бачыны</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132656Z">
+        <seg>«Цішэй» («гучней») вядзе да наступнай (папярэдняй) старонкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -2730,6 +2850,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130429Z" creationid="eratyk" creationdate="20140831T130429Z">
         <seg>Кіраваць каталёгамі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Manage file formats</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132356Z" creationid="eratyk" creationdate="20140831T132356Z">
+        <seg>Кіраваць фарматамі файлаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -2934,6 +3062,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No suitable application found</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133100Z" creationid="eratyk" creationdate="20140831T133100Z">
+        <seg>Няма адпаведнае праграмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No user was registered\nwith specified e-mail address</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130049Z">
@@ -2954,6 +3090,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081103Z">
         <seg>Нарвэская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not chosen</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132404Z" creationid="eratyk" creationdate="20140831T132404Z">
+        <seg>Ня выбрана</seg>
       </tuv>
     </tu>
     <tu>
@@ -3048,8 +3192,8 @@
       <tuv lang="en">
         <seg>Open page in browser</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121019T191744Z">
-        <seg>Адчыніць бачыну ў аглядальніку</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132542Z">
+        <seg>Адчыніць старонку ў аглядальніку</seg>
       </tuv>
     </tu>
     <tu>
@@ -3096,8 +3240,8 @@
       <tuv lang="en">
         <seg>Page turning</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121025T230053Z">
-        <seg>Гартаньне бачынаў</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132613Z">
+        <seg>Гартаньне старонак</seg>
       </tuv>
     </tu>
     <tu>
@@ -3122,6 +3266,22 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215306Z">
         <seg>Адмоўлена ў дазволе, прабачце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Persian</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133827Z" creationid="eratyk" creationdate="20140831T133827Z">
+        <seg>Пэрсыдзкая мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please install plugin to read this file type</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133233Z" creationid="eratyk" creationdate="20140831T133233Z">
+        <seg>Калі ласка, усталюйце ўбудову, каб чытаць файлы гэтага тыпу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3162,6 +3322,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233636Z">
         <seg>Адфарматаваны тэкст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preparing file for external app. Please, wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132816Z" creationid="eratyk" creationdate="20140831T132816Z">
+        <seg>Падрыхтоўка файла для зьнешняй праграмы. Калі ласка, пачакайце…</seg>
       </tuv>
     </tu>
     <tu>
@@ -3528,16 +3696,16 @@
       <tuv lang="en">
         <seg>Scroll pages horizontally</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121025T225232Z">
-        <seg>Гартаць бачыны гарызантальна</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132703Z">
+        <seg>Гартаць старонкі гарызантальна</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Scroll pages vertically</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121025T225224Z">
-        <seg>Гартаць бачыны вэртыкальна</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132724Z">
+        <seg>Гартаць старонкі вэртыкальна</seg>
       </tuv>
     </tu>
     <tu>
@@ -3840,8 +4008,8 @@
       <tuv lang="en">
         <seg>Show cancel menu</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121019T202854Z">
-        <seg>Паказаць мэню касацыі</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132842Z">
+        <seg>Паказаць мэню касаваньня</seg>
       </tuv>
     </tu>
     <tu>
@@ -3880,16 +4048,16 @@
       <tuv lang="en">
         <seg>Show page number</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121025T212830Z">
-        <seg>Паказваць нумар бачыны</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132554Z">
+        <seg>Паказваць нумар старонкі</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Show page number in footer</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121025T212817Z">
-        <seg>Паказваць нумар бачыны ў прыпятку</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132604Z">
+        <seg>Паказваць нумар старонкі ў прыпятку</seg>
       </tuv>
     </tu>
     <tu>
@@ -4350,6 +4518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are no books in series, sorry</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133014Z" creationid="eratyk" creationdate="20140831T133014Z">
+        <seg>Няма кніг з сэрыі, прабачце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are no suitable bookmarks, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214657Z">
@@ -4488,8 +4664,8 @@
       <tuv lang="en">
         <seg>Touch screen page turning</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121025T230025Z">
-        <seg>Гартаньне бачынаў крананьнямі</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132631Z">
+        <seg>Гартаньне старонак дотыкам</seg>
       </tuv>
     </tu>
     <tu>
@@ -4528,8 +4704,8 @@
       <tuv lang="en">
         <seg>Turn page with volume keys</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121025T230015Z">
-        <seg>Гартаць бачыны гучнасьцю</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132638Z">
+        <seg>Гартаць старонкі гучнасьцю</seg>
       </tuv>
     </tu>
     <tu>
@@ -4736,8 +4912,8 @@
       <tuv lang="en">
         <seg>Updating catalogs list. Please, wait…</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121013T214618Z">
-        <seg>Абнаўленьне сьпісу каталёґу. Калі ласка, пачакайце…</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133519Z">
+        <seg>Абнаўленьне сьпісу каталёгу. Калі ласка, пачакайце…</seg>
       </tuv>
     </tu>
     <tu>
@@ -4942,6 +5118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>add new format</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132513Z" creationid="eratyk" creationdate="20140831T132513Z">
+        <seg>дадаць новы фармат</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>all languages</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T132138Z" creationid="eratyk" creationdate="20140831T132138Z">
@@ -4978,6 +5162,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T132300Z" creationid="eratyk" creationdate="20140831T132300Z">
         <seg>http\://fbreader.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http\://fbreader.org/faq-page</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T133240Z" creationid="eratyk" creationdate="20140831T133240Z">
+        <seg>http\://fbreader.org/faq-page</seg>
       </tuv>
     </tu>
     <tu>
@@ -5042,6 +5234,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230902Z">
         <seg>звычайны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>remove this format</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132507Z" creationid="eratyk" creationdate="20140831T132507Z">
+        <seg>прыбраць гэты фармат</seg>
       </tuv>
     </tu>
     <tu>
