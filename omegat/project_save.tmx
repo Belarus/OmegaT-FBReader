@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;p&gt; XHTML tag content</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T161551Z" creationid="eratyk" creationdate="20140831T161551Z">
+        <seg>Зьмесьціва тэга &lt;p&gt; XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;unchanged&gt;</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230718Z">
@@ -193,6 +201,14 @@
         <seg>Allow Hyphenations</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230819Z">
+        <seg>Дазволіць пераносы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allow hyphenations</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T161327Z" creationid="eratyk" creationdate="20140831T161327Z">
         <seg>Дазволіць пераносы</seg>
       </tuv>
     </tu>
@@ -298,6 +314,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121101T115119Z">
         <seg>Ужыць памер шрыфту з CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apply margins defined in CSS</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T161702Z" creationid="eratyk" creationdate="20140831T161702Z">
+        <seg>Ужыць палі з CSS</seg>
       </tuv>
     </tu>
     <tu>
@@ -1750,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>EPub Paragraph</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T161522Z" creationid="eratyk" creationdate="20140831T161522Z">
+        <seg>Абзац EPub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T125848Z">
@@ -2118,6 +2150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>First line indent</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T161332Z" creationid="eratyk" creationdate="20140831T161332Z">
+        <seg>Водступ першага радка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fit images to screen</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T210347Z">
@@ -2230,6 +2270,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fonts folder</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T160544Z" creationid="eratyk" creationdate="20140831T160544Z">
+        <seg>Тэчка шрыфтоў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Footer</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T200353Z">
@@ -2314,6 +2362,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071500Z">
         <seg>Уся файлавая сыстэма прылады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fullscreen mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T160745Z" creationid="eratyk" creationdate="20140831T160745Z">
+        <seg>Поўнаэкранны рэжым</seg>
       </tuv>
     </tu>
     <tu>
@@ -2510,6 +2566,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hide navigation controls</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T160856Z" creationid="eratyk" creationdate="20140831T160856Z">
+        <seg>Хаваць элемэнты навігацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hide status bar in reading mode</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T202113Z">
@@ -2606,10 +2670,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore font family defined in CSS</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T161801Z" creationid="eratyk" creationdate="20140831T161644Z">
+        <seg>Праігнараваць гарнітуру з CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore font size defined in CSS</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130213Z">
         <seg>Праігнараваць памер шрыфту з CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore margins defined in CSS</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T161733Z" creationid="eratyk" creationdate="20140831T161733Z">
+        <seg>Праігнараваць палі з CSS</seg>
       </tuv>
     </tu>
     <tu>
@@ -2870,6 +2950,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Left indent</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T161457Z" creationid="eratyk" creationdate="20140831T161457Z">
+        <seg>Левы водступ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Left margin</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T210656Z">
@@ -2897,6 +2985,14 @@
         <seg>Line Spacing</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T232901Z">
+        <seg>Міжрадковая адлегласьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line spacing</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T161106Z" creationid="eratyk" creationdate="20140831T161106Z">
         <seg>Міжрадковая адлегласьць</seg>
       </tuv>
     </tu>
@@ -3042,6 +3138,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130352Z" creationid="eratyk" creationdate="20140831T130352Z">
         <seg>Пазначыць як непрачытаную</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match background intensity</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T161952Z" creationid="eratyk" creationdate="20140831T161952Z">
+        <seg>Адпаведнасьць інтэнсіўнасьці фону</seg>
       </tuv>
     </tu>
     <tu>
@@ -3494,6 +3598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Predefined image…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T161826Z" creationid="eratyk" creationdate="20140831T161826Z">
+        <seg>Перадвызначаная выява…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preformatted text</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233636Z">
@@ -3798,6 +3910,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right indent</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T161458Z" creationid="eratyk" creationdate="20140831T161458Z">
+        <seg>Правы водступ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right margin</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T210700Z">
@@ -3986,6 +4106,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T081649Z">
         <seg>Абраць дзеяньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select file…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T161838Z" creationid="eratyk" creationdate="20140831T161838Z">
+        <seg>Выбраць файл…</seg>
       </tuv>
     </tu>
     <tu>
@@ -4238,6 +4366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show navigation controls</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T160912Z" creationid="eratyk" creationdate="20140831T160912Z">
+        <seg>Паказваць элемэнты навігацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show page number</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T132554Z">
@@ -4366,6 +4502,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Solid color…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T161817Z" creationid="eratyk" creationdate="20140831T161817Z">
+        <seg>Суцэльны колер…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Something goes wrong for %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T131603Z">
@@ -4376,16 +4520,32 @@
       <tuv lang="en">
         <seg>Space After</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121025T234033Z">
-        <seg>Прастора перад</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T161420Z">
+        <seg>Прастора пасьля</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Space Before</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121025T234039Z">
-        <seg>Прастора пасьля</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T161406Z">
+        <seg>Прастора перад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Space after paragraph</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T161451Z" creationid="eratyk" creationdate="20140831T161451Z">
+        <seg>Прастора пасьля абзаца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Space before paragraph</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T161354Z" creationid="eratyk" creationdate="20140831T161354Z">
+        <seg>Прастора перад абзацам</seg>
       </tuv>
     </tu>
     <tu>
@@ -4734,6 +4894,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Temp files folder</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T160608Z" creationid="eratyk" creationdate="20140831T160608Z">
+        <seg>Тэчка часовых файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234134Z">
@@ -4746,6 +4914,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121101T115413Z">
         <seg>Раўнаваньне тэксту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text decoration</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T161051Z" creationid="eratyk" creationdate="20140831T161051Z">
+        <seg>Аздабленьне тэксту</seg>
       </tuv>
     </tu>
     <tu>
@@ -5214,6 +5390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use font family defined in CSS</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T161708Z" creationid="eratyk" creationdate="20140831T161633Z">
+        <seg>Выкарыстоўваць гарнітуру з CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use volume keys to turn the pages</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T225950Z">
@@ -5258,6 +5442,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191846Z">
         <seg>Вэрсія й кантакты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vertical alignment</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T161510Z" creationid="eratyk" creationdate="20140831T161510Z">
+        <seg>Вэртыкальнае раўнаваньне</seg>
       </tuv>
     </tu>
     <tu>
@@ -5326,10 +5518,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Where to seek for fonts</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T160536Z" creationid="eratyk" creationdate="20140831T160536Z">
+        <seg>Дзе шукаць шрыфты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Where to store downloaded books</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T150338Z" creationid="eratyk" creationdate="20140831T150338Z">
         <seg>Дзе захоўваць зладаваныя кнігі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where to store temporary files</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T160559Z" creationid="eratyk" creationdate="20140831T160559Z">
+        <seg>Дзе захоўваць часовыя файлы</seg>
       </tuv>
     </tu>
     <tu>
@@ -5514,6 +5722,22 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191804Z">
         <seg>mailto\:contact@geometerplus.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>no decorations</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T161058Z" creationid="eratyk" creationdate="20140831T161058Z">
+        <seg>без аздабленьня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>normal</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T161033Z" creationid="eratyk" creationdate="20140831T161033Z">
+        <seg>звычайны</seg>
       </tuv>
     </tu>
     <tu>
