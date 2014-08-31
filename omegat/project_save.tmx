@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Always display text in one column</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132001Z" creationid="eratyk" creationdate="20140831T132001Z">
+        <seg>Заўсёды паказваць тэкст адным слупком</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Animation</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T224352Z">
@@ -590,10 +598,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Books directories</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T131632Z" creationid="eratyk" creationdate="20140831T131632Z">
+        <seg>Тэчкі кніг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Books directory</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20140831T125909Z">
-        <seg>Каталёг кніг</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T131347Z">
+        <seg>Тэчка кніг</seg>
       </tuv>
     </tu>
     <tu>
@@ -968,8 +984,8 @@
       <tuv lang="en">
         <seg>Couldn't connect to host %s</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121026T075611Z">
-        <seg>Немагчыма злучыцца з вузлом %s</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T131544Z">
+        <seg>Немагчыма злучыцца з вузлом «%s»</seg>
       </tuv>
     </tu>
     <tu>
@@ -984,24 +1000,24 @@
       <tuv lang="en">
         <seg>Couldn't create a directory %s</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20140831T130137Z">
-        <seg>Немагчыма стварыць каталёг %s</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T131533Z">
+        <seg>Немагчыма стварыць тэчку «%s»</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Couldn't create a file %s</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121026T075654Z">
-        <seg>Немагчыма стварыць файл %s</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T131538Z">
+        <seg>Немагчыма стварыць файл «%s»</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Couldn't resolve host %s</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121026T075719Z">
-        <seg>Немагчыма знайсьці вузел %s</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T131550Z">
+        <seg>Немагчыма знайсьці вузел «%s»</seg>
       </tuv>
     </tu>
     <tu>
@@ -1216,16 +1232,16 @@
       <tuv lang="en">
         <seg>Directories</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20140831T125900Z">
-        <seg>Каталёгі</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T131327Z">
+        <seg>Тэчкі</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Directories to seek for files</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20140831T125906Z">
-        <seg>Каталёгі для пошуку файлаў</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T131337Z">
+        <seg>Тэчкі для пошуку файлаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -1270,10 +1286,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display text in two columns when device is held horizontally</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132110Z" creationid="eratyk" creationdate="20140831T131943Z">
+        <seg>Паказваць тэкст двума слупкамі, калі прылада ў гарызантальным стане</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dithering</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T231650Z">
         <seg>Размываньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not highlight bookmarks</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T130958Z" creationid="eratyk" creationdate="20140831T130932Z">
+        <seg>Не вылучаць закладкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -1290,6 +1322,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234139Z">
         <seg>Не паказваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not use background</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132256Z" creationid="eratyk" creationdate="20140831T132242Z">
+        <seg>Не выкарыстоўваць фон</seg>
       </tuv>
     </tu>
     <tu>
@@ -1582,6 +1622,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit style…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T130909Z" creationid="eratyk" creationdate="20140831T130909Z">
+        <seg>Рэдагаваць стыль…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Emphasis</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233429Z">
@@ -1680,16 +1728,16 @@
       <tuv lang="en">
         <seg>FBReader books directory</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20140831T125737Z">
-        <seg>Каталёг кніг FBReader</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T131231Z">
+        <seg>Тэчка кніг FBReader</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>FBReader cache directory is not accessible for writing. May be you forget to insert or unmount your memory card. Please fix this issue or enter another directory name below.</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20140831T130131Z">
-        <seg>Каталёг кэшу FBReader недаступны для запісу. Магчыма, Вы забылі ўставіць ці адмацавалі Вашую карту памяці. Калі ласка, вырашыце гэтае пытаньне ці ўвядзіце назву іншага каталёгу ніжэй.</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T131524Z">
+        <seg>Тэчка кэшу FBReader недаступная для запісу. Магчыма, Вы забылі ўставіць ці адмацавалі Вашую карту памяці. Калі ласка, вырашыце гэтую праблему ці ўвядзіце назву іншае тэчкі ніжэй.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1918,10 +1966,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fonts directories</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T131639Z" creationid="eratyk" creationdate="20140831T131639Z">
+        <seg>Тэчкі шрыфтоў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fonts directory</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20140831T125914Z">
-        <seg>Каталёг шрыфтоў</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T131352Z">
+        <seg>Тэчка шрыфтоў</seg>
       </tuv>
     </tu>
     <tu>
@@ -1954,6 +2010,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233453Z">
         <seg>Зноска</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Formats</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132336Z" creationid="eratyk" creationdate="20140831T132336Z">
+        <seg>Фарматы</seg>
       </tuv>
     </tu>
     <tu>
@@ -2158,6 +2222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T131140Z" creationid="eratyk" creationdate="20140831T131140Z">
+        <seg>Дапамога</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hide</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T211213Z">
@@ -2178,6 +2250,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T202113Z">
         <seg>Хаваць паліцу стану падчас чытаньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight bookmarks</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T130941Z" creationid="eratyk" creationdate="20140831T130941Z">
+        <seg>Вылучаць закладкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -2294,6 +2374,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Images Background</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132217Z" creationid="eratyk" creationdate="20140831T132217Z">
+        <seg>Фон выяваў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Index in series\:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201217Z">
@@ -2334,6 +2422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Interface language</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T131712Z" creationid="eratyk" creationdate="20140831T131712Z">
+        <seg>Мова інтэрфэйсу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Internal Hyperlink</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233530Z">
@@ -2362,6 +2458,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T225820Z">
         <seg>Інвэртаваць кірунак клявіш гуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invisible</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T130919Z" creationid="eratyk" creationdate="20140831T130919Z">
+        <seg>Нябачны</seg>
       </tuv>
     </tu>
     <tu>
@@ -3630,6 +3734,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shared from &lt;a href\="http\://fbreader.org/"&gt;FBReader&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T131025Z" creationid="eratyk" creationdate="20140831T131025Z">
+        <seg>Абагулена праз &lt;a href\="http\://fbreader.org/"&gt;FBReader&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Shared from &lt;a href\="http\://www.fbreader.org/"&gt;FBReader&lt;/a&gt;</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T170140Z">
@@ -3896,8 +4008,8 @@
       <tuv lang="en">
         <seg>Something goes wrong for %s</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121026T075759Z">
-        <seg>Нешта ня так з %s</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T131603Z">
+        <seg>Нешта ня так з «%s»</seg>
       </tuv>
     </tu>
     <tu>
@@ -3914,6 +4026,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234039Z">
         <seg>Прастора пасьля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Space between columns</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132128Z" creationid="eratyk" creationdate="20140831T132128Z">
+        <seg>Прастора паміж слупкамі</seg>
       </tuv>
     </tu>
     <tu>
@@ -4002,6 +4122,22 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233744Z">
         <seg>Моцны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Style %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T130900Z" creationid="eratyk" creationdate="20140831T130900Z">
+        <seg>Стыль «%s»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Style name</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T130915Z" creationid="eratyk" creationdate="20140831T130915Z">
+        <seg>Назва стылю</seg>
       </tuv>
     </tu>
     <tu>
@@ -4146,6 +4282,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230321Z">
         <seg>Схема зонаў дотыкаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Temp files directory</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T131226Z" creationid="eratyk" creationdate="20140831T131226Z">
+        <seg>Тэчка часовых файлаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -4350,6 +4494,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate to</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132134Z" creationid="eratyk" creationdate="20140831T132134Z">
+        <seg>Перакласьці на</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translator</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T204342Z">
@@ -4414,6 +4566,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Two column view</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132058Z" creationid="eratyk" creationdate="20140831T131904Z">
+        <seg>Выгляд двума слупкамі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Type\:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201441Z">
@@ -4448,24 +4608,24 @@
       <tuv lang="en">
         <seg>Unable to create cache directory</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20140831T130102Z">
-        <seg>Немагчыма стварыць кэшавы каталёг</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T131424Z">
+        <seg>Немагчыма стварыць кэшавую тэчку</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Unable to create directory %s</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20140831T125853Z">
-        <seg>Немагчыма стварыць каталёг %s</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T131307Z">
+        <seg>Немагчыма стварыць тэчку «%s»</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Unable to create file %s</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121014T072949Z">
-        <seg>Немагчыма стварыць файл %s</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T131312Z">
+        <seg>Немагчыма стварыць файл «%s»</seg>
       </tuv>
     </tu>
     <tu>
@@ -4582,6 +4742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use background</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132248Z" creationid="eratyk" creationdate="20140831T132238Z">
+        <seg>Выкарыстоўваць фон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use volume keys to turn the pages</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T225950Z">
@@ -4670,10 +4838,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Wallpapers directories</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T131653Z" creationid="eratyk" creationdate="20140831T131653Z">
+        <seg>Тэчкі шпалераў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wallpapers directory</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20140831T125917Z">
-        <seg>Каталёг шпалераў</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T131400Z">
+        <seg>Тэчка шпалераў</seg>
       </tuv>
     </tu>
     <tu>
@@ -4766,6 +4942,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>all languages</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132138Z" creationid="eratyk" creationdate="20140831T132138Z">
+        <seg>усе мовы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>bold</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230906Z">
@@ -4786,6 +4970,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T224420Z">
         <seg>хуткая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http\://fbreader.org/</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T132300Z" creationid="eratyk" creationdate="20140831T132300Z">
+        <seg>http\://fbreader.org/</seg>
       </tuv>
     </tu>
     <tu>
