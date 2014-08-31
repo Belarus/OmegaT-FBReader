@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Authorisation required</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T145158Z" creationid="eratyk" creationdate="20140831T145158Z">
+        <seg>Патрабуецца ўпаўнаважаньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Authorization required</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T202522Z">
@@ -606,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Book network settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T145256Z" creationid="eratyk" creationdate="20140831T145256Z">
+        <seg>Налады кніжнай сеткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Book was not purchased</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T082543Z">
@@ -630,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Books by synchronisation status</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T144759Z" creationid="eratyk" creationdate="20140831T144759Z">
+        <seg>Кнігі па стане сынхранізацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Books directories</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T131632Z" creationid="eratyk" creationdate="20140831T131632Z">
@@ -642,6 +666,22 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T131347Z">
         <seg>Тэчка кніг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Books not accessible from the server more</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T144933Z" creationid="eratyk" creationdate="20140831T144933Z">
+        <seg>Кнігі больш не даступныя з сэрвэру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Books not uploaded to the server due some problems</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T144905Z" creationid="eratyk" creationdate="20140831T144905Z">
+        <seg>Кнігі не заладаваныя на сэрвэр празь нейкія праблемы</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,6 +722,22 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215501Z">
         <seg>Кнігі адсартаваныя па назьве</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Books to be uploaded to the server</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T145011Z" creationid="eratyk" creationdate="20140831T145011Z">
+        <seg>Кнігі для заладаваньня на сэрвэр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Books uploaded to the server</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T144830Z" creationid="eratyk" creationdate="20140831T144830Z">
+        <seg>Кнігі заладаваныя на сэрвэр</seg>
       </tuv>
     </tu>
     <tu>
@@ -1198,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Delete all</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T145103Z" creationid="eratyk" creationdate="20140831T145103Z">
+        <seg>Выдаліць усе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delete book</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215515Z">
@@ -1226,6 +1290,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T190816Z">
         <seg>Выдаліць узор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleted from server</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T144913Z" creationid="eratyk" creationdate="20140831T144913Z">
+        <seg>Выдалена з сэрвэру</seg>
       </tuv>
     </tu>
     <tu>
@@ -1394,6 +1466,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234139Z">
         <seg>Не паказваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not synchronise my library with FBReader book network server</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T145424Z" creationid="eratyk" creationdate="20140831T145424Z">
+        <seg>Не сынхранізаваць маю бібліятэку з сэрвэрам кніжнай сеткі FBReader</seg>
       </tuv>
     </tu>
     <tu>
@@ -1718,6 +1798,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable synchronisation</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T145303Z" creationid="eratyk" creationdate="20140831T145303Z">
+        <seg>Уключыць сынхранізацыю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130530Z" creationid="eratyk" creationdate="20140831T130530Z">
@@ -1762,6 +1850,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T132536Z" creationid="eratyk" creationdate="20140831T132536Z">
         <seg>Увядзіце нумар старонкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Entire file system</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T145023Z" creationid="eratyk" creationdate="20140831T145023Z">
+        <seg>Уся файлавая сыстэма</seg>
       </tuv>
     </tu>
     <tu>
@@ -1910,6 +2006,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FBReader® book network</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T145124Z" creationid="eratyk" creationdate="20140831T145124Z">
+        <seg>Кніжная сетка FBReader®</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to unzip book for external use</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T133157Z" creationid="eratyk" creationdate="20140831T133157Z">
@@ -1970,6 +2074,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T151520Z">
         <seg>Файлавае дрэва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Files on memory card, external or built-in</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T145047Z" creationid="eratyk" creationdate="20140831T145047Z">
+        <seg>Файлы на карце памяці, зьнешняй ці ўбудаванай</seg>
       </tuv>
     </tu>
     <tu>
@@ -2470,6 +2582,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If device is connected via Wi-Fi</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T150107Z" creationid="eratyk" creationdate="20140831T150107Z">
+        <seg>Калі прылада злучана праз Wi-Fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore double taps</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130027Z">
@@ -2562,6 +2682,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T213539Z">
         <seg>Усталяваць убудову</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install plugins</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T145241Z" creationid="eratyk" creationdate="20140831T145241Z">
+        <seg>Усталяваць убудовы</seg>
       </tuv>
     </tu>
     <tu>
@@ -2950,6 +3078,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>My personal catalog</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T145134Z" creationid="eratyk" creationdate="20140831T145134Z">
+        <seg>Мой асабісты каталёг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>My selected books</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215612Z">
@@ -3130,6 +3266,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130046Z">
         <seg>Бракуе грошай</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not synchronised yet</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T144945Z" creationid="eratyk" creationdate="20140831T144945Z">
+        <seg>Яшчэ не сынхранізавана</seg>
       </tuv>
     </tu>
     <tu>
@@ -3570,6 +3714,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071622Z">
         <seg>Прыбраць з упадабанага</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove from recent list</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T145057Z" creationid="eratyk" creationdate="20140831T145057Z">
+        <seg>Прыбраць са сьпісу апошніх</seg>
       </tuv>
     </tu>
     <tu>
@@ -4414,10 +4566,74 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Switch to back screen</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T145222Z" creationid="eratyk" creationdate="20140831T145222Z">
+        <seg>Пераключыцца на задні экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch to front screen</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T145229Z" creationid="eratyk" creationdate="20140831T145229Z">
+        <seg>Пераключыцца на пярэдні экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Synchronisation</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T144554Z" creationid="eratyk" creationdate="20140831T144554Z">
         <seg>Сынхранізацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronisation failed</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T144840Z" creationid="eratyk" creationdate="20140831T144840Z">
+        <seg>Сынхранізацыя няўдалая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronise bookmarks</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T150148Z" creationid="eratyk" creationdate="20140831T150148Z">
+        <seg>Сынхранізаваць закладкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronise my library as %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T145359Z" creationid="eratyk" creationdate="20140831T145359Z">
+        <seg>Сынхранізаваць маю бібліятэку як %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronise my library with FBReader book network server</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T145341Z" creationid="eratyk" creationdate="20140831T145341Z">
+        <seg>Сынхранізаваць маю бібліятэку з сэрвэрам кніжнай сеткі FBReader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronise reading positions</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T150139Z" creationid="eratyk" creationdate="20140831T150139Z">
+        <seg>Сынхранізаваць месцы чытаньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronised</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T144811Z" creationid="eratyk" creationdate="20140831T144811Z">
+        <seg>Сынхранізавана</seg>
       </tuv>
     </tu>
     <tu>
@@ -4954,6 +5170,22 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T133519Z">
         <seg>Абнаўленьне сьпісу каталёгу. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upload again</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T145110Z" creationid="eratyk" creationdate="20140831T145110Z">
+        <seg>Заладаваць зноў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upload all books to server</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T150121Z" creationid="eratyk" creationdate="20140831T150121Z">
+        <seg>Заладаваць усе кнігі на сэрвэр</seg>
       </tuv>
     </tu>
     <tu>
