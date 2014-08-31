@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>%s book files will be removed irreversibly. Are you sure?</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T182437Z" creationid="eratyk" creationdate="20140831T182437Z">
+        <seg>Файлы кнігі «%s» будуць незваротна выдаленыя. Вы ўпэўненыя?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>%s byte</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201243Z">
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T072316Z">
         <seg>Пра FBReader &amp;FBReaderVersion;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Acquiring license. Please, wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T182602Z" creationid="eratyk" creationdate="20140831T182602Z">
+        <seg>Набыцьцё ліцэнзіі. Калі ласка, пачакайце…</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Authentication required</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T182347Z" creationid="eratyk" creationdate="20140831T182347Z">
+        <seg>Патрабуецца спраўджаньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Authentication. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214116Z">
@@ -434,6 +458,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T145158Z" creationid="eratyk" creationdate="20140831T145158Z">
         <seg>Патрабуецца ўпаўнаважаньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Authorise</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T182328Z" creationid="eratyk" creationdate="20140831T182328Z">
+        <seg>Упаўнаважыцца</seg>
       </tuv>
     </tu>
     <tu>
@@ -1318,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Delete books</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T182355Z" creationid="eratyk" creationdate="20140831T182355Z">
+        <seg>Выдаліць кнігі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delete local copy</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T190808Z">
@@ -2094,6 +2134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fast refresh mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T182047Z" creationid="eratyk" creationdate="20140831T182047Z">
+        <seg>Рэжым хуткага абнаўленьня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Favorites</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215617Z">
@@ -2782,6 +2830,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initialising DRM engine. Please, wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T182542Z" creationid="eratyk" creationdate="20140831T182542Z">
+        <seg>Ініцыялізацыя DRM-рухавіка. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Install</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T084117Z">
@@ -3418,6 +3474,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T144945Z" creationid="eratyk" creationdate="20140831T144945Z">
         <seg>Яшчэ не сынхранізавана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Number of fast updates between complete refreshes</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T182315Z" creationid="eratyk" creationdate="20140831T182315Z">
+        <seg>Колькасьць хуткіх абнаўленьняў паміж поўнымі абнаўленьнямі</seg>
       </tuv>
     </tu>
     <tu>
@@ -5190,6 +5254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Trying to connect. Please, wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T182501Z" creationid="eratyk" creationdate="20140831T182501Z">
+        <seg>Спроба злучэньня. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Turkish</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081228Z">
@@ -5434,6 +5506,22 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T132248Z" creationid="eratyk" creationdate="20140831T132238Z">
         <seg>Выкарыстоўваць фон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use complete (clean, but slow) screen update</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T182228Z" creationid="eratyk" creationdate="20140831T182156Z">
+        <seg>Карыстаць поўнае (чыстае і павольнае) абнаўленьне экрану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use fast (but not very clean) screen update</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140831T182207Z" creationid="eratyk" creationdate="20140831T182139Z">
+        <seg>Карыстаць хуткае (ня вельмі чыстае) абнаўленьне экрану</seg>
       </tuv>
     </tu>
     <tu>
