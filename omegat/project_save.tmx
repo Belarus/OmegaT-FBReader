@@ -2126,6 +2126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FBReaderВ® book network</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20140910T110246Z" creationid="UsevaladK" creationdate="20140910T110246Z">
+        <seg>Кніжная сетка FBReaderB®</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to unzip book for external use</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T133157Z" creationid="eratyk" creationdate="20140831T133157Z">
