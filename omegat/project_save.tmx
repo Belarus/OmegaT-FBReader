@@ -2110,6 +2110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FBReader works in fullscreen mode by default. Tap center third of the screen to show controls. You can change this behaviour in “Appearance” section of the Settings dialog.</seg>
+      </tuv>
+      <tuv lang="be" changeid="UsevaladK" changedate="20140910T113449Z" creationid="UsevaladK" creationdate="20140910T113329Z">
+        <seg>FBReader па стандарце працуе ў поўнаэкранным рэжыме. Краніце цэнтральную траціну экрану, каб убачыць элемэнты кіраваньня. Вы можаце зьмяніць гэтыя паводзіны у разьдзеле «Выгляд» наладаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FBReader\: add custom catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130106Z">
