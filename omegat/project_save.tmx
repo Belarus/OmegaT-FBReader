@@ -80,8 +80,8 @@
       <tuv lang="en">
         <seg>&lt;a0&gt;FBReader's Menu&lt;/a0&gt; allows you to navigate through libraries and to control the application. If your device has no hardware &lt;c1&gt;Menu&lt;/c1&gt; button, touch bottom-center part of the screen to run menu.</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121026T074827Z">
-        <seg>&lt;a0&gt;Мэню FBReader&lt;/a0&gt; дазваляе Вам вандраваць па бібліятэках і кіраваць праґрамай. Калі Вашая прылада ня мае апаратнай кнопкі &lt;c1&gt;Мэню&lt;/c1&gt;, дакраніцеся да да ніжняй цэнтральнай часткі экрану для яго адчыненьня.</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T151913Z">
+        <seg>&lt;a0&gt;Мэню FBReader&lt;/a0&gt; дазваляе Вам вандраваць па бібліятэках і кіраваць праграмай. Калі Вашая прылада ня мае апаратнай кнопкі &lt;c1&gt;Мэню&lt;/c1&gt;, дакраніцеся да да ніжняй цэнтральнай часткі экрану для яго адчыненьня.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96,8 +96,8 @@
       <tuv lang="en">
         <seg>&lt;a0&gt;Preferences Dialog&lt;/a0&gt; allows you to customize FBReader to suit your taste: colors, fonts, various directories, page turning options, etc.</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121026T074216Z">
-        <seg>&lt;a0&gt;Дыялёґ наладаў&lt;/a0&gt; дазваляе Вам дапасаваць FBReader да вашага ґусту па колерах, шрыфтах, розных каталёґах, гартаньні старонак і іншым.</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T151904Z">
+        <seg>&lt;a0&gt;Дыялёг наладаў&lt;/a0&gt; дазваляе Вам дапасаваць FBReader да вашага густу па колерах, шрыфтах, розных каталёгах, гартаньні старонак і іншым.</seg>
       </tuv>
     </tu>
     <tu>
