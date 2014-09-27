@@ -1862,10 +1862,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>E.g.\: -2px, 10pt, -0.8em, 1.1ex, -40%%</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T150352Z" creationid="eratyk" creationdate="20140927T150352Z">
+        <seg>Узор\: -2px, 10pt, -0.8em, 1.1ex, -40%%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>E.g.\: 125%%</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T150404Z" creationid="eratyk" creationdate="20140927T150404Z">
+        <seg>Узор\: 125%%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>E.g.\: 20px, 10pt, 0.8em, 1ex, 120%%</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T150344Z" creationid="eratyk" creationdate="20140927T150344Z">
+        <seg>Узор\: 20px, 10pt, 0.8em, 1ex, 120%%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>E.g.\: Project Gutenberg catalog</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20140831T130113Z">
-        <seg>Прыклад\: Каталёг праекту Ґутэнбэрґ</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T150426Z">
+        <seg>Узор\: Каталёг праекту Ґутэнбэрґ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1880,8 +1904,8 @@
       <tuv lang="en">
         <seg>E.g.\: http\://m.gutenberg.org/</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121013T085237Z">
-        <seg>Прыклад\: http\://m.gutenberg.org/</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T150418Z">
+        <seg>Узор\: http\://m.gutenberg.org/</seg>
       </tuv>
     </tu>
     <tu>
@@ -1970,6 +1994,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T194308Z">
         <seg>Кадаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Encrypted section</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T150146Z" creationid="eratyk" creationdate="20140927T150146Z">
+        <seg>Зашыфраваная частка</seg>
       </tuv>
     </tu>
     <tu>
@@ -3034,6 +3066,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233723Z">
         <seg>Курсіўны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Japanese</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T150449Z" creationid="eratyk" creationdate="20140927T150449Z">
+        <seg>Японская мова</seg>
       </tuv>
     </tu>
     <tu>
@@ -5150,6 +5190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Switch to this screen</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T150315Z" creationid="eratyk" creationdate="20140927T150315Z">
+        <seg>Пераключыцца на гэты экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Synchronisation</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T144554Z" creationid="eratyk" creationdate="20140831T144554Z">
@@ -5626,6 +5674,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T224004Z">
         <seg>Без анімацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Turn the device over to read your book. To return text to this screen, press the button below.</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T150303Z" creationid="eratyk" creationdate="20140927T150303Z">
+        <seg>Перавярніце прыладу, каб чытаць кнігу. Каб вярнуць тэкст на гэты экран, націсьніце кнопку зьнізу.</seg>
       </tuv>
     </tu>
     <tu>
