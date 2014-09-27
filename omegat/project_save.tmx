@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add books to your home screen</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T141800Z" creationid="eratyk" creationdate="20140927T141800Z">
+        <seg>Кнігі на галоўны экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T125801Z">
@@ -638,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Book '%s' is not found on the device, sorry</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T140300Z" creationid="eratyk" creationdate="20140927T140300Z">
+        <seg>Кніга «%s» ня знойдзена на прыладзе, прабачце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Book Info</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T194248Z">
@@ -842,6 +858,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215411Z">
         <seg>Кнігі бяз цэтлікаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bookshelf</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T140904Z" creationid="eratyk" creationdate="20140927T140904Z">
+        <seg>Кніжная паліца</seg>
       </tuv>
     </tu>
     <tu>
@@ -1998,6 +2022,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error %s in native code during reading '%s'</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T135417Z" creationid="eratyk" creationdate="20140927T135417Z">
+        <seg>Памылка %s у родным кодзе падчас чытаньня «%s»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error occured during extracting '%s'</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T133327Z">
@@ -2082,6 +2114,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T131524Z">
         <seg>Тэчка кэшу FBReader недаступная для запісу. Магчыма, Вы забылі ўставіць ці адмацавалі Вашую карту памяці. Калі ласка, вырашыце гэтую праблему ці ўвядзіце назву іншае тэчкі ніжэй.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FBReader cache directory is not accessible for writing. May be you forget to insert or unmount your memory card. Please fix this issue or select another directory.</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T140409Z" creationid="eratyk" creationdate="20140927T140409Z">
+        <seg>Тэчка кэшу FBReader недаступная для запісу. Магчыма, Вы забылі ўставіць ці адмацавалі Вашую карту памяці. Калі ласка, вырашыце гэтую праблему ці абярыце іншую тэчку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2190,6 +2230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File %s is encrypted with method that is not supported by FBReader. Some pages are not readable</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T140122Z" creationid="eratyk" creationdate="20140927T140122Z">
+        <seg>Файл «%s» зашыфраваны спосабам, які не падтрымлівае FBReader. Некаторыя старонкі нечытэльныя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File Info</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T194401Z">
@@ -2226,6 +2274,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T194407Z">
         <seg>Назва файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File not found\: %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T135434Z" creationid="eratyk" creationdate="20140927T135434Z">
+        <seg>Файл ня знойдзены\: %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -3134,6 +3190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LitRes</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T141101Z" creationid="eratyk" creationdate="20140927T140505Z">
+        <seg>LitRes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Lithuanian</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081101Z">
@@ -3162,6 +3226,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214344Z">
         <seg>Ладаваньне інфармацыі. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local OPDS Scanner</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T140815Z" creationid="eratyk" creationdate="20140927T140734Z">
+        <seg>Лякальны праглядальнік OPDS</seg>
       </tuv>
     </tu>
     <tu>
@@ -3218,6 +3290,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T210628Z">
         <seg>Доўгі дотык вылучае выяву</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Look for books in the local network</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T140822Z" creationid="eratyk" creationdate="20140927T140808Z">
+        <seg>Пошук кніг у лякальнай сетцы</seg>
       </tuv>
     </tu>
     <tu>
@@ -3550,6 +3630,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OPDS Server</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T141503Z" creationid="eratyk" creationdate="20140927T141503Z">
+        <seg>Сэрвэр OPDS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OPF is not found in %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201753Z">
@@ -3686,6 +3774,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PDF</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T141803Z" creationid="eratyk" creationdate="20140927T141803Z">
+        <seg>PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Page turning</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T132613Z">
@@ -3710,10 +3806,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Permission denied</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T135047Z" creationid="eratyk" creationdate="20140927T135047Z">
+        <seg>Не дазволена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Permission denied, sorry</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121013T215306Z">
-        <seg>Адмоўлена ў дазволе, прабачце</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T135057Z">
+        <seg>Не дазволена, прабачце</seg>
       </tuv>
     </tu>
     <tu>
@@ -3730,6 +3834,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T133233Z" creationid="eratyk" creationdate="20140831T133233Z">
         <seg>Калі ласка, усталюйце ўбудову, каб чытаць файлы гэтага тыпу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin for %s files is not installed. Install right now?</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T135212Z" creationid="eratyk" creationdate="20140927T135212Z">
+        <seg>Няма ўбудовы для файлаў «%s». Усталяваць яе?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3870,10 +3982,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Read aloud</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T140546Z" creationid="eratyk" creationdate="20140927T140546Z">
+        <seg>Чытайце ўголас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Read book text</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234335Z">
         <seg>Чытаць тэкст кнігі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Read books in PDF format</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T141853Z" creationid="eratyk" creationdate="20140927T141853Z">
+        <seg>Чытаньне кніг фармату PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -4206,6 +4334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Russian book store</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T140518Z" creationid="eratyk" creationdate="20140927T140518Z">
+        <seg>Расейская кніжная крама</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sample is being downloaded</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T081548Z">
@@ -4426,6 +4562,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201230Z">
         <seg>Сэрыі\:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Serve books from your device</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T141536Z" creationid="eratyk" creationdate="20140927T141536Z">
+        <seg>Раздача кніг з Вашае прылады</seg>
       </tuv>
     </tu>
     <tu>
@@ -5086,6 +5230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TTS+</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T140525Z" creationid="eratyk" creationdate="20140927T140525Z">
+        <seg>TTS+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Table of Contents</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074541Z">
@@ -5246,6 +5398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There is no installed video player on this device, sorry</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T140226Z" creationid="eratyk" creationdate="20140927T140226Z">
+        <seg>На прыладзе не ўсталяваны прайгравальнік, прабачце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There is no suitable text in the book, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215324Z">
@@ -5290,6 +5450,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T082502Z">
         <seg>Гэты набытак каштуе %0, а ў Вас толькі %1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thumbnail library view</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T141446Z" creationid="eratyk" creationdate="20140927T141446Z">
+        <seg>Выгляд бібліятэкі мініятур</seg>
       </tuv>
     </tu>
     <tu>
@@ -5758,6 +5926,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Video service is not available, sorry</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T140155Z" creationid="eratyk" creationdate="20140927T140155Z">
+        <seg>Відэаслужба недаступная, прабачце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Vietnamese</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T080951Z">
@@ -5794,6 +5970,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T131400Z">
         <seg>Тэчка шпалераў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We have no new plugins at the moment, sorry</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T140459Z" creationid="eratyk" creationdate="20140927T140459Z">
+        <seg>Зараз няма новых убудоваў, прабачце</seg>
       </tuv>
     </tu>
     <tu>
@@ -5850,6 +6034,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T201229Z">
         <seg>Калі зарад батарэі большы за 50%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Widgets</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T141550Z" creationid="eratyk" creationdate="20140927T141550Z">
+        <seg>Віджэты</seg>
       </tuv>
     </tu>
     <tu>
