@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add author</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T134515Z" creationid="eratyk" creationdate="20140927T134515Z">
+        <seg>Дадаць аўтара</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T125801Z">
@@ -170,6 +178,22 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T125807Z">
         <seg>Дадаць уручную дапасаваны каталёг OPDS (адкрытай сыстэмы дастаўленьня публікацыяў)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add folder</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T134157Z" creationid="eratyk" creationdate="20140927T134157Z">
+        <seg>Дадаць тэчку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add tag</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T134438Z" creationid="eratyk" creationdate="20140927T134438Z">
+        <seg>Дадаць цэтлік</seg>
       </tuv>
     </tu>
     <tu>
@@ -2112,8 +2136,8 @@
       <tuv lang="en">
         <seg>FBReader works in fullscreen mode by default. Tap center third of the screen to show controls. You can change this behaviour in “Appearance” section of the Settings dialog.</seg>
       </tuv>
-      <tuv lang="be" changeid="UsevaladK" changedate="20140910T113449Z" creationid="UsevaladK" creationdate="20140910T113329Z">
-        <seg>FBReader па стандарце працуе ў поўнаэкранным рэжыме. Краніце цэнтральную траціну экрану, каб убачыць элемэнты кіраваньня. Вы можаце зьмяніць гэтыя паводзіны у разьдзеле «Выгляд» наладаў.</seg>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T133650Z" creationid="UsevaladK" creationdate="20140910T113329Z">
+        <seg>FBReader па стандарце працуе ў поўнаэкранным рэжыме. Краніце цэнтральную траціну экрану, каб убачыць элемэнты кіраваньня. Вы можаце зьмяніць гэтыя паводзіны ў разьдзеле «Выгляд» наладаў.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2258,6 +2282,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T210347Z">
         <seg>Дапасоўваць выявы да экрану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Folder name</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T134556Z" creationid="eratyk" creationdate="20140927T134556Z">
+        <seg>Назва тэчкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -3310,6 +3342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T135001Z" creationid="eratyk" creationdate="20140927T135001Z">
+        <seg>Назва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Name\:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201101Z">
@@ -3370,6 +3410,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201527Z">
         <seg>Новая закладка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New folder</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T134550Z" creationid="eratyk" creationdate="20140927T134550Z">
+        <seg>Новая тэчка</seg>
       </tuv>
     </tu>
     <tu>
@@ -3618,6 +3666,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075747Z">
         <seg>Апэрацыя пратэрмінаваная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Origin</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T134929Z" creationid="eratyk" creationdate="20140927T134929Z">
+        <seg>Паходжаньне</seg>
       </tuv>
     </tu>
     <tu>
@@ -3926,10 +3982,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T134356Z" creationid="eratyk" creationdate="20140927T134330Z">
+        <seg>Прыбраць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove author</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T134523Z" creationid="eratyk" creationdate="20140927T134523Z">
+        <seg>Прыбраць аўтара</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove author “%s” from the list?</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T134532Z" creationid="eratyk" creationdate="20140927T134532Z">
+        <seg>Прыбраць аўтара «%s» са сьпісу?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T125757Z">
         <seg>Выдаліць каталёг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove folder</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T134203Z" creationid="eratyk" creationdate="20140927T134203Z">
+        <seg>Выдаліць тэчку</seg>
       </tuv>
     </tu>
     <tu>
@@ -3954,6 +4042,30 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T145057Z" creationid="eratyk" creationdate="20140831T145057Z">
         <seg>Прыбраць са сьпісу апошніх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove tag</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T134444Z" creationid="eratyk" creationdate="20140927T134444Z">
+        <seg>Прыбраць цэтлік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove tag “%s” from the list?</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T134508Z" creationid="eratyk" creationdate="20140927T134508Z">
+        <seg>Прыбраць цэтлік «%s» са сьпісу?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove “%s” from the list?</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T134224Z" creationid="eratyk" creationdate="20140927T134224Z">
+        <seg>Прыбраць «%s» са сьпісу?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4050,6 +4162,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081115Z">
         <seg>Румынская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Root</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T134541Z" creationid="eratyk" creationdate="20140927T134541Z">
+        <seg>Корань</seg>
       </tuv>
     </tu>
     <tu>
@@ -4582,6 +4702,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T135003Z" creationid="eratyk" creationdate="20140927T135003Z">
+        <seg>Памер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Size\:</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201235Z">
@@ -4626,6 +4754,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T131603Z">
         <seg>Нешта ня так з «%s»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T134943Z" creationid="eratyk" creationdate="20140927T134943Z">
+        <seg>Сартаваць па</seg>
       </tuv>
     </tu>
     <tu>
@@ -5662,6 +5798,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Well done\! Now tap the center third again to hide the controls and this hint. If you want to keep controls on the screen during reading, select “Show action bar” option in “Appearance” section of the Settings dialog.</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T134151Z" creationid="eratyk" creationdate="20140927T134151Z">
+        <seg>Выдатна\! Цяпер зноў краніце цэнтральную траціну, каб схаваць гэтую падказку й элемэнты кіраваньня. Калі ж Вы жадаеце пакінуць іх на экране, то пастаўце птушку «Паказваць паліцу дзеяньняў» у разьдзеле «Выгляд» наладаў. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Where to seek for books</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T150258Z" creationid="eratyk" creationdate="20140831T150258Z">
@@ -5978,6 +6122,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234124Z">
         <seg>падкрэсьлены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“%s” is already in the list</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20140927T134249Z" creationid="eratyk" creationdate="20140927T134249Z">
+        <seg>«%s» ужо ў сьпісе</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
