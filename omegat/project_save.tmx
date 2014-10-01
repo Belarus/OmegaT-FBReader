@@ -1078,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change current book</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20141001T071004Z" creationid="eratyk" creationdate="20141001T071004Z">
+        <seg>Зьмяніць гэтую кнігу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Chinese</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T080957Z">
@@ -1574,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DjVu</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20141001T071554Z" creationid="eratyk" creationdate="20141001T071554Z">
+        <seg>DjVu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not adjust image color</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T162055Z" creationid="eratyk" creationdate="20140831T162055Z">
@@ -1798,10 +1814,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download all books from server</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20141001T070931Z" creationid="eratyk" creationdate="20141001T070931Z">
+        <seg>Зладаваць усе кнігі з сэрвэра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download complete</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T072956Z">
         <seg>Зладаваньне скончанае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download current book from server</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20141001T070945Z" creationid="eratyk" creationdate="20141001T070945Z">
+        <seg>Зладаваць гэтую кнігу з сэрвэра</seg>
       </tuv>
     </tu>
     <tu>
@@ -2198,6 +2230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FBReader on Facebook</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20141001T071552Z" creationid="eratyk" creationdate="20141001T071552Z">
+        <seg>FBReader у Facebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FBReader on facebook</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T162112Z" creationid="eratyk" creationdate="20140831T162112Z">
@@ -2334,6 +2374,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fill mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20141001T071236Z" creationid="eratyk" creationdate="20141001T071236Z">
+        <seg>Рэжым запаўненьня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find more information about FBReader at &lt;a0&gt;our site&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T074927Z">
@@ -2386,6 +2434,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075004Z">
         <seg>Сачыце за намі ў &lt;a0&gt;twitter&lt;/a0&gt;, каб ведаць пра новыя выпускі і зьвязаныя навіны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Follow us at Twitter</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20141001T071535Z" creationid="eratyk" creationdate="20141001T071535Z">
+        <seg>Падпішыцеся на нас у Twitter</seg>
       </tuv>
     </tu>
     <tu>
@@ -2582,6 +2638,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full screen</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20141001T071303Z" creationid="eratyk" creationdate="20141001T071303Z">
+        <seg>Поўны экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fullscreen mode</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T160745Z" creationid="eratyk" creationdate="20140831T160745Z">
@@ -2698,6 +2762,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075432Z">
         <seg>Зялёны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hard paper</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20141001T071217Z" creationid="eratyk" creationdate="20141001T071217Z">
+        <seg>Цьвёрдая папера</seg>
       </tuv>
     </tu>
     <tu>
@@ -3078,6 +3150,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Join FBReader Google+ community</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20141001T071450Z" creationid="eratyk" creationdate="20141001T071450Z">
+        <seg>Далучыцца да суполкі FBReader у Google+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Just synchronise positions, do not change book automatically</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20141001T071120Z" creationid="eratyk" creationdate="20141001T071120Z">
+        <seg>Толькі сынхранізаваць пазыцыі, не мяняць кнігу аўтаматычна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Justify</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230637Z">
@@ -3418,6 +3506,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071334Z">
         <seg>Карта памяці ўстаўленая ў прыладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mirrored tile</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20141001T071259Z" creationid="eratyk" creationdate="20141001T071259Z">
+        <seg>Люстраная кафля</seg>
       </tuv>
     </tu>
     <tu>
@@ -3774,6 +3870,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open same book on all devices</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20141001T071044Z" creationid="eratyk" creationdate="20141001T071044Z">
+        <seg>Адчыніць гэтую кнігу на ўсіх прыладах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opening book. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214352Z">
@@ -3926,6 +4030,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Predefined texture…</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20141001T071136Z" creationid="eratyk" creationdate="20141001T071136Z">
+        <seg>Перадвызначаная тэкстура…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preformatted text</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233636Z">
@@ -4034,6 +4146,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234335Z">
         <seg>Чытаць тэкст кнігі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Read books in DjVu format</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20141001T071631Z" creationid="eratyk" creationdate="20141001T071631Z">
+        <seg>Чытаньне кніг фармату DjVu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4390,6 +4510,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sand</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20141001T071141Z" creationid="eratyk" creationdate="20141001T071141Z">
+        <seg>Пясок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Screen brightness adjustment</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T125922Z">
@@ -4466,6 +4594,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191555Z">
         <seg>Выконваецца пошук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search results</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20141001T071422Z" creationid="eratyk" creationdate="20141001T071422Z">
+        <seg>Вынікі пошуку</seg>
       </tuv>
     </tu>
     <tu>
@@ -5062,6 +5198,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Stretch horizontally, tile vertically</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20141001T071346Z" creationid="eratyk" creationdate="20141001T071346Z">
+        <seg>Расьцягнуць гарызантальна, закафляваць вэртыкальна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stretch to fill screen</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20141001T071321Z" creationid="eratyk" creationdate="20141001T071321Z">
+        <seg>Расьцягнуць, каб запоўніць экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stretch vertically, tile horizontally</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20141001T071413Z" creationid="eratyk" creationdate="20141001T071413Z">
+        <seg>Расьцягнуць вэртыкальна, закафляваць гарызантальна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>StrikeThrough</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233712Z">
@@ -5506,6 +5666,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140927T141446Z" creationid="eratyk" creationdate="20140927T141446Z">
         <seg>Выгляд бібліятэкі мініятур</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tile</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20141001T071245Z" creationid="eratyk" creationdate="20141001T071245Z">
+        <seg>Кафля</seg>
       </tuv>
     </tu>
     <tu>
@@ -6250,6 +6418,22 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T162115Z" creationid="eratyk" creationdate="20140831T162115Z">
         <seg>https\://facebook.com/fbreader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https\://plus.google.com/communities/115894899404862312312</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20141001T071453Z" creationid="eratyk" creationdate="20141001T071453Z">
+        <seg>https\://plus.google.com/communities/115894899404862312312</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https\://twitter.com/fbreader</seg>
+      </tuv>
+      <tuv lang="be" changeid="eratyk" changedate="20141001T071537Z" creationid="eratyk" creationdate="20141001T071537Z">
+        <seg>https\://twitter.com/fbreader</seg>
       </tuv>
     </tu>
     <tu>
