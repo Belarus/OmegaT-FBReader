@@ -2342,6 +2342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Downloading book “%s”</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T110551Z" creationid="usievalad" creationdate="20150904T110551Z">
+        <seg>Зладаваньне кнігі «%s»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Downloading catalogs</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T125821Z">
@@ -4126,6 +4134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Loading information. Please wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T110606Z" creationid="usievalad" creationdate="20150904T110606Z">
+        <seg>Ладаваньне інфармацыі. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Loading information. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214344Z">
@@ -5662,6 +5678,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Searching. Please wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T110600Z" creationid="usievalad" creationdate="20150904T110600Z">
+        <seg>Пошук. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Searching. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214448Z">
@@ -7046,6 +7070,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation in progress…</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T110526Z" creationid="usievalad" creationdate="20150904T110526Z">
+        <seg>Перакладаньне…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation settings</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T105355Z" creationid="usievalad" creationdate="20150904T105355Z">
@@ -7066,6 +7098,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T084536Z">
         <seg>Паспрабаваць зноў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Trying to connect. Please wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T110542Z" creationid="usievalad" creationdate="20150904T110542Z">
+        <seg>Спроба злучэньня…</seg>
       </tuv>
     </tu>
     <tu>
@@ -7502,6 +7542,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We created a LitRes account for you. Detailed information has been sent to %s.</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T110436Z" creationid="usievalad" creationdate="20150904T110436Z">
+        <seg>Мы стварылі конт ЛітРэс для Вас. Падрабязная інфармацыя выслана на %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We have no new plugins at the moment, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140927T140459Z" creationid="eratyk" creationdate="20140927T140459Z">
@@ -7642,6 +7690,22 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075450Z">
         <seg>Так</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are signed in with email address %s.</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T110358Z" creationid="usievalad" creationdate="20150904T110358Z">
+        <seg>Вы ўвайшлі з электронным адрасам %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your account information was sent to %s. Please check your mailbox.</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T110517Z" creationid="usievalad" creationdate="20150904T110517Z">
+        <seg>Інфармацыя пра ваш конт даслана на %s. Калі ласка, праверце Вашую пошту.</seg>
       </tuv>
     </tu>
     <tu>
