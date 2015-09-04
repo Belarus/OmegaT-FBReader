@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All plugins on FBReader official site</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T115739Z" creationid="usievalad" creationdate="20150904T115739Z">
+        <seg>Усе ўбудовы на афіцыйным сайце FBReader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow Hyphenations</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230819Z">
@@ -1646,6 +1654,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ComicBook (CBZ, CBR) plugin on Google Play</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T115718Z" creationid="usievalad" creationdate="20150904T115718Z">
+        <seg>Убудова для коміксаў (CBZ, CBR) на Google Play</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Configure translation</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T105836Z" creationid="usievalad" creationdate="20150904T105836Z">
@@ -2202,6 +2218,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20141001T071554Z" creationid="eratyk" creationdate="20141001T071554Z">
         <seg>DjVu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>DjVu plugin on Google Play</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T115648Z" creationid="usievalad" creationdate="20150904T115648Z">
+        <seg>Убудова DjVu на Google Play</seg>
       </tuv>
     </tu>
     <tu>
@@ -3050,6 +3074,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T162112Z" creationid="eratyk" creationdate="20140831T162112Z">
         <seg>FBReader у Facebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FBReader supports all popular text file formats. However, if you have a book in several formats, the best choice is &lt;c0&gt;ePub&lt;/c0&gt;, &lt;c1&gt;mobi&lt;/c1&gt; (a.k.a. &lt;c2&gt;azw3&lt;/c2&gt; or &lt;c3&gt;kindle&lt;/c3&gt;), or &lt;c4&gt;fb2&lt;/c4&gt;. Please keep in mind that FBReader is a free reader, and therefore does not open DRM-protected books. Non-text formats like &lt;c5&gt;PDF&lt;/c5&gt; or &lt;c6&gt;DjVu&lt;/c6&gt; are supported by FBReader plugins.</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T115601Z" creationid="usievalad" creationdate="20150904T115601Z">
+        <seg>FBReader падтрымлівае ўсе папулярныя фарматы тэкставых файлаў. Тым ня менш, калі Вы маеце кнігу ў некалькіх фарматах, найлепшым выбарам будуць &lt;c0&gt;ePub&lt;/c0&gt;, &lt;c1&gt;mobi&lt;/c1&gt; (таксама вядомы як &lt;c2&gt;azw3&lt;/c2&gt; ці &lt;c3&gt;kindle&lt;/c3&gt;) ці &lt;c4&gt;fb2&lt;/c4&gt;. Калі ласка, помніце, што FBReader — бясплатная прашрама для чытаньня, а таму не адчыняе кнігі, абароненыя DRM. Нятэкставыя фарматы накшталт &lt;c5&gt;PDF&lt;/c5&gt; ці &lt;c6&gt;DjVu&lt;/c6&gt; падтрымліваюцца ўбудовамі FBReader.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4774,6 +4806,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>More about FBReader.</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T115748Z" creationid="usievalad" creationdate="20150904T115748Z">
+        <seg>Больш пра FBReader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>More styles</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234020Z">
@@ -5282,6 +5322,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140927T141803Z" creationid="eratyk" creationdate="20140927T141803Z">
         <seg>PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PDF plugin on Google Play</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T115630Z" creationid="usievalad" creationdate="20150904T115630Z">
+        <seg>Убудова PDF на Google Play</seg>
       </tuv>
     </tu>
     <tu>
@@ -8486,10 +8534,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>fbreader-action:preferences</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T115750Z" creationid="usievalad" creationdate="20150904T115750Z">
+        <seg>fbreader-action:preferences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>fbreader-action:preferences#sync</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T114050Z" creationid="usievalad" creationdate="20150904T114050Z">
         <seg>fbreader-action:preferences#sync</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://hyperionics.com</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T115755Z" creationid="usievalad" creationdate="20150904T115755Z">
+        <seg>http://hyperionics.com</seg>
       </tuv>
     </tu>
     <tu>
@@ -8530,6 +8594,70 @@
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T114052Z" creationid="usievalad" creationdate="20150904T114052Z">
         <seg>https://books.fbreader.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://fbreader.org/</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T115756Z" creationid="usievalad" creationdate="20150904T115756Z">
+        <seg>https://fbreader.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://fbreader.org/content/about-us#social</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T115757Z" creationid="usievalad" creationdate="20150904T115757Z">
+        <seg>https://fbreader.org/content/about-us#social</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://fbreader.org/content/plugins</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T115720Z" creationid="usievalad" creationdate="20150904T115720Z">
+        <seg>https://fbreader.org/content/plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://play.google.com/store/apps/details?id=com.hyperionics.fbreader.plugin.tts_plus</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T115753Z" creationid="usievalad" creationdate="20150904T115753Z">
+        <seg>https://play.google.com/store/apps/details?id=com.hyperionics.fbreader.plugin.tts_plus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://play.google.com/store/apps/details?id=org.geometerplus.fbreader.plugin.comicbook</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T115650Z" creationid="usievalad" creationdate="20150904T115650Z">
+        <seg>https://play.google.com/store/apps/details?id=org.geometerplus.fbreader.plugin.comicbook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://play.google.com/store/apps/details?id=org.geometerplus.fbreader.plugin.djvu</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T115633Z" creationid="usievalad" creationdate="20150904T115633Z">
+        <seg>https://play.google.com/store/apps/details?id=org.geometerplus.fbreader.plugin.djvu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://play.google.com/store/apps/details?id=org.geometerplus.fbreader.plugin.local_opds_scanner</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T115752Z" creationid="usievalad" creationdate="20150904T115752Z">
+        <seg>https://play.google.com/store/apps/details?id=org.geometerplus.fbreader.plugin.local_opds_scanner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://play.google.com/store/apps/details?id=org.geometerplus.fbreader.plugin.pdf</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T115608Z" creationid="usievalad" creationdate="20150904T115608Z">
+        <seg>https://play.google.com/store/apps/details?id=org.geometerplus.fbreader.plugin.pdf</seg>
       </tuv>
     </tu>
     <tu>
