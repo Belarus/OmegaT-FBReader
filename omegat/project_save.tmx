@@ -4254,6 +4254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Just take a look in the &lt;a0&gt;Network library&lt;/a0&gt;. There are several catalogs containing a multitude of books, some for free, some for a small fee. You can even add your own OPDS catalogs to the list.</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T113938Z" creationid="usievalad" creationdate="20150904T113938Z">
+        <seg>Існуе разьдзел &lt;a0&gt;Сеткавая бібліятэка&lt;/a0&gt;. У ім Вы можаец знайсьці некалькі каталёгаў з кнігамі, некаторымі бясплатнымі, некаторымі — даступнымі за невялікую плату. Таксама Вы можаце дадаць уласны каталёг OPDS у сьпіс.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Justified</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T104456Z" creationid="usievalad" creationdate="20150904T104456Z">
@@ -8418,6 +8426,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T224420Z">
         <seg>хуткая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>fbreader-action:library</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T113941Z" creationid="usievalad" creationdate="20150904T113941Z">
+        <seg>fbreader-action:library</seg>
       </tuv>
     </tu>
     <tu>
