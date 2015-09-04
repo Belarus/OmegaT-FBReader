@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add to favourites</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T102135Z" creationid="usievalad" creationdate="20150904T102135Z">
+        <seg>Дадаць да ўпадабанага</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Adjust image color according background</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T162041Z" creationid="eratyk" creationdate="20140831T162041Z">
@@ -782,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Books no longer accessible from the server</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T102105Z" creationid="usievalad" creationdate="20150904T102105Z">
+        <seg>Кнігі больш не даступныя з сэрвэру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Books not accessible from the server more</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T144933Z" creationid="eratyk" creationdate="20140831T144933Z">
@@ -798,10 +814,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Books not uploaded to the server due to errors</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T102054Z" creationid="usievalad" creationdate="20150904T102054Z">
+        <seg>Кнігі не заладаваныя на сэрвэр праз памылкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Books sorted by author</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215424Z">
         <seg>Кнігі адсартаваныя па аўтары</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Books sorted by date of purchase</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T102201Z" creationid="usievalad" creationdate="20150904T102201Z">
+        <seg>Кнігі адсартаваныя па даце набыцьця</seg>
       </tuv>
     </tu>
     <tu>
@@ -838,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Books successfully uploaded to the server</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T102034Z" creationid="usievalad" creationdate="20150904T102034Z">
+        <seg>Кнігі пасьпяхова заладаваныя на сэрвэр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Books to be uploaded to the server</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T145011Z" creationid="eratyk" creationdate="20140831T145011Z">
@@ -858,6 +898,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215411Z">
         <seg>Кнігі бяз цэтлікаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Books yet to be uploaded to the server</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T102125Z" creationid="usievalad" creationdate="20150904T102125Z">
+        <seg>Кнігі для заладаваньня на сэрвэр</seg>
       </tuv>
     </tu>
     <tu>
@@ -1073,6 +1121,14 @@
         <seg>Catalogs you visited recently</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130411Z" creationid="eratyk" creationdate="20140831T130411Z">
+        <seg>Апошнія наведаныя каталёгі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Catalogues you browsed recently</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T102220Z" creationid="usievalad" creationdate="20150904T102220Z">
         <seg>Апошнія наведаныя каталёгі</seg>
       </tuv>
     </tu>
@@ -3598,6 +3654,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>My personal catalogue</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T102150Z" creationid="usievalad" creationdate="20150904T102150Z">
+        <seg>Мой асабісты каталёг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>My selected books</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215612Z">
@@ -4246,6 +4310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Recent catalogues</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T102211Z" creationid="usievalad" creationdate="20150904T102211Z">
+        <seg>Апошнія каталёгі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Recently opened books</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071553Z">
@@ -4369,6 +4441,14 @@
         <seg>Remove from favorites</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071622Z">
+        <seg>Прыбраць з упадабанага</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove from favourites</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T102141Z" creationid="usievalad" creationdate="20150904T102141Z">
         <seg>Прыбраць з упадабанага</seg>
       </tuv>
     </tu>
@@ -4625,6 +4705,14 @@
         <seg>Search books in all catalogs</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T125742Z">
+        <seg>Шукаць кнігі ва ўсіх каталёгах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search books in all catalogues</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T102206Z" creationid="usievalad" creationdate="20150904T102206Z">
         <seg>Шукаць кнігі ва ўсіх каталёгах</seg>
       </tuv>
     </tu>
@@ -5410,6 +5498,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140927T150315Z" creationid="eratyk" creationdate="20140927T150315Z">
         <seg>Пераключыцца на гэты экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch to thumbnail view</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T102014Z" creationid="usievalad" creationdate="20150904T102014Z">
+        <seg>Пераключыць на выгляд бібліятэкі мініятур</seg>
       </tuv>
     </tu>
     <tu>
