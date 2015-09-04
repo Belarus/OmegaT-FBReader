@@ -1534,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choosing ebook formats.</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T115048Z" creationid="usievalad" creationdate="20150904T115048Z">
+        <seg>Выбар фарматаў кніг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cite</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233017Z">
@@ -5626,6 +5634,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191142Z">
         <seg>Чытаць узор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reading the same book on your mobile phone and tablet? Don't worry about looking up your page every time you switch devices. Enable FBReader synchronization on both or all devices, and the program will open your last reading position automatically.</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T115029Z" creationid="usievalad" creationdate="20150904T115029Z">
+        <seg>Чытаеце адну і тую ж кнігу на тэлефоне і тэблеце? Забудзьце пра пастаянны пошук патрэбнай старонкі ўручную пры зьмене прылад. Уключыце сынхранізацыю FBReader на абедзьвюх прыладах, і праграма сама будзе адчыняць месца, на якім Вы спыніліся ў мінулы раз.</seg>
       </tuv>
     </tu>
     <tu>
