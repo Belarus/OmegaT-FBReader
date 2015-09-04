@@ -870,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bookshelf view</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T101909Z" creationid="usievalad" creationdate="20150904T101909Z">
+        <seg>Кніжная паліца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bottom margin</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T210652Z">
@@ -1102,10 +1110,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose view</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T101754Z" creationid="usievalad" creationdate="20150904T101754Z">
+        <seg>Выбраць выгляд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cite</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233017Z">
         <seg>Цытата</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Classic</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T101857Z" creationid="usievalad" creationdate="20150904T101857Z">
+        <seg>Клясычны</seg>
       </tuv>
     </tu>
     <tu>
@@ -1266,6 +1290,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T131550Z">
         <seg>Немагчыма знайсьці вузел «%s»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Covers</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T101849Z" creationid="usievalad" creationdate="20150904T101849Z">
+        <seg>Вокладкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -2298,6 +2330,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215617Z">
         <seg>Упадабанае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Favourites</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T101730Z" creationid="usievalad" creationdate="20150904T101711Z">
+        <seg>Упадабаныя</seg>
       </tuv>
     </tu>
     <tu>
@@ -3538,6 +3578,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081006Z">
         <seg>Некалькі моваў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My favourite books</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T101726Z" creationid="usievalad" creationdate="20150904T101726Z">
+        <seg>Мае ўпадабаныя кнігі</seg>
       </tuv>
     </tu>
     <tu>
@@ -5054,6 +5102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Small cards</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T101839Z" creationid="usievalad" creationdate="20150904T101814Z">
+        <seg>Невялікія карткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Solid color</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T204145Z">
@@ -5678,6 +5734,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tiny cards</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T101843Z" creationid="usievalad" creationdate="20150904T101843Z">
+        <seg>Малыя карткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tip of the day</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214101Z">
@@ -6258,6 +6322,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T201229Z">
         <seg>Калі зарад батарэі большы за 50%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wide cards</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T101809Z" creationid="usievalad" creationdate="20150904T101809Z">
+        <seg>Шырокія карткі</seg>
       </tuv>
     </tu>
     <tu>
