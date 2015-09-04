@@ -2518,6 +2518,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Email address is already in use</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111447Z" creationid="usievalad" creationdate="20150904T111447Z">
+        <seg>Электронны адрас ужо выкарыстоўваецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Email address is blank</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111435Z" creationid="usievalad" creationdate="20150904T111435Z">
+        <seg>Электронны адрас пусты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Emphasis</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233429Z">
@@ -3910,6 +3926,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Invalid email address</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111458Z" creationid="usievalad" creationdate="20150904T111458Z">
+        <seg>Хібны электронны адрас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Invert volume keys direction</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T225820Z">
@@ -4662,6 +4686,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No user is registered\nwith specified email address</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111327Z" creationid="usievalad" creationdate="20150904T111327Z">
+        <seg>Няма зарэгістраванага\nкарыстальніка з такім адрасам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No user was registered\nwith specified e-mail address</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130049Z">
@@ -4938,6 +4970,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T083609Z">
         <seg>Пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Password should not be blank</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111414Z" creationid="usievalad" creationdate="20150904T111414Z">
+        <seg>Пароль не павінен быць пустым</seg>
       </tuv>
     </tu>
     <tu>
@@ -5282,6 +5322,14 @@
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T110308Z" creationid="usievalad" creationdate="20150904T110141Z">
         <seg>Аднавіць інфармацыю конту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Recovering password. Please wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111252Z" creationid="usievalad" creationdate="20150904T111252Z">
+        <seg>Аднаўленьне пароля. Калі ласка, пачакайце…</seg>
       </tuv>
     </tu>
     <tu>
@@ -6934,6 +6982,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The two passwords do not match</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111425Z" creationid="usievalad" creationdate="20150904T111425Z">
+        <seg>Паролі не супадаюць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are no books in series, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T133014Z" creationid="eratyk" creationdate="20140831T133014Z">
@@ -7098,6 +7154,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T073930Z">
         <seg>Каб гартаць старонкі, праводзьце па экране гарызантальна ці карыстайце клявішы гучнасьці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Too many registrations from your IP address;\nplease try again in a few minutes</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111551Z" creationid="usievalad" creationdate="20150904T111551Z">
+        <seg>Зашмат рэгсітрацый з вашага адраса IP;\nкалі ласка, паспрабуйце пра пару хвілін</seg>
       </tuv>
     </tu>
     <tu>
@@ -7550,10 +7614,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Username already in use</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111341Z" creationid="usievalad" creationdate="20150904T111341Z">
+        <seg>Імя карытсальніка ўжо занятае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Username should be non-empty</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T083605Z">
         <seg>Імя карыстальніка ня можа быць пустым</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Username should not be blank</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111402Z" creationid="usievalad" creationdate="20150904T111402Z">
+        <seg>Імя карытсальніка не павінна быць пустым</seg>
       </tuv>
     </tu>
     <tu>
