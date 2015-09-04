@@ -190,6 +190,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add credit to account</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103153Z" creationid="usievalad" creationdate="20150904T103153Z">
+        <seg>Папоўніць рахунак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add credit to account (currently\: %s)</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103146Z" creationid="usievalad" creationdate="20150904T103146Z">
+        <seg>Папоўніць рахунак (зараз\: %s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add custom OPDS catalog manually</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T125807Z">
@@ -782,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Books by synchronization status</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103051Z" creationid="usievalad" creationdate="20150904T103051Z">
+        <seg>Кнігі па стане сынхранізацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Books directories</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T131632Z" creationid="eratyk" creationdate="20140831T131632Z">
@@ -1130,6 +1154,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T125844Z">
         <seg>Каталёг\:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Catalogs you browsed recently</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103129Z" creationid="usievalad" creationdate="20150904T103129Z">
+        <seg>Апошнія наведаныя каталёгі</seg>
       </tuv>
     </tu>
     <tu>
@@ -1758,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do you want to buy the book? (%s)</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103244Z" creationid="usievalad" creationdate="20150904T103244Z">
+        <seg>Купіць кнігу? (%s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you want to buy this book? (%s)</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T183439Z">
@@ -1774,10 +1814,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do you want to download the book?</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103236Z" creationid="usievalad" creationdate="20150904T103222Z">
+        <seg>Зладаваць кнігу?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to download the sample?</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103231Z" creationid="usievalad" creationdate="20150904T103231Z">
+        <seg>Зладаваць узор?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you want to download this book?</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T183627Z">
         <seg>Зладаваць гэтую кнігу?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to open the link in a browser?</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103259Z" creationid="usievalad" creationdate="20150904T103259Z">
+        <seg>Адчыніць спасылку ў аглядальніку?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1801,6 +1865,22 @@
         <seg>Do you want to read sample?</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191206Z">
+        <seg>Чытаць узор?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to read the downloaded copy?</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103211Z" creationid="usievalad" creationdate="20150904T103211Z">
+        <seg>Чытаць зладаваную копію?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to read the sample?</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103227Z" creationid="usievalad" creationdate="20150904T103227Z">
         <seg>Чытаць узор?</seg>
       </tuv>
     </tu>
@@ -3678,6 +3758,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>My favorite books</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103028Z" creationid="usievalad" creationdate="20150904T103028Z">
+        <seg>Мае ўпадабаныя кнігі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>My favourite books</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T101726Z" creationid="usievalad" creationdate="20150904T101726Z">
@@ -3906,6 +3994,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T144945Z" creationid="eratyk" creationdate="20140831T144945Z">
         <seg>Яшчэ не сынхранізавана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not synchronized yet</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103120Z" creationid="usievalad" creationdate="20150904T103120Z">
+        <seg>Не сынхранізавана</seg>
       </tuv>
     </tu>
     <tu>
@@ -5641,6 +5737,30 @@
         <seg>Synchronised</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T144811Z" creationid="eratyk" creationdate="20140831T144811Z">
+        <seg>Сынхранізавана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronization</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103040Z" creationid="usievalad" creationdate="20150904T103040Z">
+        <seg>Сынхранізацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronization failed</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103112Z" creationid="usievalad" creationdate="20150904T103112Z">
+        <seg>Сынхранізацыя няўдалая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronized</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103106Z" creationid="usievalad" creationdate="20150904T103053Z">
         <seg>Сынхранізавана</seg>
       </tuv>
     </tu>
