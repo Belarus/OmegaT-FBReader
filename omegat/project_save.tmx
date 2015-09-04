@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-rotate</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103723Z" creationid="usievalad" creationdate="20150904T103723Z">
+        <seg>Самарушнае паварочваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatic rotation</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T192721Z">
@@ -1734,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Directories to search for files</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103920Z" creationid="usievalad" creationdate="20150904T103920Z">
+        <seg>Тэчкі для пошуку файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Directories to seek for files</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T131337Z">
@@ -1849,6 +1865,14 @@
         <seg>Do not synchronise my library with FBReader book network server</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T145424Z" creationid="eratyk" creationdate="20140831T145424Z">
+        <seg>Не сынхранізаваць маю бібліятэку з сэрвэрам кніжнай сеткі FBReader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not synchronize my library with FBReader book network server</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103815Z" creationid="usievalad" creationdate="20150904T103815Z">
         <seg>Не сынхранізаваць маю бібліятэку з сэрвэрам кніжнай сеткі FBReader</seg>
       </tuv>
     </tu>
@@ -2289,6 +2313,14 @@
         <seg>Enable synchronisation</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T145303Z" creationid="eratyk" creationdate="20140831T145303Z">
+        <seg>Уключыць сынхранізацыю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable synchronization</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103751Z" creationid="usievalad" creationdate="20150904T103751Z">
         <seg>Уключыць сынхранізацыю</seg>
       </tuv>
     </tu>
@@ -3033,6 +3065,46 @@
         <seg>Go to Start of Text Section</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074225Z">
+        <seg>Перайсьці ў пачатак разьдзелу тэксту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to end of text section</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103656Z" creationid="usievalad" creationdate="20150904T103656Z">
+        <seg>Перайсьці ў канец разьдзелу тэксту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to next TOC item</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103659Z" creationid="usievalad" creationdate="20150904T103659Z">
+        <seg>Да наступнага элемэнта зьместу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to page…</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103649Z" creationid="usievalad" creationdate="20150904T103649Z">
+        <seg>Перайсьці да старонкі…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to previous TOC item</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103702Z" creationid="usievalad" creationdate="20150904T103702Z">
+        <seg>Да папярэдняга элемэнта зьместу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to start of text section</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103654Z" creationid="usievalad" creationdate="20150904T103654Z">
         <seg>Перайсьці ў пачатак разьдзелу тэксту</seg>
       </tuv>
     </tu>
@@ -4542,6 +4614,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Read more about synchronization</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103741Z" creationid="usievalad" creationdate="20150904T103741Z">
+        <seg>Больш пра сынхранізацыю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Read sample</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191142Z">
@@ -5198,6 +5278,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shared from &lt;a href\="https\://fbreader.org/"&gt;FBReader&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103635Z" creationid="usievalad" creationdate="20150904T103635Z">
+        <seg>Абагулена праз &lt;a href\="https\://fbreader.org/"&gt;FBReader&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Shift animation</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T224348Z">
@@ -5582,6 +5670,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start screen</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103645Z" creationid="usievalad" creationdate="20150904T103645Z">
+        <seg>Пачатковы экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Stop loading</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191634Z">
@@ -5866,6 +5962,54 @@
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T103112Z" creationid="usievalad" creationdate="20150904T103112Z">
         <seg>Сынхранізацыя няўдалая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronize bookmarks</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103826Z" creationid="usievalad" creationdate="20150904T103826Z">
+        <seg>Сынхранізаваць закладкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronize metainfo (title, tags, etc.)</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103830Z" creationid="usievalad" creationdate="20150904T103830Z">
+        <seg>Сынхранізаваць мэтазьвесткі (назву, цэтлікі, інш.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronize my library as %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103804Z" creationid="usievalad" creationdate="20150904T103804Z">
+        <seg>Сынхранізаваць маю бібліятэку як %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronize my library with FBReader book network server</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103801Z" creationid="usievalad" creationdate="20150904T103801Z">
+        <seg>Сынхранізаваць маю бібліятэку з сэрвэрам кніжнай сеткі FBReader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronize reading positions</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103823Z" creationid="usievalad" creationdate="20150904T103823Z">
+        <seg>Сынхранізаваць месцы чытаньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronize reading positions, but do not open same book on all devices</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103914Z" creationid="usievalad" creationdate="20150904T103914Z">
+        <seg>Сынхранізаваць месцы чытаньня, але не адчыняць гэтую кнігу на ўсіх прыладах</seg>
       </tuv>
     </tu>
     <tu>
@@ -6890,6 +7034,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191822Z">
         <seg>http\://www.fbreader.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https\://books.fbreader.org/help.html</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103744Z" creationid="usievalad" creationdate="20150904T103744Z">
+        <seg>https\://books.fbreader.org/help.html</seg>
       </tuv>
     </tu>
     <tu>
