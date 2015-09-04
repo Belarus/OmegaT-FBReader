@@ -710,10 +710,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Book download is already in progress</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103520Z" creationid="usievalad" creationdate="20150904T103520Z">
+        <seg>Кніга ўжо зладоўваецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Book download started</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103513Z" creationid="usievalad" creationdate="20150904T103513Z">
+        <seg>Зладаваньне кнігі пачатае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Book downloaded</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103457Z" creationid="usievalad" creationdate="20150904T103457Z">
+        <seg>Кніга зладаваная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Book downloading has been started</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T072959Z">
         <seg>Зладаваньне кнігі пачатае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Book has already been purchased</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103334Z" creationid="usievalad" creationdate="20150904T103334Z">
+        <seg>Кнігі ўжо набытыя</seg>
       </tuv>
     </tu>
     <tu>
@@ -1110,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot load account details</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103358Z" creationid="usievalad" creationdate="20150904T103358Z">
+        <seg>Немагчыма заладаваць зьвесткі рахунку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot load account state</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T202148Z">
@@ -1310,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Configure your catalogs</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103317Z" creationid="usievalad" creationdate="20150904T103317Z">
+        <seg>Наладзьце Вашыя каталёгі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Configure your catalogs list</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130525Z" creationid="eratyk" creationdate="20140831T130525Z">
@@ -1338,6 +1386,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T084056Z">
         <seg>Працягнуць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copied to clipboard\:\n%s</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103555Z" creationid="usievalad" creationdate="20150904T103555Z">
+        <seg>Скапіявана ў кішэню\:\n%s</seg>
       </tuv>
     </tu>
     <tu>
@@ -1518,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103528Z" creationid="usievalad" creationdate="20150904T103528Z">
+        <seg>Выдаліць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delete all</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T145103Z" creationid="eratyk" creationdate="20140831T145103Z">
@@ -1570,6 +1634,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T190816Z">
         <seg>Выдаліць узор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete the bookmark</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103534Z" creationid="usievalad" creationdate="20150904T103534Z">
+        <seg>Выдаліць закладку</seg>
       </tuv>
     </tu>
     <tu>
@@ -3742,6 +3814,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>More</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103545Z" creationid="usievalad" creationdate="20150904T103545Z">
+        <seg>Больш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>More styles</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234020Z">
@@ -3926,6 +4006,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No description available</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103434Z" creationid="usievalad" creationdate="20150904T103434Z">
+        <seg>Няма даступнага апісаньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No description available.</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201124Z">
@@ -4002,6 +4090,14 @@
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T103120Z" creationid="usievalad" creationdate="20150904T103120Z">
         <seg>Не сынхранізавана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Number in series\:</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103449Z" creationid="usievalad" creationdate="20150904T103449Z">
+        <seg>Нумар у сэрыі\:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4814,6 +4910,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save text</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103541Z" creationid="usievalad" creationdate="20150904T103541Z">
+        <seg>Захаваць тэкст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Screen brightness adjustment</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T125922Z">
@@ -5558,6 +5662,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Style</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103525Z" creationid="usievalad" creationdate="20150904T103525Z">
+        <seg>Стыль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Style %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130900Z" creationid="eratyk" creationdate="20140831T130900Z">
@@ -6002,6 +6114,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T082502Z">
         <seg>Гэты набытак каштуе %0, а ў Вас толькі %1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This purchase costs %0, your balance is %1</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103420Z" creationid="usievalad" creationdate="20150904T103420Z">
+        <seg>Гэты набытак каштуе %0, Ваш балянс — %1</seg>
       </tuv>
     </tu>
     <tu>
