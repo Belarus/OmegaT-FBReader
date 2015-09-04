@@ -5406,6 +5406,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please feel free to post your questions to us via social networks. There are a lot of active users waiting to help you, including the program creators. If you prefer to ask us anything privately, please &lt;a0&gt;send us an e-mail&lt;/a0&gt; instead.</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T120644Z" creationid="usievalad" creationdate="20150904T120644Z">
+        <seg>Калі ласка, не саромцеся задаваць пытаньні ў сацыяльных сетках: там шмат актыўных карыстальнікаў, якія могуць Вам дапамагчы, а таксама стваральнікі праграмы. Калі ж Вы хочаце задаць пытаньне прыватна, калі ласка, &lt;a0&gt;дашліце нам электронны ліст&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please install plugin to read this file type</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T133233Z" creationid="eratyk" creationdate="20140831T133233Z">
@@ -7266,6 +7274,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074541Z">
         <seg>Зьмест</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table of Contents:</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T120652Z" creationid="usievalad" creationdate="20150904T120652Z">
+        <seg>Зьмест:</seg>
       </tuv>
     </tu>
     <tu>
