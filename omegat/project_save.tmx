@@ -86,10 +86,66 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1 minute</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112828Z" creationid="usievalad" creationdate="20150904T112828Z">
+        <seg>1 хвіліна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1 second</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T112803Z" creationid="usievalad" creationdate="20150904T112803Z">
         <seg>1 сэкунда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>10 seconds</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112816Z" creationid="usievalad" creationdate="20150904T112816Z">
+        <seg>10 сэкунд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>20 seconds</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112820Z" creationid="usievalad" creationdate="20150904T112820Z">
+        <seg>20 сэкунд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3 seconds</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112807Z" creationid="usievalad" creationdate="20150904T112807Z">
+        <seg>3 сэкунды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>40 seconds</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112824Z" creationid="usievalad" creationdate="20150904T112824Z">
+        <seg>40 сэкунд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>5 minutes</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112833Z" creationid="usievalad" creationdate="20150904T112833Z">
+        <seg>5 хвілін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>5 seconds</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112811Z" creationid="usievalad" creationdate="20150904T112811Z">
+        <seg>5 сэкунд</seg>
       </tuv>
     </tu>
     <tu>
@@ -1310,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot open dictionary</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112913Z" creationid="usievalad" creationdate="20150904T112913Z">
+        <seg>Немагчыма адчыніць слоўнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot open external application</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T133027Z" creationid="eratyk" creationdate="20140831T133027Z">
@@ -1978,6 +2042,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214911Z">
         <seg>Слоўнік не ўсталяваны, прабачце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionary not selected; please adjust Dictan settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112958Z" creationid="usievalad" creationdate="20150904T112958Z">
+        <seg>Слоўнік ня выбраны; калі ласка, наладзьце яго.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4802,6 +4874,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T202923Z">
         <seg>Няма дзеяньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No article found for “%s”</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112858Z" creationid="usievalad" creationdate="20150904T112858Z">
+        <seg>Ня знойдзена артукла для «%s»</seg>
       </tuv>
     </tu>
     <tu>
