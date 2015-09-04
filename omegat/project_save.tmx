@@ -1774,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionary &amp; translator</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105349Z" creationid="usievalad" creationdate="20150904T105349Z">
+        <seg>Слоўнік і пераклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionary is not installed, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214911Z">
@@ -2710,6 +2718,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fast</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105315Z" creationid="usievalad" creationdate="20150904T105315Z">
+        <seg>Хуткая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fast refresh mode</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T182047Z" creationid="eratyk" creationdate="20140831T182047Z">
@@ -2818,6 +2834,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T074927Z">
         <seg>Больш інфармацыі пра FBReader ёсьць на &lt;a0&gt;нашым сайце&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Finger tap actions</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105338Z" creationid="usievalad" creationdate="20150904T105338Z">
+        <seg>Дзеяньня дотыкаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -3006,10 +3030,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Footer (old style) color</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105148Z" creationid="usievalad" creationdate="20150904T105148Z">
+        <seg>Колер прыпятка (стары выгляд)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Footer background</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T105028Z" creationid="usievalad" creationdate="20150904T105028Z">
         <seg>Фон прыпятка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Footer background color</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105201Z" creationid="usievalad" creationdate="20150904T105201Z">
+        <seg>Колер фону прыяптка</seg>
       </tuv>
     </tu>
     <tu>
@@ -3038,10 +3078,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Footer line color</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105232Z" creationid="usievalad" creationdate="20150904T105232Z">
+        <seg>Колер лініі прыпятка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Footer text</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T105042Z" creationid="usievalad" creationdate="20150904T105042Z">
         <seg>Тэкст прыпятка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Footer text color</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105213Z" creationid="usievalad" creationdate="20150904T105213Z">
+        <seg>Колер шрыфту прыпятка</seg>
       </tuv>
     </tu>
     <tu>
@@ -3474,6 +3530,14 @@
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T104916Z" creationid="usievalad" creationdate="20150904T104916Z">
         <seg>Колькі паказваць зьвязанае выкно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How long to show translation popup</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105436Z" creationid="usievalad" creationdate="20150904T105436Z">
+        <seg>Колькі паказваць вакно перакладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -4018,6 +4082,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140927T140822Z" creationid="eratyk" creationdate="20140927T140808Z">
         <seg>Пошук кніг у лякальнай сетцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Look up single word in</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105406Z" creationid="usievalad" creationdate="20150904T105406Z">
+        <seg>Паглядзець слова ў</seg>
       </tuv>
     </tu>
     <tu>
@@ -5822,6 +5894,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Slide animation (old style)</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105309Z" creationid="usievalad" creationdate="20150904T105309Z">
+        <seg>Ссоўваньне (стары выгляд)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slow</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105319Z" creationid="usievalad" creationdate="20150904T105319Z">
+        <seg>Павольная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Small cards</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T101839Z" creationid="usievalad" creationdate="20150904T101814Z">
@@ -6678,10 +6766,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate phrases via</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105415Z" creationid="usievalad" creationdate="20150904T105415Z">
+        <seg>Перакласьці фразу праз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate to</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T132134Z" creationid="eratyk" creationdate="20140831T132134Z">
         <seg>Перакласьці на</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105355Z" creationid="usievalad" creationdate="20150904T105355Z">
+        <seg>налады перакладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -6986,6 +7090,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T161708Z" creationid="eratyk" creationdate="20140831T161633Z">
         <seg>Выкарыстоўваць гарнітуру з CSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use volume keys for sound</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105250Z" creationid="usievalad" creationdate="20150904T105250Z">
+        <seg>Карыстаць клявішы гучнасьці для гуку</seg>
       </tuv>
     </tu>
     <tu>
