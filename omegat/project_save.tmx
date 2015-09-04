@@ -302,10 +302,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow hyphenation</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104505Z" creationid="usievalad" creationdate="20150904T104505Z">
+        <seg>Дазволіць пераносы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow hyphenations</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T161327Z" creationid="eratyk" creationdate="20140831T161327Z">
         <seg>Дазволіць пераносы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allow screen to sleep while device is in charging mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104430Z" creationid="usievalad" creationdate="20150904T104430Z">
+        <seg>Даваць экрану гаснуць, калі прылада зараджаецца</seg>
       </tuv>
     </tu>
     <tu>
@@ -562,6 +578,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T194235Z">
         <seg>Аўтары\:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto hyphenation</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104502Z" creationid="usievalad" creationdate="20150904T104502Z">
+        <seg>Самарушныя пераносы</seg>
       </tuv>
     </tu>
     <tu>
@@ -1094,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By dragging finger up/down the left side of the screen</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104323Z" creationid="usievalad" creationdate="20150904T104323Z">
+        <seg>Перасоўваньнем пальца ўверх-уніз па левым баку экрану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By series</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215442Z">
@@ -1234,6 +1266,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230605Z">
         <seg>Цэнтраваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Centered</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104450Z" creationid="usievalad" creationdate="20150904T104450Z">
+        <seg>Адцэнтраваны</seg>
       </tuv>
     </tu>
     <tu>
@@ -1830,6 +1870,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display text in two columns when viewed horizontally</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104300Z" creationid="usievalad" creationdate="20150904T104300Z">
+        <seg>Паказваць тэкст двума слупкамі ў гарызантальным стане</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dithering</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T231650Z">
@@ -2010,6 +2058,14 @@
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T104223Z" creationid="usievalad" creationdate="20150904T104223Z">
         <seg>Не выключаць сьвятло кнопак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Don't hyphenate words</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104517Z" creationid="usievalad" creationdate="20150904T104517Z">
+        <seg>Не пераносіць словы</seg>
       </tuv>
     </tu>
     <tu>
@@ -3326,6 +3382,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hyphenate words</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104513Z" creationid="usievalad" creationdate="20150904T104513Z">
+        <seg>Пераносіць словы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hyphenate words automatically</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230845Z">
@@ -3486,6 +3550,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Internal hyperlink</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104523Z" creationid="usievalad" creationdate="20150904T104523Z">
+        <seg>Унутраная спасылка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Internal server error</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T085850Z">
@@ -3554,6 +3626,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20141001T071120Z" creationid="eratyk" creationdate="20141001T071120Z">
         <seg>Толькі сынхранізаваць пазыцыі, не мяняць кнігу аўтаматычна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Justified</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104456Z" creationid="usievalad" creationdate="20150904T104456Z">
+        <seg>Выпрастаны</seg>
       </tuv>
     </tu>
     <tu>
@@ -4529,6 +4609,22 @@
         <seg>Prevent screen from sleeping if device is in charging mode</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T201752Z">
+        <seg>Не даваць экрану гаснуць, калі прылада зараджаецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prevent screen from sleeping while charging</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104356Z" creationid="usievalad" creationdate="20150904T104356Z">
+        <seg>Не даваць экрану гаснуць падчас зараджаньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prevent screen from sleeping while device is in charging mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104405Z" creationid="usievalad" creationdate="20150904T104405Z">
         <seg>Не даваць экрану гаснуць, калі прылада зараджаецца</seg>
       </tuv>
     </tu>
@@ -6934,6 +7030,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>While battery level is above 25%%</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104332Z" creationid="usievalad" creationdate="20150904T104332Z">
+        <seg>Калі зарад батарэі большы за 25%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While battery level is above 50%%</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104335Z" creationid="usievalad" creationdate="20150904T104335Z">
+        <seg>Калі зарад батарэі большы за 25%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>While battery level is greater than 25 percent</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T201220Z">
@@ -7241,6 +7353,14 @@
         <seg>striked through</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234046Z">
+        <seg>закрэсьлены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>strikethrough</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104439Z" creationid="usievalad" creationdate="20150904T104439Z">
         <seg>закрэсьлены</seg>
       </tuv>
     </tu>
