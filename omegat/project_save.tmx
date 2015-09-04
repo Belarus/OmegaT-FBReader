@@ -2350,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do you like FBReader? Want to access more features? Why not upgrade to FBReader Premium Edtion?</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T122552Z" creationid="usievalad" creationdate="20150904T122552Z">
+        <seg>Падабаецца FBReader? Жадаеце больш магчымасьцяў? Чаму б не абнавіцца да прэміюмнага выданьня FBReader?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you want to buy the book? (%s)</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T103244Z" creationid="usievalad" creationdate="20150904T103244Z">
@@ -5774,6 +5782,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reasons to buy: &lt;br0/&gt;&amp;bullet; Built-in support for PDF and comic book formats (CBR, CBZ). &lt;br1/&gt;&amp;bullet; Thumbnail library view. 100% ad-free. (You can revert to classic library view if you prefer.) &lt;br2/&gt;&amp;bullet; Google Translate integration: just select a phrase and choose the translation icon from the popup menu. &lt;br3/&gt;&amp;bullet; Your purchase supports the FBReader project, allowing more and more new features to be added to both the Free and Premium versions of the app.</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T122727Z" creationid="usievalad" creationdate="20150904T122727Z">
+        <seg>Прычыны для куплі: &lt;br0/&gt;&amp;bullet; Убудаваня падтрымка PDF і коміксаў (CBR, CBZ). &lt;br1/&gt;&amp;bullet; Бібліятэка ў выглядзе мініятур. 100% ad-free. (You can revert to classic library view if you prefer.) &lt;br2/&gt;&amp;bullet; Google Translate integration: just select a phrase and choose the translation icon from the popup menu. &lt;br3/&gt;&amp;bullet; Your purchase supports the FBReader project, allowing more and more new features to be added to both the Free and Premium versions of the app.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Recent</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071613Z">
@@ -7648,8 +7664,8 @@
       <tuv lang="en">
         <seg>Thumbnail library view</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20140927T141446Z" creationid="eratyk" creationdate="20140927T141446Z">
-        <seg>Выгляд бібліятэкі мініятур</seg>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T122751Z" creationid="eratyk" creationdate="20140927T141446Z">
+        <seg>Бібліятэка ў выглядзе мініятур</seg>
       </tuv>
     </tu>
     <tu>
