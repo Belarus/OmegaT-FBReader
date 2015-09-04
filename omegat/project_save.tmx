@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adjust image color to background</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105651Z" creationid="usievalad" creationdate="20150904T105651Z">
+        <seg>Карэктаваць колер выявы адпаведна з фонам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alignment</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230728Z">
@@ -290,6 +298,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201445Z">
         <seg>Усе кнігі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All languages</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105526Z" creationid="usievalad" creationdate="20150904T105526Z">
+        <seg>Усе мовы</seg>
       </tuv>
     </tu>
     <tu>
@@ -614,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatically detect language</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105522Z" creationid="usievalad" creationdate="20150904T105522Z">
+        <seg>Аўтаматычна вызначаць мову</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Back</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T202644Z">
@@ -665,6 +689,14 @@
         <seg>Background color for image view</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T205531Z">
+        <seg>Колер фону для прагляду выявы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Background color in image view</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105638Z" creationid="usievalad" creationdate="20150904T105638Z">
         <seg>Колер фону для прагляду выявы</seg>
       </tuv>
     </tu>
@@ -1950,6 +1982,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not show daily tips</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105704Z" creationid="usievalad" creationdate="20150904T105704Z">
+        <seg>Не паказваць штодзённыя падказкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not synchronise my library with FBReader book network server</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T145424Z" creationid="eratyk" creationdate="20140831T145424Z">
@@ -2910,6 +2950,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow us on Twitter</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105725Z" creationid="usievalad" creationdate="20150904T105725Z">
+        <seg>Чытайце нас у Twitter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Font family</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T125957Z">
@@ -3534,6 +3582,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How long to show error message</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105454Z" creationid="usievalad" creationdate="20150904T105454Z">
+        <seg>Колькі паказваць паведамленьне пра памылку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How long to show translation popup</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T105436Z" creationid="usievalad" creationdate="20150904T105436Z">
@@ -3634,6 +3690,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233524Z">
         <seg>Выява</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Image display options</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105630Z" creationid="usievalad" creationdate="20150904T105630Z">
+        <seg>Налады адлюстраваньня выяваў</seg>
       </tuv>
     </tu>
     <tu>
@@ -3838,6 +3902,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Key navigation over words</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105614Z" creationid="usievalad" creationdate="20150904T105614Z">
+        <seg>Ключавая навігацыя па-нал словамі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Key navigation visits all words</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130033Z">
@@ -4018,6 +4090,62 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140927T140815Z" creationid="eratyk" creationdate="20140927T140734Z">
         <seg>Лякальны праглядальнік OPDS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Long tap action</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105532Z" creationid="usievalad" creationdate="20150904T105532Z">
+        <seg>Дзеяньне доўгага дотыку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Long tap does nothing</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105538Z" creationid="usievalad" creationdate="20150904T105538Z">
+        <seg>Доўгі дотык нічога ня робіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Long tap to initiate selection</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105543Z" creationid="usievalad" creationdate="20150904T105543Z">
+        <seg>Доўгі дотык пачынае вылучэньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Long tap to open image view</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105645Z" creationid="usievalad" creationdate="20150904T105645Z">
+        <seg>Доўгі дотык адчыняе прагляд выявы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Long tap to select single word</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105541Z" creationid="usievalad" creationdate="20150904T105541Z">
+        <seg>Доўгі дотык вылучае адно слова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Long tap to select single word, release to open dictionary</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105549Z" creationid="usievalad" creationdate="20150904T105549Z">
+        <seg>Доўгі дотык вылучае адно слова, адпусканьне адчыняе слоўнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Long tap to select the image</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105642Z" creationid="usievalad" creationdate="20150904T105642Z">
+        <seg>Доўгі дотык вылучае выяву</seg>
       </tuv>
     </tu>
     <tu>
@@ -5518,6 +5646,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Send us an email</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105717Z" creationid="usievalad" creationdate="20150904T105717Z">
+        <seg>Даслаць нам ліст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Separate settings for titles, epigraphs, etc.</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130002Z">
@@ -6766,6 +6902,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate from</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105507Z" creationid="usievalad" creationdate="20150904T105507Z">
+        <seg>Перакласьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate phrases via</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T105415Z" creationid="usievalad" creationdate="20150904T105415Z">
@@ -7150,6 +7294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Version info, contacts, etc.</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105708Z" creationid="usievalad" creationdate="20150904T105708Z">
+        <seg>Вэрсія й кантакты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Vertical alignment</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T161510Z" creationid="eratyk" creationdate="20140831T161510Z">
@@ -7490,6 +7642,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T162115Z" creationid="eratyk" creationdate="20140831T162115Z">
         <seg>https\://facebook.com/fbreader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https\://fbreader.org/</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105711Z" creationid="usievalad" creationdate="20150904T105711Z">
+        <seg>https\://fbreader.org/</seg>
       </tuv>
     </tu>
     <tu>
