@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any of the books already saved to your device can be opened from the &lt;a0&gt;Library&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T114030Z" creationid="usievalad" creationdate="20150904T114030Z">
+        <seg>Любую з кніг, захаваных на вашае прыладзе, можна адчыніць праз &lt;a0&gt;Бібліятэку&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Appearance</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T202546Z">
@@ -6830,6 +6838,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Store your ebooks in the cloud.</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T114049Z" creationid="usievalad" creationdate="20150904T114049Z">
+        <seg>Захоўвайце Вашыя кнігі ў воблаку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Stretch horizontally, tile vertically</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20141001T071346Z" creationid="eratyk" creationdate="20141001T071346Z">
@@ -8446,6 +8462,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>fbreader-action:preferences#sync</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T114050Z" creationid="usievalad" creationdate="20150904T114050Z">
+        <seg>fbreader-action:preferences#sync</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http\://fbreader.org/</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T132300Z" creationid="eratyk" creationdate="20140831T132300Z">
@@ -8474,6 +8498,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191822Z">
         <seg>http\://www.fbreader.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://books.fbreader.org/</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T114052Z" creationid="usievalad" creationdate="20150904T114052Z">
+        <seg>https://books.fbreader.org/</seg>
       </tuv>
     </tu>
     <tu>
