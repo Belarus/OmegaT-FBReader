@@ -1622,6 +1622,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Definition description</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104539Z" creationid="usievalad" creationdate="20150904T104539Z">
+        <seg>Апісаньне азначэньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delete</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T103528Z" creationid="usievalad" creationdate="20150904T103528Z">
@@ -2542,6 +2550,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External hyperlink</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104541Z" creationid="usievalad" creationdate="20150904T104541Z">
+        <seg>Зьнешняя спасылка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FBReader %s plugin</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T132458Z" creationid="eratyk" creationdate="20140831T132458Z">
@@ -2986,6 +3002,22 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233453Z">
         <seg>Зноска</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Footnote windows, etc.</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104720Z" creationid="usievalad" creationdate="20150904T104720Z">
+        <seg>Вокны зносак, інш.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For footnotes only</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104803Z" creationid="usievalad" creationdate="20150904T104803Z">
+        <seg>Толькі для зносак</seg>
       </tuv>
     </tu>
     <tu>
@@ -4542,6 +4574,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pop-ups</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104648Z" creationid="usievalad" creationdate="20150904T104648Z">
+        <seg>Выплыўныя вокны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Portrait</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T075457Z">
@@ -5542,6 +5582,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show linked text in a popup</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104756Z" creationid="usievalad" creationdate="20150904T104756Z">
+        <seg>Паказваць зьвязаны тэкст у выплыўным акне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show navigation controls</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T160912Z" creationid="eratyk" creationdate="20140831T160912Z">
@@ -5881,6 +5929,14 @@
         <seg>Striked through</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234053Z">
+        <seg>Закрэсьлены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Strikethrough</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104529Z" creationid="usievalad" creationdate="20150904T104529Z">
         <seg>Закрэсьлены</seg>
       </tuv>
     </tu>
