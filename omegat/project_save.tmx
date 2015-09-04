@@ -1182,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Both FBReader and FBReader Premium appear to be installed. Which one would you like to run?</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T113255Z" creationid="usievalad" creationdate="20150904T113255Z">
+        <seg>Выглядае на тое, што ўсталяваныя і FBReader, і FBReader Прэміюм. Які Вы жадаеце запусьціць?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bottom margin</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T210652Z">
@@ -2926,6 +2934,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FBReader Premium</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T113143Z" creationid="usievalad" creationdate="20150904T113143Z">
+        <seg>FBReader Прэміюм</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FBReader Premium Edition</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T113147Z" creationid="usievalad" creationdate="20150904T113131Z">
+        <seg>Прэміюмнае выданьне FBReader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FBReader books directory</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T131231Z">
@@ -3026,6 +3050,14 @@
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T111724Z" creationid="usievalad" creationdate="20150904T111724Z">
         <seg>FBReader па стандарце працуе ў поўнаэкранным рэжыме. Краніце цэнтральную траціну экрану, каб убачыць элемэнты кіраваньня. Вы можаце зьмяніць гэта ў разьдзеле «Выгляд» наладаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FBReader: an Introduction</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T113315Z" creationid="usievalad" creationdate="20150904T113315Z">
+        <seg>FBReader: уводзіны</seg>
       </tuv>
     </tu>
     <tu>
@@ -8554,6 +8586,14 @@
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T104439Z" creationid="usievalad" creationdate="20150904T104439Z">
         <seg>закрэсьлены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>style.css</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T113304Z" creationid="usievalad" creationdate="20150904T113304Z">
+        <seg>style.css</seg>
       </tuv>
     </tu>
     <tu>
