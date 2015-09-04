@@ -182,10 +182,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add catalogue</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T102330Z" creationid="usievalad" creationdate="20150904T102330Z">
+        <seg>Дадаць каталёг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add custom OPDS catalog manually</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T125807Z">
         <seg>Дадаць уручную дапасаваны каталёг OPDS (адкрытай сыстэмы дастаўленьня публікацыяў)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add custom OPDS catalogue manually</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T102346Z" creationid="usievalad" creationdate="20150904T102346Z">
+        <seg>Дадаць уручную дапасаваны каталёг OPDS</seg>
       </tuv>
     </tu>
     <tu>
@@ -1502,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Delete downloaded copy</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T102303Z" creationid="usievalad" creationdate="20150904T102303Z">
+        <seg>Выдаліць зладаваную копію</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delete local copy</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T190808Z">
@@ -1633,6 +1657,14 @@
         <seg>Disable catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130417Z" creationid="eratyk" creationdate="20140831T130417Z">
+        <seg>Выключыць каталёг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disable catalogue</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T102355Z" creationid="usievalad" creationdate="20150904T102355Z">
         <seg>Выключыць каталёг</seg>
       </tuv>
     </tu>
@@ -2065,6 +2097,14 @@
         <seg>Edit catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130232Z">
+        <seg>Рэдагаваць каталёг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit catalogue</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T102318Z" creationid="usievalad" creationdate="20150904T102318Z">
         <seg>Рэдагаваць каталёг</seg>
       </tuv>
     </tu>
@@ -3934,6 +3974,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open catalogue</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T102229Z" creationid="usievalad" creationdate="20150904T102229Z">
+        <seg>Адчыніць каталёг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open in browser</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191107Z">
@@ -4230,6 +4278,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Quick buy</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T102312Z" creationid="usievalad" creationdate="20150904T102312Z">
+        <seg>Хуткая купля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Quote from %s</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234246Z">
@@ -4274,6 +4330,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140927T141853Z" creationid="eratyk" creationdate="20140927T141853Z">
         <seg>Чытаньне кніг фармату PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Read downloaded copy</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T102250Z" creationid="usievalad" creationdate="20150904T102250Z">
+        <seg>Чытаць зладаваную копію</seg>
       </tuv>
     </tu>
     <tu>
@@ -4417,6 +4481,14 @@
         <seg>Remove catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T125757Z">
+        <seg>Выдаліць каталёг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove catalogue</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T102324Z" creationid="usievalad" creationdate="20150904T102324Z">
         <seg>Выдаліць каталёг</seg>
       </tuv>
     </tu>
