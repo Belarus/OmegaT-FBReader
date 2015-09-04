@@ -1,3 +1,8 @@
+import javax.xml.namespace.QName;
+import javax.xml.stream.XMLEventReader;
+import javax.xml.stream.XMLInputFactory;
+import javax.xml.stream.events.Attribute;
+import javax.xml.stream.events.XMLEvent;
 import java.io.BufferedInputStream;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -5,17 +10,11 @@ import java.io.OutputStreamWriter;
 import java.lang.reflect.Method;
 import java.util.Properties;
 
-import javax.xml.namespace.QName;
-import javax.xml.stream.XMLEventReader;
-import javax.xml.stream.XMLInputFactory;
-import javax.xml.stream.events.Attribute;
-import javax.xml.stream.events.XMLEvent;
-
 public class CreateSource {
 
     public static void main(String[] args) throws Exception {
-        parse("../source/Android/2.1/FBReader-en.xml", "../source/Android/2.1/FBReader-en.ini");
-        parse("../source/Android/2.1/zlibrary-en.xml", "../source/Android/2.1/zlibrary-en.ini");
+        parse("../source/Android/2.6/FBReader-en_US.xml", "../source/Android/2.6/FBReader-en_US.ini");
+        parse("../source/Android/2.6/zlibrary-en_US.xml", "../source/Android/2.1/zlibrary-en_US.ini");
         parse("../source/Desktop/FBReader-en.xml", "../source/Desktop/FBReader-en.ini");
         parse("../source/Desktop/zlibrary-en.xml", "../source/Desktop/zlibrary-en.ini");
     }
