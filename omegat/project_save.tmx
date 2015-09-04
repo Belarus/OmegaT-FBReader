@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Acquiring license. Please wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111204Z" creationid="usievalad" creationdate="20150904T111204Z">
+        <seg>Набыцьцё ліцэнзіі. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Acquiring license. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T182602Z" creationid="eratyk" creationdate="20140831T182602Z">
@@ -514,6 +522,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T133835Z" creationid="eratyk" creationdate="20140831T133835Z">
         <seg>Армянская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Authenticating. Please wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111122Z" creationid="usievalad" creationdate="20150904T111122Z">
+        <seg>Спраўджаньне. Калі ласка, пачакайце…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1578,6 +1594,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T210326Z">
         <seg>Толькі вокладкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating book database. Please wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111113Z" creationid="usievalad" creationdate="20150904T111113Z">
+        <seg>Стварэньне кніжнай базы. Калі ласка, пачакайце…</seg>
       </tuv>
     </tu>
     <tu>
@@ -3790,6 +3814,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initialising DRM engine. Please wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111200Z" creationid="usievalad" creationdate="20150904T111200Z">
+        <seg>Ініцыялізацыя DRM-рухавіка. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initialising DRM engine. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T182542Z" creationid="eratyk" creationdate="20140831T182542Z">
@@ -4118,10 +4150,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Loading book information. Please wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111144Z" creationid="usievalad" creationdate="20150904T111144Z">
+        <seg>Ладаваньне інфармацыі кнігі. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Loading book information. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214416Z">
         <seg>Ладаваньне інфармацыі кнігі. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading catalog information. Please wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111141Z" creationid="usievalad" creationdate="20150904T111141Z">
+        <seg>Ладаваньне інфармацыі каталёгу. Калі ласка, пачакайце…</seg>
       </tuv>
     </tu>
     <tu>
@@ -4814,10 +4862,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opening book. Please wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111105Z" creationid="usievalad" creationdate="20150904T111105Z">
+        <seg>Адчыненьне кнігі. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opening book. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214352Z">
         <seg>Адчыненьне кнігі. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opening library. Please wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111108Z" creationid="usievalad" creationdate="20150904T111108Z">
+        <seg>Адчыненьне бібліятэкі. Калі ласка, пачакайце…</seg>
       </tuv>
     </tu>
     <tu>
@@ -5086,6 +5150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Purchasing book. Please wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111134Z" creationid="usievalad" creationdate="20150904T111134Z">
+        <seg>Набыцьцё кнігі. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Quick buy</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T102312Z" creationid="usievalad" creationdate="20150904T102312Z">
@@ -5242,6 +5314,14 @@
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T105954Z" creationid="usievalad" creationdate="20150904T105954Z">
         <seg>Зарэгістравацца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Registering new account. Please wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111221Z" creationid="usievalad" creationdate="20150904T111221Z">
+        <seg>Рэгістрацыя новага конту. Калі ласка, пачакайце…</seg>
       </tuv>
     </tu>
     <tu>
@@ -6122,6 +6202,22 @@
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T110054Z" creationid="usievalad" creationdate="20150904T110054Z">
         <seg>Уваход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Signing in. Please wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111232Z" creationid="usievalad" creationdate="20150904T111232Z">
+        <seg>Уваход. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Signing out. Please wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111129Z" creationid="usievalad" creationdate="20150904T111129Z">
+        <seg>Выхад. Калі ласка, пачакайце…</seg>
       </tuv>
     </tu>
     <tu>
@@ -7334,6 +7430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Updating account information. Please wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111155Z" creationid="usievalad" creationdate="20150904T111155Z">
+        <seg>Абнаўленьне інфармацыі конту. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Updating account information. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T110249Z">
@@ -7342,10 +7446,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Updating book database. Please wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111116Z" creationid="usievalad" creationdate="20150904T111116Z">
+        <seg>Абнаўленьне кніжнай базы. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Updating books database. Please, wait…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214555Z">
         <seg>Абнаўленьне кніжнай базы. Калі ласка, пачакайце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Updating catalogs list. Please wait…</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111150Z" creationid="usievalad" creationdate="20150904T111150Z">
+        <seg>Абнаўленьне сьпісу каталёгу. Калі ласка, пачакайце…</seg>
       </tuv>
     </tu>
     <tu>
