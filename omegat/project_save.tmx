@@ -6,6 +6,54 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>#first</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T122333Z" creationid="usievalad" creationdate="20150904T122333Z">
+        <seg>#first</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#formats</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T122400Z" creationid="usievalad" creationdate="20150904T122400Z">
+        <seg>#formats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#help</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T122432Z" creationid="usievalad" creationdate="20150904T122432Z">
+        <seg>#help</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#more</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T122411Z" creationid="usievalad" creationdate="20150904T122411Z">
+        <seg>#more</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#network</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T122351Z" creationid="usievalad" creationdate="20150904T122351Z">
+        <seg>#network</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#sync</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T122353Z" creationid="usievalad" creationdate="20150904T122353Z">
+        <seg>#sync</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>%0 book</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T183016Z">
@@ -1538,6 +1586,14 @@
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T101754Z" creationid="usievalad" creationdate="20150904T101754Z">
         <seg>Выбраць выгляд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choosing ebook formats</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T122406Z" creationid="usievalad" creationdate="20150904T122406Z">
+        <seg>Выбар фарматаў кніг</seg>
       </tuv>
     </tu>
     <tu>
@@ -4806,10 +4862,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>More about FBReader</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T122423Z" creationid="usievalad" creationdate="20150904T122423Z">
+        <seg>Больш пра FBReader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>More about FBReader.</seg>
       </tuv>
-      <tuv lang="be" changeid="usievalad" changedate="20150904T115748Z" creationid="usievalad" creationdate="20150904T115748Z">
-        <seg>Больш пра FBReader</seg>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T122431Z" creationid="usievalad" creationdate="20150904T115748Z">
+        <seg>Больш пра FBReader.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6870,6 +6934,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start reading</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T122346Z" creationid="usievalad" creationdate="20150904T122346Z">
+        <seg>Пачніце чытаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start reading.</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T113502Z" creationid="usievalad" creationdate="20150904T113502Z">
@@ -6914,6 +6986,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191650Z">
         <seg>Спыненьне пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Store your ebooks in the cloud</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T122358Z" creationid="usievalad" creationdate="20150904T122358Z">
+        <seg>Захоўвайце Вашыя кнігі ў воблаку</seg>
       </tuv>
     </tu>
     <tu>
