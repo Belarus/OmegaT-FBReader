@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>%s files will be removed permanently. Are you sure?</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105931Z" creationid="usievalad" creationdate="20150904T105931Z">
+        <seg>Файлы (%s) будуць незваротна выдалены. Вы ўпэўненыя?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>%s kB</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201256Z">
@@ -186,6 +194,14 @@
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T102330Z" creationid="usievalad" creationdate="20150904T102330Z">
         <seg>Дадаць каталёг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add credit</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105757Z" creationid="usievalad" creationdate="20150904T105757Z">
+        <seg>Папоўніць рахунак</seg>
       </tuv>
     </tu>
     <tu>
@@ -1434,6 +1450,14 @@
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T105117Z" creationid="usievalad" creationdate="20150904T105117Z">
         <seg>Міжслупковая адлегласьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Configure translation</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105836Z" creationid="usievalad" creationdate="20150904T105836Z">
+        <seg>Наладзіць пераклад</seg>
       </tuv>
     </tu>
     <tu>
@@ -2806,6 +2830,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File already exists. Download again?</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105939Z" creationid="usievalad" creationdate="20150904T105939Z">
+        <seg>Файл ужо існуе. Перазладаваць?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File already exists. Redownload?</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T213753Z">
@@ -2952,8 +2984,8 @@
       <tuv lang="en">
         <seg>Follow us on Twitter</seg>
       </tuv>
-      <tuv lang="be" changeid="usievalad" changedate="20150904T105725Z" creationid="usievalad" creationdate="20150904T105725Z">
-        <seg>Чытайце нас у Twitter</seg>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105742Z" creationid="usievalad" creationdate="20150904T105725Z">
+        <seg>Сачыце за намі ў Twitter</seg>
       </tuv>
     </tu>
     <tu>
@@ -3758,6 +3790,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105823Z" creationid="usievalad" creationdate="20150904T105823Z">
+        <seg>Усталяваць %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Install dictionary</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T212713Z">
@@ -4310,6 +4350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Missing %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105814Z" creationid="usievalad" creationdate="20150904T105814Z">
+        <seg>Адсутнічае %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Missing book</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T213458Z">
@@ -4546,6 +4594,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130049Z">
         <seg>Няма зарэгістраванага карыстальніка\nз азначаным электронным адрасам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No, thanks</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105750Z" creationid="usievalad" creationdate="20150904T105750Z">
+        <seg>Не, дзякуй</seg>
       </tuv>
     </tu>
     <tu>
@@ -4794,6 +4850,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T083609Z">
         <seg>Пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Password\nconfirmation</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T110039Z" creationid="usievalad" creationdate="20150904T110039Z">
+        <seg>Пацьверджаньне\nпароля</seg>
       </tuv>
     </tu>
     <tu>
@@ -5138,6 +5202,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T125834Z">
         <seg>Абнавіць каталёгі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Register User</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105954Z" creationid="usievalad" creationdate="20150904T105954Z">
+        <seg>Зарэгістравацца</seg>
       </tuv>
     </tu>
     <tu>
@@ -6754,6 +6826,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201534Z">
         <seg>Гэтая кніга</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file will be removed permanently. Are you sure?</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105852Z" creationid="usievalad" creationdate="20150904T105852Z">
+        <seg>Файл будзе незваротна выдалены. Вы ўпэўненыя?</seg>
       </tuv>
     </tu>
     <tu>
