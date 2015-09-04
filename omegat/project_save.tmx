@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>%s is not licensed</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111912Z" creationid="usievalad" creationdate="20150904T111912Z">
+        <seg>%s не ліцэнзавана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>%s kB</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201256Z">
@@ -1246,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot access Google Play. Please install %s manually</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112100Z" creationid="usievalad" creationdate="20150904T112100Z">
+        <seg>Няма доступу да Google Play. Калі ласка, усталюйце %s уручную</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot load account details</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T110256Z" creationid="usievalad" creationdate="20150904T103358Z">
@@ -1274,6 +1290,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214734Z">
         <seg>Немагчыма адчыніць гэтую кнігу зараз, прабачце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot verify %s license</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111944Z" creationid="usievalad" creationdate="20150904T111944Z">
+        <seg>Немагчыма праверыць ліцэнзію %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -2638,6 +2662,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error %s in native code while reading '%s'</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112004Z" creationid="usievalad" creationdate="20150904T112004Z">
+        <seg>Памылка %s у родным кодзе падчас чытаньня «%s»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error occured during extracting '%s'</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T133327Z">
@@ -2649,6 +2681,22 @@
         <seg>Error occured during reading '%s'</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T133338Z">
+        <seg>Адбылася памылка падчас чытаньня «%s»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error occured while extracting '%s'</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112011Z" creationid="usievalad" creationdate="20150904T112011Z">
+        <seg>Адбылася памылка падчас выманьня «%s»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error occured while reading '%s'</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112008Z" creationid="usievalad" creationdate="20150904T112008Z">
         <seg>Адбылася памылка падчас чытаньня «%s»</seg>
       </tuv>
     </tu>
@@ -2874,6 +2922,14 @@
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T101730Z" creationid="usievalad" creationdate="20150904T101711Z">
         <seg>Упадабаныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File %s encryption method is not supported by FBReader. Some pages are not readable</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112034Z" creationid="usievalad" creationdate="20150904T112034Z">
+        <seg>Файл «%s» зашыфраваны спосабам, які не падтрымлівае FBReader. Некаторыя старонкі нечытэльныя</seg>
       </tuv>
     </tu>
     <tu>
@@ -4430,6 +4486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matching text not found</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112121Z" creationid="usievalad" creationdate="20150904T112121Z">
+        <seg>Адпаведны тэкст ня знойдзены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Memory card</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071340Z">
@@ -5202,6 +5266,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T082401Z">
         <seg>Набыць кнігі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Purchase on Google Play now?</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111927Z" creationid="usievalad" creationdate="20150904T111927Z">
+        <seg>Купіць зараз на Google Play?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7014,6 +7086,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are no matching books in the library</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112135Z" creationid="usievalad" creationdate="20150904T112135Z">
+        <seg>Няма адпаведных кніг у бібліятэцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are no suitable bookmarks, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214657Z">
@@ -7282,6 +7362,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T084536Z">
         <seg>Паспрабаваць зноў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Try again?</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T111951Z" creationid="usievalad" creationdate="20150904T111951Z">
+        <seg>Паспрабаваць зноў?</seg>
       </tuv>
     </tu>
     <tu>
