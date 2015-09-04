@@ -1766,6 +1766,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Disable button lights (most devices)</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104212Z" creationid="usievalad" creationdate="20150904T104212Z">
+        <seg>Выключаць сьвятло кнопак (большасьць прылад)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disable button lights while reading</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104131Z" creationid="usievalad" creationdate="20150904T104131Z">
+        <seg>Выключаць сьвятло кнопак падчас чытаньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Disable buttons light during reading</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T191606Z">
@@ -1990,6 +2006,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Don't disable button lights</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104223Z" creationid="usievalad" creationdate="20150904T104223Z">
+        <seg>Не выключаць сьвятло кнопак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Don't show 'open library' item</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T203038Z">
@@ -2066,6 +2090,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T202210Z">
         <seg>Не паказваць паліцу стану, калі актывуецца мэню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Don't show status bar when menu is active</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104108Z" creationid="usievalad" creationdate="20150904T104108Z">
+        <seg>Не паказваць паліцу стану, калі мэню актыўнае</seg>
       </tuv>
     </tu>
     <tu>
@@ -5486,6 +5518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show/hide status bar when menu is active</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104046Z" creationid="usievalad" creationdate="20150904T104046Z">
+        <seg>Паказваць ці хаваць паліцу стану, калі мэню актыўнае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sign in</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191002Z">
@@ -6174,10 +6214,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The display will not rotate when user rotates the device</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104007Z" creationid="usievalad" creationdate="20150904T104007Z">
+        <seg>Экран ня будзе паварочвацца, калі карыстальнік паварочвае прыладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The display will rotate when user moves the device</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T192619Z">
         <seg>Экран будзе паварочвацца, калі карыстальнік рухае прыладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The display will rotate when user rotates the device</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103954Z" creationid="usievalad" creationdate="20150904T103954Z">
+        <seg>Экран будзе паварочвацца, калі карыстальнік паварочвае прыладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -6826,6 +6882,22 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140927T134151Z" creationid="eratyk" creationdate="20140927T134151Z">
         <seg>Выдатна\! Цяпер зноў краніце цэнтральную траціну, каб схаваць гэтую падказку й элемэнты кіраваньня. Калі ж Вы жадаеце пакінуць іх на экране, то пастаўце птушку «Паказваць паліцу дзеяньняў» у разьдзеле «Выгляд» наладаў. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where to search for books</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103928Z" creationid="usievalad" creationdate="20150904T103928Z">
+        <seg>Дзе шукаць кнігі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where to search for fonts</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T103932Z" creationid="usievalad" creationdate="20150904T103932Z">
+        <seg>Дзе шукаць шрыфты</seg>
       </tuv>
     </tu>
     <tu>
