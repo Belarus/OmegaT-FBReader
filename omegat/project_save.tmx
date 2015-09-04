@@ -1398,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Column spacing</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105117Z" creationid="usievalad" creationdate="20150904T105117Z">
+        <seg>Міжслупковая адлегласьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Configure your catalogs</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T103317Z" creationid="usievalad" creationdate="20150904T103317Z">
@@ -2918,6 +2926,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Font size (percent from regular text)</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104941Z" creationid="usievalad" creationdate="20150904T104941Z">
+        <seg>Памер шрыфту (працэнт ад звычайнага тэксту)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Font size difference</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T232755Z">
@@ -2982,6 +2998,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Footer (old style)</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105017Z" creationid="usievalad" creationdate="20150904T105010Z">
+        <seg>Прыпятак (стары выгляд)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Footer background</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105028Z" creationid="usievalad" creationdate="20150904T105028Z">
+        <seg>Фон прыпятка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Footer color</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T212930Z">
@@ -2998,6 +3030,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Footer line</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105049Z" creationid="usievalad" creationdate="20150904T105049Z">
+        <seg>Лінія прыпятка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Footer text</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105042Z" creationid="usievalad" creationdate="20150904T105042Z">
+        <seg>Тэкст прыпятка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Footnote</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233453Z">
@@ -3010,6 +3058,22 @@
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T104720Z" creationid="usievalad" creationdate="20150904T104720Z">
         <seg>Вокны зносак, інш.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For all internal links</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104850Z" creationid="usievalad" creationdate="20150904T104850Z">
+        <seg>Для ўсіх унутраных спасылак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For footnotes and superscript links</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104834Z" creationid="usievalad" creationdate="20150904T104834Z">
+        <seg>Для зносак і надрадковых спасылак</seg>
       </tuv>
     </tu>
     <tu>
@@ -3081,6 +3145,14 @@
         <seg>Full screen</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20141001T071303Z" creationid="eratyk" creationdate="20141001T071303Z">
+        <seg>Поўны экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fullscreen</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104946Z" creationid="usievalad" creationdate="20150904T104946Z">
         <seg>Поўны экран</seg>
       </tuv>
     </tu>
@@ -3374,6 +3446,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Horizontal footer (old style)</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T105131Z" creationid="usievalad" creationdate="20150904T105131Z">
+        <seg>Гарызантальны прыпятак (стары выгляд)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Horizontal scrolling</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T225252Z">
@@ -3386,6 +3466,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075732Z">
         <seg>Вузел %s недаступны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How long to display link popup</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T104916Z" creationid="usievalad" creationdate="20150904T104916Z">
+        <seg>Колькі паказваць зьвязанае выкно</seg>
       </tuv>
     </tu>
     <tu>
