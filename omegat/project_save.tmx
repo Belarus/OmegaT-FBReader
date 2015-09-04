@@ -1232,16 +1232,16 @@
       <tuv lang="en">
         <seg>Cannot load account details</seg>
       </tuv>
-      <tuv lang="be" changeid="usievalad" changedate="20150904T103358Z" creationid="usievalad" creationdate="20150904T103358Z">
-        <seg>Немагчыма заладаваць зьвесткі рахунку</seg>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T110256Z" creationid="usievalad" creationdate="20150904T103358Z">
+        <seg>Немагчыма заладаваць зьвесткі конту</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Cannot load account state</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121012T202148Z">
-        <seg>Немагчыма заладаваць стану рахунку</seg>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T110230Z">
+        <seg>Немагчыма заладаваць стану конту</seg>
       </tuv>
     </tu>
     <tu>
@@ -2474,6 +2474,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T132926Z" creationid="eratyk" creationdate="20140831T132926Z">
         <seg>Рэдагаваньне галоўнае тэчкі можа прывесьці да страты зьвестак. Працягнуць?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Email</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T110049Z" creationid="usievalad" creationdate="20150904T110049Z">
+        <seg>Электронны адрас</seg>
       </tuv>
     </tu>
     <tu>
@@ -5182,6 +5190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Recover account information</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T110308Z" creationid="usievalad" creationdate="20150904T110141Z">
+        <seg>Аднавіць інфармацыю конту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Red</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075436Z">
@@ -5670,6 +5686,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select another email</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T110332Z" creationid="usievalad" creationdate="20150904T110332Z">
+        <seg>Выбраць іншы электронны адрас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select file…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T161838Z" creationid="eratyk" creationdate="20140831T161838Z">
@@ -6046,6 +6070,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sign in manually</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T110320Z" creationid="usievalad" creationdate="20150904T110320Z">
+        <seg>Увайсьці ўручную</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sign out (%s)</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121019T191027Z">
@@ -6058,6 +6090,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T125825Z">
         <seg>Зарэгістравацца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Signing in</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T110054Z" creationid="usievalad" creationdate="20150904T110054Z">
+        <seg>Уваход</seg>
       </tuv>
     </tu>
     <tu>
@@ -7158,6 +7198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to sign in with email\n%s</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T110125Z" creationid="usievalad" creationdate="20150904T110125Z">
+        <seg>Немагчыма ўвайсьці з электронным адрасам\n%s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Underlined</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234130Z">
@@ -7248,8 +7296,8 @@
       <tuv lang="en">
         <seg>Updating account information. Please, wait…</seg>
       </tuv>
-      <tuv lang="be" changeid="eratyk" changedate="20121013T214534Z">
-        <seg>Абнаўленьне інфармацыі рахунку. Калі ласка, пачакайце…</seg>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T110249Z">
+        <seg>Абнаўленьне інфармацыі конту. Калі ласка, пачакайце…</seg>
       </tuv>
     </tu>
     <tu>
