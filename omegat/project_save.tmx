@@ -4622,6 +4622,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Looking for more books?</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T113656Z" creationid="usievalad" creationdate="20150904T113656Z">
+        <seg>Шукаеце больш кніг?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Louder (lower) key turns to previous (next) page</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T132646Z">
@@ -6766,6 +6774,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start reading.</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T113502Z" creationid="usievalad" creationdate="20150904T113502Z">
+        <seg>Пачніце чытаць.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start screen</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T103645Z" creationid="usievalad" creationdate="20150904T103645Z">
@@ -8118,6 +8134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Want to start reading right away? Click any cover below to download and open the book. To return to this text, select “Start Screen” in the menu.</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T113649Z" creationid="usievalad" creationdate="20150904T113649Z">
+        <seg>Жадаеце пачаць чытаньне проста зараз? Выберыце любую кнігу ніжэй, каб зладаваць і адчыніць яе. Каб вярнуцца да гэтага тэксту, выберыце «Пачатковы экран» у мэню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We created a LitRes account for you. Detailed information has been sent to %s.</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T110436Z" creationid="usievalad" creationdate="20150904T110436Z">
@@ -8394,6 +8418,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T224420Z">
         <seg>хуткая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>fbreader-action:networkLibrary</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T113658Z" creationid="usievalad" creationdate="20150904T113658Z">
+        <seg>fbreader-action:networkLibrary</seg>
       </tuv>
     </tu>
     <tu>
