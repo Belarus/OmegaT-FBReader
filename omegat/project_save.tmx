@@ -4910,6 +4910,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Need help?</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T120426Z" creationid="usievalad" creationdate="20150904T120426Z">
+        <seg>Патрэбна дапамога?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Network error</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075807Z">
@@ -7502,6 +7510,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This introduction can't possibly describe all of FBReader's outstanding features. We've yet to mention the rich set of &lt;a0&gt;FBReader Settings&lt;/a0&gt;, &lt;a1&gt;Calibre Integration&lt;/a1&gt;, and other plugins like &lt;a2&gt;Reading Aloud&lt;/a2&gt; by &lt;a3&gt;Hyperionics&lt;/a3&gt;. For news about these features, details of our monthly updates, and more, please visit &lt;a4&gt;our site&lt;/a4&gt; or &lt;a5&gt;follow us on social networks&lt;/a5&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T120415Z" creationid="usievalad" creationdate="20150904T120415Z">
+        <seg>Гэтыя ўводзіны ня могуць раскрыць усе магчымасьці FBReader. Мы мусім згадаць вялікі набор &lt;a0&gt;налад FBReader&lt;/a0&gt;, &lt;a1&gt;інтэграцыю Calibre&lt;/a1&gt; і ўбудовы накшталт &lt;a2&gt;чытаньня ўслых&lt;/a2&gt; ад &lt;a3&gt;Hyperionics&lt;/a3&gt;. Каб быць у курсе навін аб гэтых магчымасьцх, абнаўленьнях і іншым, наведвайце &lt;a4&gt;наш сайт&lt;/a4&gt; ці &lt;a5&gt;сачыце за намі ў сацыяльных сетках&lt;/a5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is not an OPDS catalog</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130054Z">
@@ -8722,6 +8738,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T232837Z">
         <seg>курсіўны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>mailto:contact@fbreader.org</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T120427Z" creationid="usievalad" creationdate="20150904T120427Z">
+        <seg>mailto:contact@fbreader.org</seg>
       </tuv>
     </tu>
     <tu>
