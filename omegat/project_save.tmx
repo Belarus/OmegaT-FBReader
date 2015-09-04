@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After upgrading to FBReader Premium once, you can enjoy its features on all your devices. All your settings will be transferred to the Premium version automatically.</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T123321Z" creationid="usievalad" creationdate="20150904T123321Z">
+        <seg>Аднойчы абнавіўшыся ад FBReader Прэміюм, вы зможаце выкарыстоўваць усе яго магчымасьці на ўсіх сваіх прыладах. Усе вашыя налады будуць аўтаматычна скапіяваныя ў прэміюмную вэрсію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alignment</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T230728Z">
@@ -3198,6 +3206,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to connect to host %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T123430Z" creationid="usievalad" creationdate="20150904T123430Z">
+        <seg>Не ўдалося злучыцца з вузлом «%s»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to create directory %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T123408Z" creationid="usievalad" creationdate="20150904T123354Z">
+        <seg>Не ўдалося стварыць тэчку «%s»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to create file %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T123416Z" creationid="usievalad" creationdate="20150904T123416Z">
+        <seg>Не ўдалося стварыць файл «%s»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to resolve host %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T123446Z" creationid="usievalad" creationdate="20150904T123446Z">
+        <seg>Не ўдалося знайсьці вузел «%s»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to unzip book for external use</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T133157Z" creationid="eratyk" creationdate="20140831T133157Z">
@@ -5374,6 +5414,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Operation has timed out</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T123338Z" creationid="usievalad" creationdate="20150904T123338Z">
+        <seg>Апэрацыя пратэрмінаваная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Operation is timed out</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075747Z">
@@ -5784,8 +5832,8 @@
       <tuv lang="en">
         <seg>Reasons to buy: &lt;br0/&gt;&amp;bullet; Built-in support for PDF and comic book formats (CBR, CBZ). &lt;br1/&gt;&amp;bullet; Thumbnail library view. 100% ad-free. (You can revert to classic library view if you prefer.) &lt;br2/&gt;&amp;bullet; Google Translate integration: just select a phrase and choose the translation icon from the popup menu. &lt;br3/&gt;&amp;bullet; Your purchase supports the FBReader project, allowing more and more new features to be added to both the Free and Premium versions of the app.</seg>
       </tuv>
-      <tuv lang="be" changeid="usievalad" changedate="20150904T123103Z" creationid="usievalad" creationdate="20150904T122727Z">
-        <seg>Прычыны для куплі: &lt;br0/&gt;&amp;bullet; Убудаваня падтрымка PDF і коміксаў (CBR, CBZ). &lt;br1/&gt;&amp;bullet; Бібліятэка ў выглядзе мініятур. 100% без рэклямы. (вы можаце выбраць старыя выгляд бібліятэкі, калі захочаце). &lt;br2/&gt;&amp;bullet; Інтэграцыя Google Translate: проста вылучайце фразу і націскайец кнопку перакладу ў выплыўным мэню. &lt;br3/&gt;&amp;bullet; Вашая купля дапаможа разьвіцьцю праекту FBReader, дазваляючы нараджацца новым магчымасьцям для бясплатнай і прэміюм вэрсій праграмы.</seg>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T123333Z" creationid="usievalad" creationdate="20150904T122727Z">
+        <seg>Прычыны для куплі: &lt;br0/&gt;&amp;bullet; Убудаваня падтрымка PDF і коміксаў (CBR, CBZ). &lt;br1/&gt;&amp;bullet; Бібліятэка ў выглядзе мініятур. 100% без рэклямы. (вы можаце выбраць старыя выгляд бібліятэкі, калі захочаце). &lt;br2/&gt;&amp;bullet; Інтэграцыя Google Translate: проста вылучайце фразу і націскайец кнопку перакладу ў выплыўным мэню. &lt;br3/&gt;&amp;bullet; Вашая купля дапаможа разьвіцьцю праекту FBReader, дазваляючы нараджацца новым магчымасьцям для бясплатнай і прэміюмнай вэрсій праграмы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6858,6 +6906,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T131603Z">
         <seg>Нешта ня так з «%s»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Something went wrong with %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T123351Z" creationid="usievalad" creationdate="20150904T123342Z">
+        <seg>Нешта пайшло ня так з «%s»</seg>
       </tuv>
     </tu>
     <tu>
