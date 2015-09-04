@@ -1,3 +1,13 @@
+import com.sun.xml.internal.stream.events.CommentEvent;
+
+import javax.xml.namespace.QName;
+import javax.xml.stream.XMLEventFactory;
+import javax.xml.stream.XMLEventReader;
+import javax.xml.stream.XMLEventWriter;
+import javax.xml.stream.XMLInputFactory;
+import javax.xml.stream.XMLOutputFactory;
+import javax.xml.stream.events.Attribute;
+import javax.xml.stream.events.XMLEvent;
 import java.io.BufferedInputStream;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -8,24 +18,13 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Properties;
 
-import javax.xml.namespace.QName;
-import javax.xml.stream.XMLEventFactory;
-import javax.xml.stream.XMLEventReader;
-import javax.xml.stream.XMLEventWriter;
-import javax.xml.stream.XMLInputFactory;
-import javax.xml.stream.XMLOutputFactory;
-import javax.xml.stream.events.Attribute;
-import javax.xml.stream.events.XMLEvent;
-
-import com.sun.xml.internal.stream.events.CommentEvent;
-
 public class CreateTarget {
 
     public static void main(String[] args) throws Exception {
-        parse("../source/Android/2.1/FBReader-en.xml", "../target/Android/2.1/FBReader-en.ini",
-                "../target/Android/2.1/FBReader-be.xml");
-        parse("../source/Android/2.1/zlibrary-en.xml", "../target/Android/2.1/zlibrary-en.ini",
-                "../target/Android/2.1/zlibrary-be.xml");
+        parse("../source/Android/2.6/FBReader-en_US.xml", "../target/Android/2.6/FBReader-en_US.ini",
+                "../target/Android/2.6/FBReader-be.xml");
+        parse("../source/Android/2.6/zlibrary-en_US.xml", "../target/Android/2.6/zlibrary-en_US.ini",
+                "../target/Android/2.6/zlibrary-be.xml");
         parse("../source/Desktop/FBReader-en.xml", "../target/Desktop/FBReader-en.ini",
                 "../target/Desktop/FBReader-be.xml");
         parse("../source/Desktop/zlibrary-en.xml", "../target/Desktop/zlibrary-en.ini",
