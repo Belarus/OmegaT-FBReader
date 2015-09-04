@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1 second</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112803Z" creationid="usievalad" creationdate="20150904T112803Z">
+        <seg>1 сэкунда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;&lt;l1&gt;FBReader&lt;/l1&gt;&lt;/a0&gt; &lt;b2&gt;About FBReaderJ&lt;/b2&gt; &lt;l3&gt;en&lt;/l3&gt;</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T072202Z">
@@ -370,6 +378,14 @@
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T104430Z" creationid="usievalad" creationdate="20150904T104430Z">
         <seg>Даваць экрану гаснуць, калі прылада зараджаецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allow your device to act as server</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112727Z" creationid="usievalad" creationdate="20150904T112727Z">
+        <seg>Дазваляць прыладзе дзейнічаць як сэрвэру</seg>
       </tuv>
     </tu>
     <tu>
@@ -1238,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calibre connection</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112630Z" creationid="usievalad" creationdate="20150904T112630Z">
+        <seg>Злучэньне з Calibre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075443Z">
@@ -1314,6 +1338,14 @@
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T111944Z" creationid="usievalad" creationdate="20150904T111944Z">
         <seg>Немагчыма праверыць ліцэнзію %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot write to FBReader cache. Please check that your memory card is inserted correctly, or select another directory.</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112508Z" creationid="usievalad" creationdate="20150904T112508Z">
+        <seg>Запіс у кэш FBReader. Калі ласка, пераканайцеся, што карта памяці ўстаўлена правільна, альбо выберыце іншую тэчку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1518,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comic Books</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112737Z" creationid="usievalad" creationdate="20150904T112737Z">
+        <seg>Коміксы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Configure translation</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T105836Z" creationid="usievalad" creationdate="20150904T105836Z">
@@ -1538,6 +1578,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130525Z" creationid="eratyk" creationdate="20140831T130525Z">
         <seg>Наладзьце Ваш сьпіс каталёгаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Connect to Calibre server in your local network</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112700Z" creationid="usievalad" creationdate="20150904T112700Z">
+        <seg>Злучыцца з сэрвэрам Calibre ў вашай лякальнай сетцы</seg>
       </tuv>
     </tu>
     <tu>
@@ -2834,6 +2882,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T083524Z">
         <seg>FBReader ня можа заладаваць родную бібліятэку. Магчыма, яна няправільна ўсталяваная. Калі праблема застаецца, калі ласка, паспрабуйце пераўсталяваць FBReader.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FBReader cannot load native library. If the issue persists, please reinstall FBReader.</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112529Z" creationid="usievalad" creationdate="20150904T112529Z">
+        <seg>FBReader ня можа заладаваць родную бібліятэку. Калі праблема застаецца, калі ласка, паспрабуйце пераўсталяваць FBReader.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5394,6 +5450,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140927T141853Z" creationid="eratyk" creationdate="20140927T141853Z">
         <seg>Чытаньне кніг фармату PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Read comic books (CBR, CBZ)</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112755Z" creationid="usievalad" creationdate="20150904T112755Z">
+        <seg>Чытаць коміксы (CBR, CBZ)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8274,6 +8338,14 @@
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T105711Z" creationid="usievalad" creationdate="20150904T105711Z">
         <seg>https\://fbreader.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https\://fbreader.org/faq-page</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112532Z" creationid="usievalad" creationdate="20150904T112532Z">
+        <seg>https\://fbreader.org/faq-page</seg>
       </tuv>
     </tu>
     <tu>
