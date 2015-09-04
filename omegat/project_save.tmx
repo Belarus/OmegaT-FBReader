@@ -790,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Book '%s' is not found on the device</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112322Z" creationid="usievalad" creationdate="20150904T112322Z">
+        <seg>Кніга «%s» ня знойдзена на прыладзе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Book '%s' is not found on the device, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140927T140300Z" creationid="eratyk" creationdate="20140927T140300Z">
@@ -1286,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot open this book at the moment</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112211Z" creationid="usievalad" creationdate="20150904T112211Z">
+        <seg>Немагчыма адчыніць гэтую кнігу зараз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot open this book at the moment, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214734Z">
@@ -1306,6 +1322,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T133728Z" creationid="eratyk" creationdate="20140831T133728Z">
         <seg>Каталянская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Catalog is empty</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112252Z" creationid="usievalad" creationdate="20150904T112252Z">
+        <seg>Каталёг пусты</seg>
       </tuv>
     </tu>
     <tu>
@@ -1718,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default browser</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112325Z" creationid="usievalad" creationdate="20150904T112325Z">
+        <seg>Стандартны аглядальнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Definition</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T233030Z">
@@ -1882,6 +1914,14 @@
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T105349Z" creationid="usievalad" creationdate="20150904T105349Z">
         <seg>Слоўнік і пераклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionary is not installed</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112217Z" creationid="usievalad" creationdate="20150904T112217Z">
+        <seg>Слоўнік не ўсталяваны</seg>
       </tuv>
     </tu>
     <tu>
@@ -4718,6 +4758,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No books found</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112302Z" creationid="usievalad" creationdate="20150904T112302Z">
+        <seg>Кнігі ня знойдзеныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No books found, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T215000Z">
@@ -4770,6 +4818,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130049Z">
         <seg>Няма зарэгістраванага карыстальніка\nз азначаным электронным адрасам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No video player installed on this device</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112315Z" creationid="usievalad" creationdate="20150904T112315Z">
+        <seg>На прыладзе не ўсталяваны прайгравальнік</seg>
       </tuv>
     </tu>
     <tu>
@@ -7078,10 +7134,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are no books in series</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112239Z" creationid="usievalad" creationdate="20150904T112239Z">
+        <seg>Няма кніг з сэрыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are no books in series, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T133014Z" creationid="eratyk" creationdate="20140831T133014Z">
         <seg>Няма кніг з сэрыі, прабачце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are no matching bookmarks</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112203Z" creationid="usievalad" creationdate="20150904T112203Z">
+        <seg>Няма адпаведных закладак</seg>
       </tuv>
     </tu>
     <tu>
@@ -7814,6 +7886,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Video service is not available</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112308Z" creationid="usievalad" creationdate="20150904T112308Z">
+        <seg>Відэаслужба недаступная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Video service is not available, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140927T140155Z" creationid="eratyk" creationdate="20140927T140155Z">
@@ -8046,10 +8126,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Your basket is empty</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112257Z" creationid="usievalad" creationdate="20150904T112257Z">
+        <seg>Ваш кошык пусты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Your basket is empty, sorry</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T214929Z">
         <seg>Ваш кошык пусты, прабачце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your favorites list is empty</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T112230Z" creationid="usievalad" creationdate="20150904T112230Z">
+        <seg>Ваш сьпіс упадабанага пусты</seg>
       </tuv>
     </tu>
     <tu>
