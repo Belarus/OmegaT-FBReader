@@ -3806,6 +3806,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>German (traditional spelling)</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T123507Z" creationid="usievalad" creationdate="20150904T123507Z">
+        <seg>Нямецкая мова (традыцыйны правапіс)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go Back</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074553Z">
@@ -4462,6 +4470,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Korean</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T123511Z" creationid="usievalad" creationdate="20150904T123511Z">
+        <seg>Карэйская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Landscape</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T075451Z">
@@ -5038,6 +5054,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Network is not available</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T123456Z" creationid="usievalad" creationdate="20150904T123456Z">
+        <seg>Сетка недаступная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Network library</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074713Z">
@@ -5278,10 +5302,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Off</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T123522Z" creationid="usievalad" creationdate="20150904T123522Z">
+        <seg>Выключана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ok</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T075447Z">
         <seg>Добра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T123518Z" creationid="usievalad" creationdate="20150904T123518Z">
+        <seg>Уключана</seg>
       </tuv>
     </tu>
     <tu>
@@ -8058,6 +8098,14 @@
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T110125Z" creationid="usievalad" creationdate="20150904T110125Z">
         <seg>Немагчыма ўвайсьці з электронным адрасам\n%s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unchanged</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20150904T123534Z" creationid="usievalad" creationdate="20150904T123534Z">
+        <seg>Ня зьменена</seg>
       </tuv>
     </tu>
     <tu>
