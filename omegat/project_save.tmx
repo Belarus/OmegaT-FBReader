@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ask if online translation fails</seg>
+      </tuv>
+      <tuv lang="be" changeid="aniby" changedate="20150905T152051Z" creationid="aniby" creationdate="20150905T152051Z">
+        <seg>Спытаць, калі сеткавы пераклад няўдалы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Authenticating. Please wait…</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T111122Z" creationid="usievalad" creationdate="20150904T111122Z">
@@ -818,6 +826,14 @@
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T105522Z" creationid="usievalad" creationdate="20150904T105522Z">
         <seg>Аўтаматычна вызначаць мову</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automatically, if online translation fails</seg>
+      </tuv>
+      <tuv lang="be" changeid="aniby" changedate="20150905T152039Z" creationid="aniby" creationdate="20150905T152039Z">
+        <seg>Самарушна, калі сеткавы пераклад няўдалы</seg>
       </tuv>
     </tu>
     <tu>
@@ -1946,6 +1962,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074021Z">
         <seg>Дзень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Day/Night</seg>
+      </tuv>
+      <tuv lang="be" changeid="aniby" changedate="20150905T151900Z" creationid="aniby" creationdate="20150905T151900Z">
+        <seg>Дзень/ноч</seg>
       </tuv>
     </tu>
     <tu>
@@ -3918,6 +3942,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Google Translate\: use offline translator (if installed)</seg>
+      </tuv>
+      <tuv lang="be" changeid="aniby" changedate="20150905T152008Z" creationid="aniby" creationdate="20150905T151928Z">
+        <seg>Google Translate\: карыстаць пазасеткавы пераклад, калі ўсталяваны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Greek</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T081031Z">
@@ -4822,6 +4854,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Main menu items</seg>
+      </tuv>
+      <tuv lang="be" changeid="aniby" changedate="20150905T152120Z" creationid="aniby" creationdate="20150905T152120Z">
+        <seg>Элемэнты галоўнага мэню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Manage catalogs</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130429Z" creationid="eratyk" creationdate="20140831T130429Z">
@@ -4890,6 +4930,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071334Z">
         <seg>Карта памяці ўстаўленая ў прыладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu</seg>
+      </tuv>
+      <tuv lang="be" changeid="aniby" changedate="20150905T152056Z" creationid="aniby" creationdate="20150905T152056Z">
+        <seg>Мэню</seg>
       </tuv>
     </tu>
     <tu>
@@ -5306,6 +5354,14 @@
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T123522Z" creationid="usievalad" creationdate="20150904T123522Z">
         <seg>Выключана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Offline</seg>
+      </tuv>
+      <tuv lang="be" changeid="aniby" changedate="20150905T151850Z" creationid="aniby" creationdate="20150905T151850Z">
+        <seg>Па-за сеткай</seg>
       </tuv>
     </tu>
     <tu>
@@ -8698,6 +8754,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T074035Z">
         <seg>Наблізіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Zoom in/out</seg>
+      </tuv>
+      <tuv lang="be" changeid="aniby" changedate="20150905T151921Z" creationid="aniby" creationdate="20150905T151921Z">
+        <seg>Набліжэньне</seg>
       </tuv>
     </tu>
     <tu>
