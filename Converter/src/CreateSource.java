@@ -14,7 +14,7 @@ public class CreateSource {
 
     public static void main(String[] args) throws Exception {
         parse("../source/Android/2.6/FBReader-en_US.xml", "../source/Android/2.6/FBReader-en_US.ini");
-        parse("../source/Android/2.6/zlibrary-en_US.xml", "../source/Android/2.1/zlibrary-en_US.ini");
+        parse("../source/Android/2.6/zlibrary-en_US.xml", "../source/Android/2.6/zlibrary-en_US.ini");
         parse("../source/Desktop/FBReader-en.xml", "../source/Desktop/FBReader-en.ini");
         parse("../source/Desktop/zlibrary-en.xml", "../source/Desktop/zlibrary-en.ini");
     }
