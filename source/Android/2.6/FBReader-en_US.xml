@@ -258,8 +258,9 @@
 		<node name="saveText" value="Save text"/>
 		<node name="editStyle" value="Edit style…"/>
 	</node>
-	<node name="footnoteToast">
+	<node name="toast">
 		<node name="more" value="More"/>
+		<node name="offline" value="Offline" toBeTranslated="true"/>
 	</node>
 	<node name="cancelMenu">
 		<node name="library" value="Open library"/>
@@ -297,6 +298,7 @@
 		<node name="toc" value="TOC"/>
 		<node name="day" value="Day"/>
 		<node name="night" value="Night"/>
+		<node name="dayNight" value="Day/Night" toBeTranslated="true"/>
 		<node name="yotaSwitchToBackScreen" value="Switch to back screen"/>
 		<node name="yotaSwitchToFrontScreen" value="Switch to front screen"/>
 		<node name="networkLibrary" value="Network library"/>
@@ -323,6 +325,7 @@
 		<node name="screenOrientationReverseLandscape" value="Reverse landscape"/>
 		<node name="increaseFont" value="Zoom in"/>
 		<node name="decreaseFont" value="Zoom out"/>
+		<node name="changeFontSize" value="Zoom in/out" toBeTranslated="true"/>
 		<node name="toggleFullscreen" value="Fullscreen mode"/>
 		<node name="bookmarks" value="Bookmarks"/>
 		<node name="help" value="Help"/>
@@ -769,6 +772,12 @@
 			<node name="summary" value="Translation settings"/>
 			<node name="dictionary" value="Look up single word in"/>
 			<node name="translator" value="Translate phrases via"/>
+			<node name="translateOffline" value="Google Translate: use offline translator (if installed)" toBeTranslated="true">
+				<node name="always" value="Always" toBeTranslated="true"/>
+				<node name="onError" value="Automatically, if online translation fails" toBeTranslated="true"/>
+				<node name="ask" value="Ask if online translation fails" toBeTranslated="true"/>
+				<node name="never" value="Never" toBeTranslated="true"/>
+			</node>
 			<node name="translationToastDuration" value="How long to show translation popup"/>
 			<node name="errorToastDuration" value="How long to show error message"/>
 			<node name="sourceLanguage" value="Translate from">
@@ -805,6 +814,11 @@
 				<node name="summaryOn" value="Adjust image color to background"/>
 				<node name="summaryOff" value="Do not adjust image color"/>
 			</node>
+		</node>
+		<node name="menu" value="Menu" toBeTranslated="true">
+			<node name="summary" value="Main menu items" toBeTranslated="true"/>
+			<node name="enabled" value="Enabled"/>
+			<node name="disabled" value="Disabled"/>
 		</node>
 		<node name="cancelMenu" value="Cancel menu">
 			<node name="summary" value="Back button action list"/>
@@ -1191,5 +1205,13 @@
 	<node name="premium" value="FBReader Premium Edition">
 		<node name="shortTitle" value="FBReader Premium" toBeTranslated="true"/>
 		<node name="conflict" value="Both FBReader and FBReader Premium appear to be installed. Which one would you like to run?" toBeTranslated="true"/>
+	</node>
+	<node name="widget">
+		<node name="simple">
+			<node name="selectIcon" value="Select widget icon" toBeTranslated="true"/>
+			<node name="selectAction" value="Select action" toBeTranslated="true"/>
+			<node name="book" value="Read book" toBeTranslated="true"/>
+			<node name="library" value="Open library" toBeTranslated="true"/>
+		</node>
 	</node>
 </resources>
