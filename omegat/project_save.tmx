@@ -5854,6 +5854,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Read book</seg>
+      </tuv>
+      <tuv lang="be" changeid="aniby" changedate="20150905T152211Z" creationid="aniby" creationdate="20150905T152211Z">
+        <seg>Чытаць кнігу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Read book text</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T234335Z">
@@ -6498,6 +6506,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T161838Z" creationid="eratyk" creationdate="20140831T161838Z">
         <seg>Выбраць файл…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select widget icon</seg>
+      </tuv>
+      <tuv lang="be" changeid="aniby" changedate="20150905T152159Z" creationid="aniby" creationdate="20150905T152159Z">
+        <seg>Выбраць значок віджэта</seg>
       </tuv>
     </tu>
     <tu>
