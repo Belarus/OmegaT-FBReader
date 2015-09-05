@@ -424,8 +424,8 @@
       <tuv lang="en">
         <seg>After upgrading to FBReader Premium once, you can enjoy its features on all your devices. All your settings will be transferred to the Premium version automatically.</seg>
       </tuv>
-      <tuv lang="be" changeid="usievalad" changedate="20150904T123321Z" creationid="usievalad" creationdate="20150904T123321Z">
-        <seg>Аднойчы абнавіўшыся ад FBReader Прэміюм, вы зможаце выкарыстоўваць усе яго магчымасьці на ўсіх сваіх прыладах. Усе вашыя налады будуць аўтаматычна скапіяваныя ў прэміюмную вэрсію.</seg>
+      <tuv lang="be" changeid="aniby" changedate="20150905T152525Z" creationid="usievalad" creationdate="20150904T123321Z">
+        <seg>Аднойчы абнавіўшыся ад FBReader Прэміюм, Вы зможаце выкарыстоўваць усе яго магчымасьці на ўсіх сваіх прыладах. Усе Вашыя налады будуць аўтаматычна скапіяваныя ў прэміюмную вэрсію.</seg>
       </tuv>
     </tu>
     <tu>
@@ -592,8 +592,8 @@
       <tuv lang="en">
         <seg>Any of the books already saved to your device can be opened from the &lt;a0&gt;Library&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="be" changeid="usievalad" changedate="20150904T114030Z" creationid="usievalad" creationdate="20150904T114030Z">
-        <seg>Любую з кніг, захаваных на вашае прыладзе, можна адчыніць праз &lt;a0&gt;Бібліятэку&lt;/a0&gt;.</seg>
+      <tuv lang="be" changeid="aniby" changedate="20150905T152421Z" creationid="usievalad" creationdate="20150904T114030Z">
+        <seg>Любую з кніг, захаваных на Вашае прыладзе, можна адчыніць праз &lt;a0&gt;Бібліятэку&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1768,8 +1768,8 @@
       <tuv lang="en">
         <seg>Connect to Calibre server in your local network</seg>
       </tuv>
-      <tuv lang="be" changeid="usievalad" changedate="20150904T112700Z" creationid="usievalad" creationdate="20150904T112700Z">
-        <seg>Злучыцца з сэрвэрам Calibre ў вашай лякальнай сетцы</seg>
+      <tuv lang="be" changeid="aniby" changedate="20150905T152416Z" creationid="usievalad" creationdate="20150904T112700Z">
+        <seg>Злучыцца з сэрвэрам Calibre ў Вашай лякальнай сетцы</seg>
       </tuv>
     </tu>
     <tu>
@@ -7912,8 +7912,8 @@
       <tuv lang="en">
         <seg>Too many registrations from your IP address;\nplease try again in a few minutes</seg>
       </tuv>
-      <tuv lang="be" changeid="usievalad" changedate="20150904T111551Z" creationid="usievalad" creationdate="20150904T111551Z">
-        <seg>Зашмат рэгсітрацый з вашага адраса IP;\nкалі ласка, паспрабуйце пра пару хвілін</seg>
+      <tuv lang="be" changeid="aniby" changedate="20150905T152411Z" creationid="usievalad" creationdate="20150904T111551Z">
+        <seg>Зашмат рэгсітрацый з Вашага адраса IP;\nкалі ласка, паспрабуйце пра пару хвілін</seg>
       </tuv>
     </tu>
     <tu>
@@ -8528,8 +8528,8 @@
       <tuv lang="en">
         <seg>Want to copy your ebooks from a desktop to another device? Or maybe you want to store your downloaded books in a safe space? FBReader Book Network is a cloud storage service that uses Google Drive™. &lt;a0&gt;Enable synchronization&lt;/a0&gt; with the Book Network, and your book collection will be always available from any of your computers and mobile devices. Your books will be stored in your own space on Google Drive™. You can &lt;a1&gt;manage your collection&lt;/a1&gt; from any browser.</seg>
       </tuv>
-      <tuv lang="be" changeid="usievalad" changedate="20150904T114723Z" creationid="usievalad" creationdate="20150904T114723Z">
-        <seg>Жадаеце мець Вашыя кнігі адначасова на некалькіх прыладах? Ці, магчыма, хочаце захоўваць іх у бясьпечным месцы? Кніжная сетка FBReader — гэта воблачнае сховішча, якое выкарыстоўвае Дыск Google™. &lt;a0&gt;Уключыце сынхранізацыю&lt;/a0&gt; з кніжнай сеткай, і Вашая кнжная калекцыя будзе заўсёды даступная зь любой з вашых прылад. Вашыя кнігі будуць захаваныя ў вашым уласным месцы на Дыску Google™. Вы можаце кіраваць вашай калекцыяй зь любога аглядальніка.</seg>
+      <tuv lang="be" changeid="aniby" changedate="20150905T152439Z" creationid="usievalad" creationdate="20150904T114723Z">
+        <seg>Жадаеце мець Вашыя кнігі адначасова на некалькіх прыладах? Ці, магчыма, хочаце захоўваць іх у бясьпечным месцы? Кніжная сетка FBReader — гэта воблачнае сховішча, якое выкарыстоўвае Дыск Google™. &lt;a0&gt;Уключыце сынхранізацыю&lt;/a0&gt; з кніжнай сеткай, і Вашая кнжная калекцыя будзе заўсёды даступная зь любой з Вашых прылад. Вашыя кнігі будуць захаваныя ў Вашым уласным месцы на Дыску Google™. Вы можаце &lt;a1&gt;кіраваць Вашай калекцыяй&lt;/a1&gt; зь любога аглядальніка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8720,8 +8720,8 @@
       <tuv lang="en">
         <seg>Your account information was sent to %s. Please check your mailbox.</seg>
       </tuv>
-      <tuv lang="be" changeid="usievalad" changedate="20150904T110517Z" creationid="usievalad" creationdate="20150904T110517Z">
-        <seg>Інфармацыя пра ваш конт даслана на %s. Калі ласка, праверце Вашую пошту.</seg>
+      <tuv lang="be" changeid="aniby" changedate="20150905T152405Z" creationid="usievalad" creationdate="20150904T110517Z">
+        <seg>Інфармацыя пра Ваш конт даслана на %s. Калі ласка, праверце Вашую пошту.</seg>
       </tuv>
     </tu>
     <tu>
