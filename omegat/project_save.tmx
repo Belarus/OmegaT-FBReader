@@ -2966,6 +2966,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>English (UK)</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20151002T102340Z" creationid="usievalad" creationdate="20151002T102340Z">
+        <seg>Ангельская (Вялікая Брытанія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enjoy!</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121026T074854Z">
