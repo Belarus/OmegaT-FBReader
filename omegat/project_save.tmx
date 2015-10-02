@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9" segtype="paragraph" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="paragraph" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -674,6 +674,22 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T133835Z" creationid="eratyk" creationdate="20140831T133835Z">
         <seg>Армянская мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As page number</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20151002T101854Z" creationid="usievalad" creationdate="20151002T101854Z">
+        <seg>Як нумар старонкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As percentage</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20151002T101859Z" creationid="usievalad" creationdate="20151002T101859Z">
+        <seg>Як працэнт</seg>
       </tuv>
     </tu>
     <tu>
@@ -3174,6 +3190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FBReader settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20151002T101652Z" creationid="usievalad" creationdate="20151002T101652Z">
+        <seg>Налады FBReader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FBReader supports all popular text file formats. However, if you have a book in several formats, the best choice is &lt;c0&gt;ePub&lt;/c0&gt;, &lt;c1&gt;mobi&lt;/c1&gt; (a.k.a. &lt;c2&gt;azw3&lt;/c2&gt; or &lt;c3&gt;kindle&lt;/c3&gt;), or &lt;c4&gt;fb2&lt;/c4&gt;. Please keep in mind that FBReader is a free reader, and therefore does not open DRM-protected books. Non-text formats like &lt;c5&gt;PDF&lt;/c5&gt; or &lt;c6&gt;DjVu&lt;/c6&gt; are supported by FBReader plugins.</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T115601Z" creationid="usievalad" creationdate="20150904T115601Z">
@@ -4918,10 +4942,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Maximum number of TOC marks to display</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20151002T101749Z" creationid="usievalad" creationdate="20151002T101749Z">
+        <seg>Найбольшая колькасьць пазнак зьместу для паказу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Memory card</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121014T071340Z">
         <seg>Карта памяці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Memory card \#%s</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20151002T101636Z" creationid="usievalad" creationdate="20151002T101636Z">
+        <seg>Карта памяці \#%s</seg>
       </tuv>
     </tu>
     <tu>
@@ -6818,6 +6858,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T132604Z">
         <seg>Паказваць нумар старонкі ў прыпятку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show reading progress</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20151002T101844Z" creationid="usievalad" creationdate="20151002T101844Z">
+        <seg>Паказваць прагрэс чытаньня</seg>
       </tuv>
     </tu>
     <tu>
