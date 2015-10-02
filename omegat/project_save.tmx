@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As page number and percentage</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20151002T101910Z" creationid="usievalad" creationdate="20151002T101910Z">
+        <seg>Як нумар старонкі і працэнт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As percentage</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20151002T101859Z" creationid="usievalad" creationdate="20151002T101859Z">
@@ -2742,6 +2750,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>E.g.\: -2px, 10pt, -0.8em, 1.1ex, -40%</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20151002T101935Z" creationid="usievalad" creationdate="20151002T101935Z">
+        <seg>Напрыклад\: -2px, 10pt, -0.8em, 1.1ex, -40%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>E.g.\: -2px, 10pt, -0.8em, 1.1ex, -40%%</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140927T150352Z" creationid="eratyk" creationdate="20140927T150352Z">
@@ -2750,10 +2766,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>E.g.\: 125%</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20151002T101943Z" creationid="usievalad" creationdate="20151002T101943Z">
+        <seg>Напрыклад\: 125%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>E.g.\: 125%%</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140927T150404Z" creationid="eratyk" creationdate="20140927T150404Z">
         <seg>Узор\: 125%%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>E.g.\: 20px, 10pt, 0.8em, 1ex, 120%</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20151002T101927Z" creationid="usievalad" creationdate="20151002T101927Z">
+        <seg>Напрыклад\: 20px, 10pt, 0.8em, 1ex, 120%</seg>
       </tuv>
     </tu>
     <tu>
