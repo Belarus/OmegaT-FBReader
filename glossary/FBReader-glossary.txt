@@ -10,13 +10,15 @@ device	прылада
 sensitive	адчувальны
 system	сыстэма
 TOC	зьмест
-share	абагуліць/абагульваць
+share	абагуліць
+share	абагульваць
 book	кніга
 search	пошук
 search	шукаць
-file	файл -а
+file	файл
 DRM	DRM	кіраваньне лічбавымі правамі
-protect	абараніць/абараняць
+protect	абараніць
+protect	абараняць
 protected	абаронены
 unknown	невядомы
 error	памылка
@@ -25,26 +27,33 @@ compression	сьціск
 method	спосаб
 enter	уводзіць
 manually	уручную
-URL	URL	тэрмін
-URL	адрас -у	прастамоўнае
-add	дадаць/дадаваць
+URL	URL
+URL	адрас
+add	дадаваць
+add	дадаць
 catalog	каталёг
 custom	дапасаваны
-OPDS	OPDS	адкрытая сыстэма дастаўленьня публікацыяў
+OPDS	адкрытая сыстэма дастаўленьня публікацыяў
+OPDS	OPDS
 basket	кошык
 downloaded	зладаваны
 is being downloaded	зладоўваецца
 sample	узор
-select	абраць/абіраць	абраць адзін са сьпісу
-select	вылучыць/вылучаць	вылучыць некалькі са сьпісу, абсяг, плошчу, тэкст
+select	абраць	абраць адзін са сьпісу
+select	абіраць	абіраць адзін са сьпісу
+select	вылучаць	вылучыць некалькі са сьпісу, абсяг, плошчу, тэкст
+select	вылучыць	вылучыць некалькі са сьпісу, абсяг, плошчу, тэкст
 action	дзеяньне
-create	стварыць/ствараць
-directory	каталёг -у
-download	зладаваць/зладоўваць
+create	ствараць
+create	стварыць
+directory	каталёг
+download	зладаваць
+download	зладоўваць
 download	зладаваньне
 failed	няўдалы
 failed	не ўдалося
-complete	скончыць/сканчаць
+complete	сканчаць
+complete	скончыць
 downloading	зладваньне
 annotation	анатацыя
 author	аўтар
@@ -58,24 +67,28 @@ related	зьвязаны
 name	назва 	для неадушаўлёных
 name	імя	для адушаўлёных
 language	мова
-edit	адрэдаґаваць/рэдаґаваць
+edit	адрэдагаваць
+edit	рэдагаваць
 available	даступны
 size	памер
-byte	байт -а
-bytes	байты -аў
+byte	байт
+bytes	байты
 kB	кБ
 tag	цэтлік	агульнае
-tag	тэґ	элемэтнт праграмаваньня
+tag	тэг	элемэтнт праграмаваньня
 tags	цэтлікі	агульнае
-tags	тэґі	элемэтны праграмаваньня
+tags	тэгі	элемэтны праграмаваньня
 title	назва
 books	кнігі
-delete	выдаліць/выдаляць
-delete	прыбраць/прыбіраць	прыбіраюць элемэнт са сьпісу
+delete	выдаляць
+delete	выдаліць
+delete	прыбраць	прыбраць элемэнт са сьпісу
+delete	прыбіраць	прыбіраць элемэнт са сьпісу
 bookmark	закладка
 found	знойдзены
 new	новы
-open	адчыніць/адчыняць
+open	адчыняць
+open	адчыніць
 RTF	RTF	фармат з аздобленым тэкстам
 parsing	разбор
 error occured	адбылася памылка
@@ -90,7 +103,8 @@ format	фарматаваць
 is not supported	не падтрымліваецца
 Are you sure you want to	Вы сапраўды жадаеце
 cannot	немагчыма
-load	заладаваць/ладаваць
+load	заладаваць
+load	ладаваць
 state	стан
 account	рахунак	грашовы рахунак
 account	конт	профіль карыстальніка
@@ -99,18 +113,23 @@ required	патрабуецца
 purchase	набыць/набываць
 purchase	набытак
 back	назад
-close	зачыніць/зачыняць
+close	зачыняць
+close	зачыніць
 forward	наперад
 forward	перанакіраваць/перанакіроўваць
 previous	папярэдні
-return	вярнуцца/вяртацца
-cache	кэш -у
+return	вяртацца
+return	вярнуцца
+cache	кэш
 accessible	даступны
 not accessible	недаступны
 writing	запіс
-insert	уставіць/устаўляць
-unmount	адмацаваць/адмацоўваць
-mount	прымацаваць/прымацоўваць
+insert	устаўляць
+insert	уставіць
+unmount	адмацоўваць
+unmount	адмацаваць
+mount	прымацоўваць
+mount	прымацаваць
 memory	памяць
 card	карта
 memory card	карта памяці
@@ -121,33 +140,48 @@ below	ніжэй
 native	родны
 properly	правільна
 installed	усталяваны
-reinstall	пераўсталяваць/пераўсталёўваць
+reinstall	пераўсталёўваць
+reinstall	пераўсталяваць
 username	імя карыстальніка
 password	пароль
-sign up	зарэґістравацца/рэґістравацца
+sign up	рэґістравацца
+sign up	зарэґістравацца
 authentication	спраўджаньне
 unencrypted	незашыфраваны
 encrypted	зашыфраваны
-authorize	упаўнаважыцца/упаўнаважвацца
-buy	купіць/купляць
-continue	працягнуць/працягваць
-install	усталяваць/усталёўваць
-read	прачытаць/чытаць
-pay	заплаціць/плаціць
-refresh	абнавіць/абнаўляць
-reload	перазаладаваць/перазаладоўваць
-reset	скінуць/скідваць
+authorize	упаўнаважвацца
+authorize	упаўнаважыцца
+buy	купляць
+buy	купіць
+continue	працягваць
+continue	працягнуць
+install	усталёўваць
+install	усталяваць
+read	чытаць
+read	прачытаць
+pay	плаціць
+pay	заплаціць
+refresh	абнаўляць
+refresh	абнавіць
+reload	перазаладоўваць
+reload	перазаладаваць
+reset	скінуць
+reset	скідваць
 position	пазыцыя
-send	даслаць/дасылаць
+send	даслаць
+send	дасылаць
 report	справаздача
-skip	прапусьціць/прапускаць
-top up	папоўніць/папаўняць
-try again	паспрабаваць/спрабаваць
+skip	прапускаць
+skip	прапусьціць
+top up	папаўняць
+top up	папоўніць
+try	спрабаваць
+try	паспрабаваць
 again	зноў
 update	абнавіць
 summary	падсумаваньне
 e.g.	прыклад
-project	праект -у
+project	праект
 Gutenberg	Ґутэнбэрґ
 invalid	хібны
 specified	азначаны
@@ -155,7 +189,7 @@ specify	азначаць
 site	сайт
 is in use	выкарыстоўваецца
 Would you like to	Жадаеце	Would you like to install …? → Жадаеце ўсталяваць …?
-dictionary	слоўнік -у
+dictionary	слоўнік	-у
 filter	фільтар
 purchased	набыты
 limit	мяжа
@@ -168,13 +202,13 @@ e-mail address	электронны адрас
 registered	зарэґістраваны
 missing	адсутнічае
 not enough	бракуе
-money	ґрошы
+money	грошы
 operation	апэрацыя
 don't ask again	не пытаць зноў
-redownload	перазладаваць/перазладоўваць
+redownload	перазладоўваць
+redownload	перазладаваць
 exists	існуе
 don't show again	не паказваць зноў
-tips	падказкі
 tip	падказка
 daily	штодзённы
 expected	чаканы
@@ -195,65 +229,82 @@ favorites	упадабанае
 permission	дазвол
 deny	адмовіць/адмаўляць
 permission denied	адмоўлена ў дазволе
-text	тэкст -у
-browser	аглядальнік -а
+text	тэкст	-у
+browser	аглядальнік	-а
 default	стандарт
 default	стандартны
 by default	па стандарце
 sorted	адсартаваны
-sort	адсартаваць/сартаваць
+sort	адсартаваць
+sort	сартаваць
 series	сэрыя
-selected	вылучаны	некалькі са сьпісу, абсяг, плошчу, тэкст
+selected	вылучаны	некалькі са сьпісу, абсяг, плошча, тэкст
 selected	выбраны	адзін са сьпісу
-browse	агледзець/аглядаць
+browse	аглядаць
+browse	агледзець
 tree	дрэва
 inserted	устаўлены
 results	вынікі
 result	вынік
-day	дзень, дню
+day	дзень
 zoom out	падаліць
 zoom in	наблізіць
-go to	перайсьці ў/да
-start	пачаць/пачынаць
+go to	перайсьці да
+go to	перайсьці ў
+start	пачаць
+start	пачынаць
 start	пачатак
-document	дакумэнт -а
-page	бачына
+document	дакумэнт	-а
+page	старонка
 section	разьдзел
-end	скончыць/сканчаць
+end	скончыць
+end	сканчаць
 end	канец
-rotate	павярнуць/паварочваць
+rotate	паварочваць
+rotate	павярнуць
 reverse	перавернуты
 full	поўны
 DRM	DRM	кіраваньне лічбавымі правамі
 date	дата
-clear	ачысьціць/ачышчаць
+clear	ачысьціць
+clear	ачышчаць
 clear	чысты
 Do you want to	 	Do you want to install …? → Усталяваць …?
 local	лякальны
-copy	скапіяваць/капіяваць
+copy	капіяваць
+copy	скапіяваць
 copy	копія
-sign in	увайсьці/уваходзіць
-sign out	выйсьці/выходзіць
-remove	выдаліць/выдаляць
-remove	прыбраць/прыбіраць	прыбіраюць элемэнт са сьпісу
+sign in	увайсьці
+sign in	уваходзіць
+sign out	выходзіць
+sign out	выйсьці
+remove	выдаляць
+remove	выдаліць
+remove	прыбіраць	прыбіраць элемэнт са сьпісу
+remove	прыбраць	прыбраць элемэнт са сьпісу
 automatic	самарушны
 rotation	паварочваньне
 catalogs	каталёгі
 stopping	спыненьне
-stop	спыніць/спыняць
-visit	наведаць/наведваць
-website	(сеціўны) сайт
+stop	спыняць
+stop	спыніць
+visit	наведваць
+visit	наведаць
+website	сайт	сеціўны
 version	вэрсія
 contacts	кантакты
-contact	зьвязацца/зьвязвацца
+contact	зьвязвацца
+contact	зьвязацца
 contact	кантакт
 disabled	выключаны
 dragging	перацягваньне
-drag	перацягнуць/перацягваць
+drag	перацягваць
+drag	перацягнуць
 brightness	яркасьць
 adjustment	рэґуляваньне
 user	карыстальнік
-disable	выключыць/выключаць
+disable	выключыць
+disable	выключаць
 button	кнопка
 light	сьвятло
 lights	сьвятло
@@ -263,21 +314,27 @@ level	узровень
 percent	адсотак
 charging	зараджаньне
 mode	рэжым
-switch off	выключыць/выключаць
-switch	пераключыць/пераключаць
+switch off	выключаць
+switch off	выключыць
+switch	пераключаць
+switch	пераключыць
 status	стан
 bar	паліца
 item	элемэнт
-show	паказаць/паказваць
+show	паказваць
+show	паказаць
 active	актыўны
 menu	мэню
 appearance	выгляд
-cancel	скасаваць/касаваць
-navigate	перайсьці/пераходзіць
+cancel	касаваць
+cancel	скасаваць
+navigate	пераходзіць
+navigate	перайсьці
 key	клявіша
 key	ключ
-press	націснуць/націскаць
-positions	пазыцыі
+press	націснуць
+press	націскаць
+position	пазыцыя
 list	сьпіс
 solid	суцэльны
 color	колер
@@ -293,3 +350,4 @@ wallpaper	шпалеры
 wallpapers	шпалеры
 navigate	ісьці
 slider	лятунок
+progress	прагрэс
