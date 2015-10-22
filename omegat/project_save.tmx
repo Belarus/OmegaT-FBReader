@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>%s is not licensed. Purchase on Google Play now?</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20151022T090056Z" creationid="usievalad" creationdate="20151022T090056Z">
+        <seg>%s не ліцэнзавана. Купіць зараз на Google Play?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>%s kB</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201256Z">
@@ -802,6 +810,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121013T083817Z">
         <seg>Упаўнаважыцца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Authors</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20151022T085953Z" creationid="usievalad" creationdate="20151022T085953Z">
+        <seg>Аўтары</seg>
       </tuv>
     </tu>
     <tu>
@@ -1522,6 +1538,14 @@
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T111944Z" creationid="usievalad" creationdate="20150904T111944Z">
         <seg>Немагчыма праверыць ліцэнзію %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot verify %s license. Try again?</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20151022T090116Z" creationid="usievalad" creationdate="20151022T090116Z">
+        <seg>Немагчыма праверыць ліцэнзію %s. Паспрабаваць зноў?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2846,6 +2870,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit author</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20151022T090010Z" creationid="usievalad" creationdate="20151022T090010Z">
+        <seg>Рэдагаваць аўтара</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit bookmark</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T125857Z">
@@ -2870,10 +2902,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit style</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20151022T085909Z" creationid="usievalad" creationdate="20151022T085909Z">
+        <seg>Рэдагаваць стыль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit style…</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130909Z" creationid="eratyk" creationdate="20140831T130909Z">
         <seg>Рэдагаваць стыль…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit tag</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20151022T085945Z" creationid="usievalad" creationdate="20151022T085945Z">
+        <seg>Рэдагаваць цэтлік</seg>
       </tuv>
     </tu>
     <tu>
@@ -3982,6 +4030,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go to page</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20151022T085917Z" creationid="usievalad" creationdate="20151022T085917Z">
+        <seg>Перайсьці да старонкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go to page…</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T103649Z" creationid="usievalad" creationdate="20150904T103649Z">
@@ -4678,6 +4734,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>License verification</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20151022T090106Z" creationid="usievalad" creationdate="20151022T090106Z">
+        <seg>Праверка ліцэнзіі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line Spacing</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121025T232901Z">
@@ -5046,6 +5110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Missing plugin</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20151022T090026Z" creationid="usievalad" creationdate="20151022T090026Z">
+        <seg>Адсутнічае ўбудова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>More</seg>
       </tuv>
       <tuv lang="be" changeid="usievalad" changedate="20150904T103545Z" creationid="usievalad" creationdate="20150904T103545Z">
@@ -5378,6 +5450,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20140831T130046Z">
         <seg>Бракуе грошай</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not licensed</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20151022T090038Z" creationid="usievalad" creationdate="20151022T090038Z">
+        <seg>Не ліцэнзавана</seg>
       </tuv>
     </tu>
     <tu>
@@ -7638,6 +7718,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Table of contents</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20151022T085914Z" creationid="usievalad" creationdate="20151022T085914Z">
+        <seg>Зьмест</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tag(s)</seg>
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201403Z">
@@ -7650,6 +7738,14 @@
       </tuv>
       <tuv lang="be" changeid="eratyk" changedate="20121012T201356Z">
         <seg>Цэтлік\:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tags</seg>
+      </tuv>
+      <tuv lang="be" changeid="usievalad" changedate="20151022T085921Z" creationid="usievalad" creationdate="20151022T085921Z">
+        <seg>Цэтлікі</seg>
       </tuv>
     </tu>
     <tu>
